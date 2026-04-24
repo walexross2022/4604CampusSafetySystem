@@ -592,6 +592,24 @@ def create_user():
 
 
 
+#demo load button
+import subprocess
+from flask import redirect, url_for, flash, session
+
+@app.route('/load_2026')
+def load_2026():
+    if session.get('role') != 'admin':
+        flash("Unauthorized access.")
+        return redirect(url_for('home'))
+
+    try:
+        subprocess.run(['python', 'LCI2026pdfs.py'], check=True)
+        flash("2026 incidents successfully loaded.")
+    except Exception as e:
+        flash(f"Error loading data: {e}")
+
+    return redirect(url_for('incidents', year=2026))
+
 
 
 

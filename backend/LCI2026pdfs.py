@@ -296,7 +296,10 @@ def load_clean_data(df):
 # =========================
 all_data = []
 
-base_folder = "2026Logs"
+import os
+
+base_folder = os.path.join(os.path.dirname(__file__), "..", "2026Logs")
+base_folder = os.path.abspath(base_folder)
 
 for file in os.listdir(base_folder):
     if file.endswith(".pdf") and file.startswith("file_2026"):

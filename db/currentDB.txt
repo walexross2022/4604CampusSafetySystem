@@ -1,0 +1,276 @@
+CREATE DATABASE IF NOT EXISTS incident_reporting;
+USE incident_reporting;
+
+-- MySQL dump 10.13  Distrib 8.0.45, for Win64 (x86_64)
+--
+-- Host: localhost    Database: incident_reporting
+-- ------------------------------------------------------
+-- Server version	9.6.0
+
+/*!40101 SET @OLD_CHARACTER_SET_CLIENT=@@CHARACTER_SET_CLIENT */;
+/*!40101 SET @OLD_CHARACTER_SET_RESULTS=@@CHARACTER_SET_RESULTS */;
+/*!40101 SET @OLD_COLLATION_CONNECTION=@@COLLATION_CONNECTION */;
+/*!50503 SET NAMES utf8 */;
+/*!40103 SET @OLD_TIME_ZONE=@@TIME_ZONE */;
+/*!40103 SET TIME_ZONE='+00:00' */;
+/*!40014 SET @OLD_UNIQUE_CHECKS=@@UNIQUE_CHECKS, UNIQUE_CHECKS=0 */;
+/*!40014 SET @OLD_FOREIGN_KEY_CHECKS=@@FOREIGN_KEY_CHECKS, FOREIGN_KEY_CHECKS=0 */;
+/*!40101 SET @OLD_SQL_MODE=@@SQL_MODE, SQL_MODE='NO_AUTO_VALUE_ON_ZERO' */;
+/*!40111 SET @OLD_SQL_NOTES=@@SQL_NOTES, SQL_NOTES=0 */;
+SET @MYSQLDUMP_TEMP_LOG_BIN = @@SESSION.SQL_LOG_BIN;
+SET @@SESSION.SQL_LOG_BIN= 0;
+
+--
+-- GTID state at the beginning of the backup 
+--
+
+
+
+-- SET @@GLOBAL.GTID_PURGED=/*!80000 '+'*/ 'c502d3d8-132f-11f1-9a6b-749779806c96:1-113';
+
+--
+-- Table structure for table `campus`
+--
+
+DROP TABLE IF EXISTS `campus`;
+/*!40101 SET @saved_cs_client     = @@character_set_client */;
+/*!50503 SET character_set_client = utf8mb4 */;
+CREATE TABLE `campus` (
+  `campus_id` int NOT NULL AUTO_INCREMENT,
+  `campus_name` varchar(100) NOT NULL,
+  `campus_city` varchar(100) NOT NULL,
+  `campus_state` char(2) NOT NULL,
+  PRIMARY KEY (`campus_id`)
+) ENGINE=InnoDB AUTO_INCREMENT=2 DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_0900_ai_ci;
+/*!40101 SET character_set_client = @saved_cs_client */;
+
+--
+-- Dumping data for table `campus`
+--
+
+LOCK TABLES `campus` WRITE;
+/*!40000 ALTER TABLE `campus` DISABLE KEYS */;
+INSERT INTO `campus` VALUES (1,'Virginia Tech','Blacksburg','VA');
+/*!40000 ALTER TABLE `campus` ENABLE KEYS */;
+UNLOCK TABLES;
+
+--
+-- Table structure for table `disposition`
+--
+
+DROP TABLE IF EXISTS `disposition`;
+/*!40101 SET @saved_cs_client     = @@character_set_client */;
+/*!50503 SET character_set_client = utf8mb4 */;
+CREATE TABLE `disposition` (
+  `disposition_id` int NOT NULL AUTO_INCREMENT,
+  `disposition_type` enum('Active','Inactive','Unfounded','Referred','Cleared by Arrest') NOT NULL,
+  `referred_to` varchar(100) DEFAULT NULL,
+  PRIMARY KEY (`disposition_id`)
+) ENGINE=InnoDB AUTO_INCREMENT=7 DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_0900_ai_ci;
+/*!40101 SET character_set_client = @saved_cs_client */;
+
+--
+-- Dumping data for table `disposition`
+--
+
+LOCK TABLES `disposition` WRITE;
+/*!40000 ALTER TABLE `disposition` DISABLE KEYS */;
+INSERT INTO `disposition` VALUES (1,'Active',NULL),(2,'Inactive',NULL),(3,'Cleared by Arrest',NULL),(4,'Inactive','Student Conduct'),(5,'Cleared by Arrest','Student Conduct'),(6,'Inactive','Title IX');
+/*!40000 ALTER TABLE `disposition` ENABLE KEYS */;
+UNLOCK TABLES;
+
+--
+-- Table structure for table `incident`
+--
+
+DROP TABLE IF EXISTS `incident`;
+/*!40101 SET @saved_cs_client     = @@character_set_client */;
+/*!50503 SET character_set_client = utf8mb4 */;
+CREATE TABLE `incident` (
+  `incident_id` int NOT NULL AUTO_INCREMENT,
+  `case_number` varchar(20) NOT NULL,
+  `date_reported` date NOT NULL,
+  `occurence_start_date` date DEFAULT NULL,
+  `occurence_end_date` date DEFAULT NULL,
+  `occurence_start_time` time DEFAULT NULL,
+  `occurence_end_time` time DEFAULT NULL,
+  `location_id` int DEFAULT NULL,
+  `agency_id` int NOT NULL,
+  `disposition_id` int DEFAULT NULL,
+  PRIMARY KEY (`incident_id`),
+  UNIQUE KEY `unique_case_per_agency` (`case_number`,`agency_id`),
+  KEY `location_id` (`location_id`),
+  KEY `agency_id` (`agency_id`),
+  KEY `disposition_id` (`disposition_id`),
+  CONSTRAINT `incident_ibfk_1` FOREIGN KEY (`location_id`) REFERENCES `location` (`location_id`),
+  CONSTRAINT `incident_ibfk_2` FOREIGN KEY (`agency_id`) REFERENCES `reporting_agency` (`agency_id`),
+  CONSTRAINT `incident_ibfk_3` FOREIGN KEY (`disposition_id`) REFERENCES `disposition` (`disposition_id`)
+) ENGINE=InnoDB AUTO_INCREMENT=11 DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_0900_ai_ci;
+/*!40101 SET character_set_client = @saved_cs_client */;
+
+--
+-- Dumping data for table `incident`
+--
+
+LOCK TABLES `incident` WRITE;
+/*!40000 ALTER TABLE `incident` DISABLE KEYS */;
+INSERT INTO `incident` VALUES (1,'2026-25','2026-01-02','2026-01-02',NULL,'01:00:00','06:05:00',11,1,3),(2,'2026-98','2026-01-05','2025-12-19','2026-01-05','00:00:00','09:31:00',1,1,2),(3,'2026-325','2026-01-10','2026-01-03',NULL,'00:45:00','00:05:00',2,1,2),(4,'2026-805','2026-01-17','2026-01-17',NULL,'23:56:00',NULL,6,1,5),(5,'2026-959','2026-01-20','2026-01-20',NULL,'09:37:00',NULL,7,1,3),(6,'2026-1013','2026-01-21','2026-01-21',NULL,'01:57:00','02:16:00',7,1,5),(7,'2026-1060','2026-01-21','2025-11-05',NULL,'12:00:00','14:00:00',5,1,4),(8,'2026-1037','2026-01-21','2025-12-16','2026-01-18','13:35:00','14:11:00',8,1,2),(9,'2026-1230','2026-01-23','2026-01-22',NULL,'00:30:00','01:30:00',9,1,1),(10,'2026-1746','2026-01-31','2026-01-31',NULL,'22:31:00',NULL,5,1,1);
+/*!40000 ALTER TABLE `incident` ENABLE KEYS */;
+UNLOCK TABLES;
+
+--
+-- Table structure for table `incident_offense`
+--
+
+DROP TABLE IF EXISTS `incident_offense`;
+/*!40101 SET @saved_cs_client     = @@character_set_client */;
+/*!50503 SET character_set_client = utf8mb4 */;
+CREATE TABLE `incident_offense` (
+  `incident_id` int NOT NULL,
+  `offense_id` int NOT NULL,
+  PRIMARY KEY (`incident_id`,`offense_id`),
+  KEY `offense_id` (`offense_id`),
+  CONSTRAINT `incident_offense_ibfk_1` FOREIGN KEY (`incident_id`) REFERENCES `incident` (`incident_id`),
+  CONSTRAINT `incident_offense_ibfk_2` FOREIGN KEY (`offense_id`) REFERENCES `offense` (`offense_id`)
+) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_0900_ai_ci;
+/*!40101 SET character_set_client = @saved_cs_client */;
+
+--
+-- Dumping data for table `incident_offense`
+--
+
+LOCK TABLES `incident_offense` WRITE;
+/*!40000 ALTER TABLE `incident_offense` DISABLE KEYS */;
+INSERT INTO `incident_offense` VALUES (1,1),(2,2),(3,3),(4,4),(4,6),(4,7),(5,8),(5,9),(6,10),(7,11),(8,12),(9,15),(9,16),(10,17),(9,19);
+/*!40000 ALTER TABLE `incident_offense` ENABLE KEYS */;
+UNLOCK TABLES;
+
+--
+-- Table structure for table `location`
+--
+
+DROP TABLE IF EXISTS `location`;
+/*!40101 SET @saved_cs_client     = @@character_set_client */;
+/*!50503 SET character_set_client = utf8mb4 */;
+CREATE TABLE `location` (
+  `location_id` int NOT NULL AUTO_INCREMENT,
+  `location_name` varchar(100) DEFAULT NULL,
+  `street_address` varchar(200) DEFAULT NULL,
+  `location_type` varchar(50) DEFAULT NULL,
+  `on_campus` tinyint(1) NOT NULL,
+  `campus_id` int DEFAULT NULL,
+  `city` varchar(100) DEFAULT NULL,
+  `state` char(2) NOT NULL,
+  `zip_code` varchar(10) DEFAULT NULL,
+  PRIMARY KEY (`location_id`),
+  KEY `campus_id` (`campus_id`),
+  CONSTRAINT `location_ibfk_1` FOREIGN KEY (`campus_id`) REFERENCES `campus` (`campus_id`),
+  CONSTRAINT `chk_campus` CHECK (((`on_campus` = false) or (`campus_id` is not null)))
+) ENGINE=InnoDB AUTO_INCREMENT=22 DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_0900_ai_ci;
+/*!40101 SET character_set_client = @saved_cs_client */;
+
+--
+-- Dumping data for table `location`
+--
+
+LOCK TABLES `location` WRITE;
+/*!40000 ALTER TABLE `location` DISABLE KEYS */;
+INSERT INTO `location` VALUES (1,'West Ambler Johnston Hall','720 Washington Street SW',NULL,1,1,'Blacksburg','VA','24061'),(2,'Public Safety Building','330 Sterrett Drive',NULL,1,1,'Blacksburg','VA','24061'),(3,'Cochrane Hall','770 Washington Street',NULL,1,1,'Blacksburg','VA','24061'),(4,'Main Eggleston Hall','440 Drillfield Drive',NULL,1,1,'Blacksburg','VA','24061'),(5,'Dietrick Hall','285 Ag Quad Lane',NULL,1,1,'Blacksburg','VA','24061'),(6,'Outside the Burg Restaurant','204 Draper Road NW',NULL,0,NULL,'Blacksburg','VA','24060'),(7,'Surge Space Building','400 Stanger Street',NULL,1,1,'Blacksburg','VA','24061'),(8,'O\'Shaughnessy Hall','530 Washington Street SW',NULL,1,1,'Blacksburg','VA','24061'),(9,'Pritchard Hall','630 Washington Street SW',NULL,1,1,'Blacksburg','VA','24061'),(10,'Hoge Hall','570 Washington Street SW',NULL,1,1,'Blacksburg','VA','24061'),(11,'Cookout','1311 South Main Street',NULL,0,NULL,'Blacksburg','VA','24060'),(12,'Graduate Life Center Lot','170 Otey Street NW',NULL,1,1,'Blacksburg','VA','24061'),(13,'Engle Lot','240 West Campus Drive',NULL,1,1,'Blacksburg','VA','24061'),(14,'Harper Hall','240 West Campus Drive',NULL,1,1,'Blacksburg','VA','24061'),(15,'Goodwin Hall','635 Prices Fork Road',NULL,1,1,'Blacksburg','VA','24061'),(16,'New Classroom Building','1455 Perry Street',NULL,1,1,'Blacksburg','VA','24061'),(17,'Henderson Hall','195 Alumni Mall',NULL,1,1,'Blacksburg','VA','24061'),(18,'Vawter Hall','180 Kent Street',NULL,1,1,'Blacksburg','VA','24061'),(19,'East Ambler Johnston Hall','700 Washington Street SW',NULL,1,1,'Blacksburg','VA','24061'),(20,'Duck Pond',NULL,NULL,1,1,'Blacksburg','VA','24061'),(21,'McComas Hall','895 Washington Street SW',NULL,1,1,'Blacksburg','VA','24061');
+/*!40000 ALTER TABLE `location` ENABLE KEYS */;
+UNLOCK TABLES;
+
+--
+-- Table structure for table `offense`
+--
+
+DROP TABLE IF EXISTS `offense`;
+/*!40101 SET @saved_cs_client     = @@character_set_client */;
+/*!50503 SET character_set_client = utf8mb4 */;
+CREATE TABLE `offense` (
+  `offense_id` int NOT NULL AUTO_INCREMENT,
+  `offense_name` varchar(100) NOT NULL,
+  `is_clery_reportable` tinyint(1) NOT NULL,
+  PRIMARY KEY (`offense_id`)
+) ENGINE=InnoDB AUTO_INCREMENT=21 DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_0900_ai_ci;
+/*!40101 SET character_set_client = @saved_cs_client */;
+
+--
+-- Dumping data for table `offense`
+--
+
+LOCK TABLES `offense` WRITE;
+/*!40000 ALTER TABLE `offense` DISABLE KEYS */;
+INSERT INTO `offense` VALUES (1,'Identity Fraud',0),(2,'Destruction of Property',0),(3,'Profane, Threatening Language Over Public Airway',0),(4,'Underage Possession of Alcohol',1),(5,'Persons Under 21 Driving After Consumption of Alcohol',0),(6,'Fake ID',0),(7,'Public Intoxication',0),(8,'Trespassing',0),(9,'Obstructing Justice',0),(10,'Driving Under the Influence of Alcohol',0),(11,'Aggravated Assault',1),(12,'Burglary',1),(13,'Petit Larceny',0),(14,'Hit and Run',0),(15,'Sex Offense - Rape',1),(16,'Sexual Battery',0),(17,'Stalking',1),(18,'Concealment, Price Alter Merchandise',0),(19,'Abduction and Kidnapping',0),(20,'Assault and Battery - Simple',0);
+/*!40000 ALTER TABLE `offense` ENABLE KEYS */;
+UNLOCK TABLES;
+
+--
+-- Table structure for table `reporting_agency`
+--
+
+DROP TABLE IF EXISTS `reporting_agency`;
+/*!40101 SET @saved_cs_client     = @@character_set_client */;
+/*!50503 SET character_set_client = utf8mb4 */;
+CREATE TABLE `reporting_agency` (
+  `agency_id` int NOT NULL AUTO_INCREMENT,
+  `agency_name` varchar(100) NOT NULL,
+  `jurisdiction` varchar(100) DEFAULT NULL,
+  PRIMARY KEY (`agency_id`)
+) ENGINE=InnoDB AUTO_INCREMENT=2 DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_0900_ai_ci;
+/*!40101 SET character_set_client = @saved_cs_client */;
+
+--
+-- Dumping data for table `reporting_agency`
+--
+
+LOCK TABLES `reporting_agency` WRITE;
+/*!40000 ALTER TABLE `reporting_agency` DISABLE KEYS */;
+INSERT INTO `reporting_agency` VALUES (1,'Virginia Tech Police Department','Virginia Tech Campus');
+/*!40000 ALTER TABLE `reporting_agency` ENABLE KEYS */;
+UNLOCK TABLES;
+SET @@SESSION.SQL_LOG_BIN = @MYSQLDUMP_TEMP_LOG_BIN;
+/*!40103 SET TIME_ZONE=@OLD_TIME_ZONE */;
+
+/*!40101 SET SQL_MODE=@OLD_SQL_MODE */;
+/*!40014 SET FOREIGN_KEY_CHECKS=@OLD_FOREIGN_KEY_CHECKS */;
+/*!40014 SET UNIQUE_CHECKS=@OLD_UNIQUE_CHECKS */;
+/*!40101 SET CHARACTER_SET_CLIENT=@OLD_CHARACTER_SET_CLIENT */;
+/*!40101 SET CHARACTER_SET_RESULTS=@OLD_CHARACTER_SET_RESULTS */;
+/*!40101 SET COLLATION_CONNECTION=@OLD_COLLATION_CONNECTION */;
+/*!40111 SET SQL_NOTES=@OLD_SQL_NOTES */;
+
+ALTER TABLE incident
+CHANGE occurence_start_date occurrence_start_date DATE;
+
+ALTER TABLE incident
+CHANGE occurence_start_time occurrence_start_time TIME;
+-- Dump completed on 2026-03-19 23:16:25
+
+USE incident_reporting;
+SHOW TABLES;
+
+SELECT i.case_number, o.offense_name
+FROM incident i
+JOIN incident_offense io ON i.incident_id = io.incident_id
+JOIN offense o ON io.offense_id = o.offense_id;USE incident_reporting;
+SHOW TABLES;
+
+SELECT i.case_number, o.offense_name
+FROM incident i
+JOIN incident_offense io ON i.incident_id = io.incident_id
+JOIN offense o ON io.offense_id = o.offense_id;
+
+
+SET SQL_SAFE_UPDATES = 0;
+
+CREATE TABLE users (
+    user_id INT AUTO_INCREMENT PRIMARY KEY,
+    username VARCHAR(50) UNIQUE NOT NULL,
+    password_hash VARCHAR(255) NOT NULL,
+    role ENUM('admin', 'user') DEFAULT 'user',
+    created_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP
+);
+
+UPDATE users
+SET role = 'admin'
+WHERE username = 'alexross';

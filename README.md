@@ -84,13 +84,13 @@ Data Integrity & Access Control
 Screenshots
 
 Homepage
-![Homepage](screenshots/homepage.png)
+![Homepage](docs/2026CampusIncidentsUI.png)
 
 All Incidents Table
-![Incidents](screenshots/incidents.png)
+![Incidents](docs/2026CampusIncidentsUI.png)
 
 Analytics View
-![Analytics](screenshots/analytics.png)
+![Analytics](docs/2026ChartsUI.png)
 
 *(Add screenshots in a `/screenshots` folder and update paths as needed)*
 

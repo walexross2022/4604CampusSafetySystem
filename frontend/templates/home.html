@@ -1,0 +1,200 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>VT Campus Safety System</title>
+
+    <!-- Bootstrap -->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
+
+    <style>
+        body {
+            background-color: #f5f5f5;
+        }
+
+        .header-bar {
+            background-color: #861F41;
+            color: white;
+            padding: 20px;
+        }
+
+        .card {
+            border-radius: 10px;
+        }
+
+        .section-title {
+            font-weight: bold;
+            margin-bottom: 10px;
+        }
+    </style>
+</head>
+
+<body>
+
+<!-- HEADER -->
+<div class="header-bar d-flex align-items-center justify-content-between px-4">
+
+    <!-- LEFT (empty spacer for centering) -->
+    <div style="width: 200px;"></div>
+
+    <!-- CENTER TITLE -->
+    <div class="text-center flex-grow-1">
+        <h2 class="mb-0">Virginia Tech Campus Safety & Incident Analytics System</h2>
+        <small>2026</small>
+    </div>
+
+    <!-- RIGHT USER + LOGOUT -->
+    <!-- RIGHT USER + LOGOUT -->
+    <div class="text-end" style="width: 200px;">
+        <div style="font-size: 0.9rem;">
+            Logged in as 
+            <strong>{{ session.get('username') }}</strong>
+
+            {% if session.get('role') == 'admin' %}
+                <span style="color: #FFD700;">(Admin)</span>
+            {% endif %}
+        </div>
+
+        <a href="{{ url_for('logout') }}" class="btn btn-dark btn-sm mt-1">
+            Logout
+        </a>
+    </div>
+
+</div>
+
+<div class="container mt-4">
+
+    <!-- INTRO CARD -->
+    <div class="card shadow-sm mb-4">
+        <div class="card-body text-center">
+            <h4>About This Application</h4>
+            <p class="mt-3">
+                This system provides an interactive platform for exploring campus crime data collected from 
+                Virginia Tech public safety reports. Users can view, sort, and analyze incidents across multiple years, 
+                gaining insights into crime trends, locations, and patterns over time.
+            </p>
+
+            <p>
+                Key features include dynamic data tables, filtering by year, and built-in analytics such as 
+                most common offenses and peak incident times. This application demonstrates how data systems 
+                can support safety awareness and decision-making through structured reporting and visualization.
+            </p>
+
+            <p class="mt-3">
+                <strong>Authors:</strong> Alex Ross, Jasmine Alabi, Aastha Paranthaman, Gayatri Kamtala
+            </p>
+        </div>
+    </div>
+
+    <!-- NAVIGATION -->
+    <div class="row">
+
+        <!-- YEAR VIEW -->
+        <div class="col-md-6">
+            <div class="card shadow-sm mb-4">
+                <div class="card-body text-center">
+                    <h5 class="section-title">View Logs by Year</h5>
+                    <a href="/year/2026" class="btn btn-dark w-75 mb-2">2026 Crime Logs</a>
+                    <a href="/year/2025" class="btn btn-dark w-75 mb-2">2025 Crime Logs</a>
+                    <a href="/year/2024" class="btn btn-dark w-75 mb-2">2024 Crime Logs</a>
+                    <a href="/year/2023" class="btn btn-dark w-75 mb-2">2023 Crime Logs</a>
+                    <a href="/year/2022" class="btn btn-dark w-75 mb-2">2022 Crime Logs</a>
+                </div>
+            </div>
+        </div>
+
+        <!-- ALL DATA -->
+        <div class="col-md-6">
+            <div class="card shadow-sm mb-4">
+                <div class="card-body text-center">
+                    <h5 class="section-title">Explore All Data</h5>
+
+                    <a href="/incidents_offenses" class="btn btn-dark w-75">
+                        View All Incidents & Offenses
+                    </a>
+                </div>
+            </div>
+        </div>
+
+    </div>
+
+</div>
+
+
+
+
+<div class="card mt-4">
+    <div class="card-body text-center">
+        <h5>Compare Years</h5>
+
+        <form action="/compare_years" method="GET" class="d-flex justify-content-center gap-2 mt-3">
+            <select name="year1" class="form-select w-auto">
+                <option value="2025">2025</option>
+                <option value="2026">2026</option>
+            </select>
+
+            <span class="align-self-center">vs</span>
+
+            <select name="year2" class="form-select w-auto">
+                <option value="2026">2026</option>
+                <option value="2025">2025</option>
+            </select>
+
+            <button type="submit" class="btn btn-dark">Compare</button>
+        </form>
+    </div>
+</div>
+
+
+
+
+
+<div class="container mt-4">
+
+    <div class="card shadow-sm mb-4">
+        <div class="card-body text-center">
+
+            <h5 class="section-title">Manage Data</h5>
+
+            <p class="mb-3">
+                Add new incidents or update existing records in the system.
+            </p>
+
+            {% if session.get('role') == 'admin' %}
+
+            <div class="d-flex justify-content-center gap-3">
+
+                <a href="/add_incident" class="btn btn-dark">
+                    Add Incident
+                </a>
+
+                <a href="/edit_incident_select" class="btn btn-dark">
+                    Edit Incident
+                </a>
+
+            </div>
+
+            {% else %}
+
+            <p class="text-muted">
+                Administrative privileges required to modify data.
+            </p>
+
+            {% endif %}
+
+        </div>
+    </div>
+
+</div>
+
+
+
+
+
+
+
+
+
+
+</body>
+</html>
+

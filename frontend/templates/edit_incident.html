@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Edit Incident</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
+</head>
+
+<body class="bg-light">
+
+<div class="container mt-5">
+    <div class="card shadow-sm">
+        <div class="card-body">
+
+            <h4 class="text-center mb-4">Edit Incident</h4>
+
+            <!-- UPDATE FORM -->
+            <form method="POST">
+
+                <div class="mb-3">
+                    <label>Case Number (Read Only)</label>
+                    <input class="form-control" value="{{ incident.case_number }}" disabled>
+                </div>
+
+                <div class="mb-3">
+                    <label>Date Reported</label>
+                    <input type="date" name="date_reported" class="form-control"
+                           value="{{ incident.date_reported }}">
+                </div>
+
+                <div class="mb-3">
+                    <label>Occurrence Date</label>
+                    <input type="date" name="occurrence_date" class="form-control"
+                           value="{{ incident.occurrence_start_date }}">
+                </div>
+
+                <div class="mb-3">
+                    <label>Occurrence Time</label>
+                    <input type="time" name="occurrence_time" class="form-control"
+                           value="{{ incident.occurrence_start_time }}">
+                </div>
+
+                <div class="mb-3">
+                    <label>Location</label>
+                    <input name="location_name" class="form-control"
+                           value="{{ incident.location_name }}">
+                </div>
+
+                <div class="mb-3">
+                    <label>Offense</label>
+                    <input name="offense_name" class="form-control"
+                           value="{{ incident.offense_name }}">
+                </div>
+
+                <div class="mb-3">
+                    <label>Disposition</label>
+                    <select name="disposition_type" class="form-control">
+                        <option value="Active" {% if incident.disposition_type == "Active" %}selected{% endif %}>Active</option>
+                        <option value="Inactive" {% if incident.disposition_type == "Inactive" %}selected{% endif %}>Inactive</option>
+                        <option value="Cleared by Arrest" {% if incident.disposition_type == "Cleared by Arrest" %}selected{% endif %}>Cleared by Arrest</option>
+                    </select>
+                </div>
+
+                <button class="btn btn-dark w-100">
+                    Update Incident
+                </button>
+
+            </form>
+
+            <!-- DELETE FORM (SEPARATE - IMPORTANT) -->
+            <form action="/delete_incident/{{ incident.incident_id }}" method="POST" class="mt-2">
+                <button class="btn btn-danger w-100"
+                        onclick="return confirm('Are you sure you want to delete this incident? This cannot be undone.')">
+                    Delete Incident
+                </button>
+            </form>
+
+        </div>
+    </div>
+</div>
+
+</body>
+</html>

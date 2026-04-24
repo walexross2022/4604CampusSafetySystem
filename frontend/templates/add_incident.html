@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Add Incident</title>
+
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
+</head>
+
+<body class="bg-light">
+
+<div class="container mt-5">
+
+    <div class="card shadow-sm">
+        <div class="card-body">
+
+            <h4 class="text-center mb-4">Add New Incident</h4>
+
+            <form method="POST">
+
+                <div class="mb-3">
+                    <label>Case Number</label>
+                    <input name="case_number" class="form-control" required>
+                </div>
+
+                <div class="mb-3">
+                    <label>Date Reported</label>
+                    <input type="date" name="date_reported" class="form-control" required>
+                </div>
+
+                <div class="mb-3">
+                    <label>Occurrence Date</label>
+                    <input type="date" name="occurrence_date" class="form-control" required>
+                </div>
+
+                <div class="mb-3">
+                    <label>Occurrence Time</label>
+                    <input type="time" name="occurrence_time" class="form-control">
+                </div>
+
+                <!-- LOCATION -->
+                <div class="mb-3">
+                    <label>Location</label>
+                    <input name="location_name" class="form-control" placeholder="Enter location">
+                </div>
+
+                <!-- OFFENSE -->
+                <div class="mb-3">
+                    <label>Offense</label>
+                    <input name="offense_name" class="form-control" placeholder="Enter offense">
+                </div>
+
+                <!-- DISPOSITION -->
+                <div class="mb-3">
+                    <label>Disposition</label>
+                    <select name="disposition_type" class="form-control" required>
+                        <option value="">-- Select Disposition --</option>
+
+                        <option value="Active">Active</option>
+                        <option value="Inactive">Inactive</option>
+                        <option value="Cleared by Arrest">Cleared by Arrest</option>
+
+                    </select>
+                </div>
+
+                <button class="btn btn-dark w-100">Add Incident</button>
+
+            </form>
+
+        </div>
+    </div>
+
+</div>
+
+</body>

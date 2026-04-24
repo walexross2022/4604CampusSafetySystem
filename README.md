@@ -1,10 +1,10 @@
-#Virginia Tech Campus Safety & Incident Analytics System
+Virginia Tech Campus Safety & Incident Analytics System
 
 A full-stack web application designed to collect, store, and analyze campus crime data from Virginia Tech police logs. This system acheives PDF data ingestion, stores structured records in a MySQL database, and provides an interactive web interface for querying and visualizing incidents.
 
 ---
 
-##Project Overview
+Project Overview
 
 This project was developed as part of a database systems course to demonstrate:
 
@@ -17,7 +17,7 @@ The system transforms raw campus police logs into a structured, queryable format
 
 ---
 
-##Tech Stack
+Tech Stack
 
 - **Backend:** Python (Flask)
 - **Database:** MySQL
@@ -28,9 +28,9 @@ The system transforms raw campus police logs into a structured, queryable format
 
 ---
 
-##Features
+Features
 
-###Data Ingestion
+Data Ingestion
 - Parses monthly campus police PDF logs
 - Extracts:
   - Case number
@@ -43,7 +43,7 @@ The system transforms raw campus police logs into a structured, queryable format
 
 ---
 
-###Relational Database Design
+Relational Database Design
 - Normalized schema with:
   - `incident`
   - `offense`
@@ -53,7 +53,7 @@ The system transforms raw campus police logs into a structured, queryable format
 
 ---
 
-###Web Interface
+Web Interface
 - View all incidents
 - Filter incidents by year (2024–2026)
 - Sort by:
@@ -64,7 +64,7 @@ The system transforms raw campus police logs into a structured, queryable format
 
 ---
 
-###Analytics Dashboard
+Analytics Dashboard
 - Total incidents count
 - Top 3 most common offenses
 - Most active time ranges (4-hour intervals)
@@ -74,31 +74,31 @@ The system transforms raw campus police logs into a structured, queryable format
 
 ---
 
-### Data Integrity & Access Control
+Data Integrity & Access Control
 
 - Role-based access system:
   - **Administrators** can add, edit, and delete records
   - **Regular users** have read-only access to incident data
 ---
 
-##Screenshots
+Screenshots
 
-###Homepage
+Homepage
 ![Homepage](screenshots/homepage.png)
 
-###All Incidents Table
+All Incidents Table
 ![Incidents](screenshots/incidents.png)
 
-###Analytics View
+Analytics View
 ![Analytics](screenshots/analytics.png)
 
 *(Add screenshots in a `/screenshots` folder and update paths as needed)*
 
 ---
 
-##Setup Instructions
+Setup Instructions
 
-###1. Clone Repository
+1. Clone Repository
 
 ```bash
 git clone https://github.com/your-username/4604CampusSafetySystem.git

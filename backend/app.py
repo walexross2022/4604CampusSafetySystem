@@ -513,6 +513,58 @@ def logout():
     session.clear()
     return redirect(url_for('login'))
 
+@app.route('/change_password', methods=['GET', 'POST'])
+def change_password():
+    # Must be logged in
+    if 'user_id' not in session:
+        return redirect(url_for('login'))
+
+    if request.method == 'POST':
+        current_password = request.form['current_password']
+        new_password = request.form['new_password']
+        confirm_password = request.form['confirm_password']
+
+        conn = get_db_connection()
+        cursor = conn.cursor(dictionary=True)
+
+        # Get current user
+        cursor.execute("SELECT * FROM users WHERE user_id = %s", (session['user_id'],))
+        user = cursor.fetchone()
+
+        # Check current password
+        if not bcrypt.checkpw(current_password.encode('utf-8'), user['password_hash'].encode('utf-8')):
+            flash("Current password is incorrect")
+            return redirect(url_for('change_password'))
+
+        # Check new password match
+        if new_password != confirm_password:
+            flash("New passwords do not match")
+            return redirect(url_for('change_password'))
+
+        # Hash new password
+        new_hashed = bcrypt.hashpw(new_password.encode('utf-8'), bcrypt.gensalt())
+
+        # Update DB
+        cursor.execute("""
+            UPDATE users
+            SET password_hash = %s
+            WHERE user_id = %s
+        """, (new_hashed, session['user_id']))
+        conn.commit()
+
+        flash("Password updated successfully")
+        return redirect(url_for('home'))
+
+    return render_template('change_password.html')
+
+
+
+
+
+
+
+
+
 
 
 @app.route('/add_incident', methods=['GET', 'POST'])

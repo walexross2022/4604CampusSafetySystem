@@ -19,12 +19,12 @@ The system transforms raw campus police logs into a structured, queryable format
 
 Tech Stack
 
-- **Backend:** Python (Flask)
-- **Database:** MySQL
-- **Frontend:** HTML, CSS, Jinja Templates
-- **Data Processing:** pandas, pdfplumber
-- **Visualization:** Chart.js
-- **Environment Management:** python-dotenv
+- Backend: Python (Flask)
+- Database: MySQL
+- Frontend: HTML, CSS, Jinja Templates
+- Data Processing: pandas, pdfplumber
+- Visualization: Chart.js
+- Environment Management: python-dotenv
 
 ---
 

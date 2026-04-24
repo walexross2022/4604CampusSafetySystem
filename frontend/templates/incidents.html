@@ -53,8 +53,20 @@
         {% endif %}
     </div>
 
+    {% if year == 2026 and session.get('role') == 'admin' and total_incidents < 50 %}
+    <div class="mb-3">
+        <a href="{{ url_for('load_2026') }}"
+        onclick="return confirm('Load 2026 incidents into the database?')"
+        class="btn btn-dark">
+            Load 2026 Incidents
+        </a>
+    </div>
+    {% endif %}
+
     <!-- ANALYTICS -->
     <div class="row mb-4">
+
+
 
         <!-- TOTAL -->
         <div class="col-md-4">

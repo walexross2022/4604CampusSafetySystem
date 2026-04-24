@@ -163,23 +163,27 @@
 
             {% if session.get('role') == 'admin' %}
 
-            <div class="d-flex justify-content-center gap-3">
+                <div class="d-flex justify-content-center gap-3">
 
-                <a href="/add_incident" class="btn btn-dark">
-                    Add Incident
-                </a>
+                    <a href="/add_incident" class="btn btn-dark">
+                        Add Incident
+                    </a>
 
-                <a href="/edit_incident_select" class="btn btn-dark">
-                    Edit Incident
-                </a>
+                    <a href="/edit_incident_select" class="btn btn-dark">
+                        Edit Incident
+                    </a>
 
-            </div>
+                    <a href="{{ url_for('create_user') }}" class="btn btn-dark">
+                        Create User
+                    </a>
+
+                </div>
 
             {% else %}
 
-            <p class="text-muted">
-                Administrative privileges required to modify data.
-            </p>
+                <p class="text-muted">
+                    Administrative privileges required to modify data.
+                </p>
 
             {% endif %}
 

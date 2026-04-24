@@ -557,7 +557,37 @@ def change_password():
 
     return render_template('change_password.html')
 
+@app.route('/create_user', methods=['GET', 'POST'])
+def create_user():
+    # Only admins allowed
+    if 'role' not in session or session['role'] != 'admin':
+        flash("Admin access required")
+        return redirect(url_for('home'))
 
+    if request.method == 'POST':
+        username = request.form['username']
+        password = request.form['password']
+        role = request.form['role']
+
+        hashed = bcrypt.hashpw(password.encode('utf-8'), bcrypt.gensalt())
+
+        conn = get_db_connection()
+        cursor = conn.cursor()
+
+        try:
+            cursor.execute("""
+                INSERT INTO users (username, password_hash, role)
+                VALUES (%s, %s, %s)
+            """, (username, hashed, role))
+            conn.commit()
+            flash("User created successfully")
+        except:
+            flash("Username already exists")
+            return redirect(url_for('create_user'))
+
+        return redirect(url_for('home'))
+
+    return render_template('create_user.html')
 
 
 

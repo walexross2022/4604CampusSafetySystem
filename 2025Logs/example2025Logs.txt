@@ -1,0 +1,1500 @@
+2025-900000 03/05/2025 Larceny Cassell Coliseum 03/04/2025 02:13 Inactive-Referred to Student Conduct
+2025-900001 04/22/2025 Underage Possession of Alcohol Torgersen Hall 04/09/2025 03:05 Cleared by Arrest
+2025-900002 09/08/2025 Extortion McBryde Hall 08/25/2025 03:36 Active
+2025-900003 05/31/2025 Underage Possession of Alcohol New Residence Hall East 05/28/2025 01:52 Inactive-Referred to Student Conduct
+2025-900004 03/17/2025 Larceny Lane Stadium 03/12/2025 21:59 Cleared by Arrest
+2025-900005 01/26/2025 Unauthorized Use of Vehicle Oak Lane 01/15/2025 08:48 Inactive-Referred to Student Conduct
+2025-900006 04/01/2025 Underage Possession of Alcohol West Campus Drive 03/20/2025 01:04 Inactive
+2025-900007 10/11/2025 Disorderly Conduct Media Building Lot 10/08/2025 01:45 Active
+2025-900008 10/30/2025 Urinating in Public Pritchard Hall 10/23/2025 06:30 Active
+2025-900009 08/05/2025 Trespassing Davidson Hall 08/02/2025 21:23 Inactive-Referred to Student Conduct
+2025-900010 11/21/2025 Fraud Roanoke Street 11/17/2025 07:45 Inactive-Referred to Student Conduct
+2025-900011 01/17/2025 Disorderly Conduct Prices Fork Road 01/16/2025 08:18 Inactive
+2025-900012 06/18/2025 Grand Larceny Hoge Hall 06/17/2025 01:30 Inactive
+2025-900013 06/10/2025 Petit Larceny Duck Pond Drive 06/04/2025 01:39 Active
+2025-900014 02/05/2025 Underage Possession of Alcohol Vawter Hall 02/02/2025 12:48 Cleared by Arrest
+2025-900015 03/01/2025 Public Intoxication Cassell Coliseum 02/23/2025 20:26 Cleared by Arrest
+2025-900016 02/21/2025 Trespassing Miles Hall 02/07/2025 04:18 Inactive-Referred to Student Conduct
+2025-900017 11/15/2025 Credit Card Fraud South Main Street 11/07/2025 20:23 Inactive
+2025-900018 01/24/2025 Larceny Roanoke Street 01/24/2025 23:39 Inactive
+2025-900019 11/12/2025 Assault and Battery Pritchard Hall 10/31/2025 11:52 Inactive
+2025-900020 04/28/2025 Larceny Prices Fork Road 04/20/2025 21:49 Inactive-Referred to Student Conduct
+2025-900021 08/31/2025 Underage Possession of Alcohol Oak Lane 08/27/2025 10:39 Active
+2025-900022 04/16/2025 Underage Possession of Alcohol Perry Street 04/16/2025 20:16 Inactive
+2025-900023 02/10/2025 Underage Possession of Alcohol Prices Fork Road 01/31/2025 21:14 Active
+2025-900024 04/08/2025 Hit and Run Washington Street 03/25/2025 23:16 Inactive-Referred to Student Conduct
+2025-900025 11/27/2025 Petit Larceny Torgersen Hall 11/25/2025 01:28 Inactive
+2025-900026 12/15/2025 Driving Under the Influence Eggleston Hall 12/13/2025 01:03 Inactive
+2025-900027 05/20/2025 Fake ID Pritchard Hall 05/13/2025 23:03 Inactive
+2025-900028 09/25/2025 Larceny Draper Road 09/16/2025 21:54 Inactive
+2025-900029 07/18/2025 Grand Larceny Hillcrest Hall 07/11/2025 18:52 Inactive
+2025-900030 03/20/2025 Underage Possession of Alcohol BNB Theater 03/08/2025 23:39 Inactive-Referred to Student Conduct
+2025-900031 03/08/2025 Trespassing Pritchard Hall 03/06/2025 01:14 Cleared by Arrest
+2025-900032 08/04/2025 Harassment Hoge Hall 07/24/2025 01:19 Active
+2025-900033 11/11/2025 Trespassing Burruss Hall 11/07/2025 19:35 Active
+2025-900034 03/12/2025 Public Intoxication West Campus Drive 03/10/2025 18:09 Active
+2025-900035 12/05/2025 Larceny West Campus Drive 11/26/2025 00:28 Inactive
+2025-900036 04/16/2025 Violation of Protective Order West Ambler Johnston Hall 04/05/2025 12:32 Inactive
+2025-900037 05/03/2025 Underage Possession of Alcohol Duck Pond Lot 05/02/2025 22:59 Active
+2025-900038 08/26/2025 Underage Possession of Alcohol Payne Hall 08/26/2025 00:52 Inactive
+2025-900039 12/19/2025 Larceny West Campus Drive 12/11/2025 23:54 Inactive
+2025-900040 05/27/2025 Theft from Motor Vehicle Lane Stadium 05/23/2025 02:58 Inactive
+2025-900041 01/12/2025 Motor Vehicle Theft Draper Road 01/11/2025 23:27 Inactive-Referred to Student Conduct
+2025-900042 01/31/2025 Public Intoxication Goodwin Hall 01/31/2025 22:36 Cleared by Arrest
+2025-900043 03/05/2025 Underage Possession of Alcohol Clay Street 03/04/2025 08:04 Cleared by Arrest
+2025-900044 11/02/2025 Vandalism Newman Hall 10/22/2025 02:12 Cleared by Arrest
+2025-900045 12/07/2025 Urinating in Public Media Building Lot 12/04/2025 14:56 Inactive
+2025-900046 04/17/2025 Underage Possession of Alcohol McBryde Hall 04/16/2025 11:30 Inactive
+2025-900047 12/01/2025 Disorderly Conduct Progress Street 11/22/2025 02:58 Active
+2025-900048 06/07/2025 Petit Larceny Davidson Hall 05/27/2025 00:03 Cleared by Arrest
+2025-900049 03/21/2025 Vandalism BNB Theater 03/15/2025 19:44 Inactive
+2025-900050 09/02/2025 Theft from Motor Vehicle Dietrick Hall 08/20/2025 20:37 Inactive-Referred to Student Conduct
+2025-900051 09/07/2025 Underage Possession of Alcohol Harding Avenue 08/30/2025 03:07 Inactive
+2025-900052 03/10/2025 Motor Vehicle Theft VT Golf Course 02/25/2025 01:01 Active
+2025-900053 12/26/2025 Underage Possession of Alcohol Dietrick Hall 12/13/2025 10:03 Active
+2025-900054 02/08/2025 Credit Card Fraud Hoge Hall 02/01/2025 03:17 Cleared by Arrest
+2025-900055 07/07/2025 Motor Vehicle Theft Goodwin Hall 07/04/2025 18:41 Active
+2025-900056 06/29/2025 Motor Vehicle Theft Payne Hall 06/29/2025 16:08 Active
+2025-900057 10/05/2025 Fake ID Otey Street 09/27/2025 14:24 Inactive
+2025-900058 08/30/2025 Underage Possession of Alcohol Draper Road 08/28/2025 18:11 Inactive
+2025-900059 03/18/2025 Petit Larceny Media Building Lot 03/17/2025 01:18 Inactive-Referred to Student Conduct
+2025-900060 12/20/2025 Fake ID Prices Fork Road 12/07/2025 12:13 Inactive-Referred to Student Conduct
+2025-900061 08/29/2025 Public Intoxication Otey Street 08/20/2025 02:45 Inactive-Referred to Student Conduct
+2025-900062 01/14/2025 Theft from Motor Vehicle Hoge Hall 01/08/2025 01:02 Inactive
+2025-900063 07/28/2025 Larceny Otey Street 07/17/2025 11:42 Inactive-Referred to Student Conduct
+2025-900064 05/31/2025 Larceny Cassell Coliseum 05/29/2025 20:33 Inactive-Referred to Student Conduct
+2025-900065 11/15/2025 Fake ID Eggleston Hall 11/13/2025 20:49 Inactive
+2025-900066 06/17/2025 Underage Possession of Alcohol Eggleston Hall 06/17/2025 02:55 Inactive
+2025-900067 01/22/2025 Assault Hoge Hall 01/18/2025 20:15 Inactive-Referred to Student Conduct
+2025-900068 03/01/2025 Vandalism Slusher Hall 02/20/2025 18:10 Cleared by Arrest
+2025-900069 10/07/2025 Disorderly Conduct Progress Street 09/30/2025 00:26 Inactive
+2025-900070 09/07/2025 Assault Eggleston Hall 09/07/2025 00:16 Inactive-Referred to Student Conduct
+2025-900071 09/25/2025 Underage Possession of Alcohol Roanoke Street 09/24/2025 21:45 Inactive-Referred to Student Conduct
+2025-900072 04/15/2025 Trespassing Burruss Hall 04/14/2025 10:23 Cleared by Arrest
+2025-900073 06/12/2025 Identity Fraud Draper Road 06/12/2025 18:07 Active
+2025-900074 04/11/2025 Larceny Cookout 04/11/2025 10:14 Cleared by Arrest
+2025-900075 04/06/2025 Grand Larceny Turner Street 04/03/2025 23:17 Active
+2025-900076 03/15/2025 Larceny Dietrick Hall 03/04/2025 01:54 Inactive
+2025-900077 06/26/2025 Trespassing VT Golf Course 06/15/2025 22:06 Active
+2025-900078 02/27/2025 Harassment McBryde Hall 02/13/2025 23:42 Inactive
+2025-900079 07/07/2025 Burglary Harding Avenue 06/27/2025 02:50 Inactive-Referred to Student Conduct
+2025-900080 09/08/2025 Underage Possession of Alcohol College Avenue 08/25/2025 03:49 Cleared by Arrest
+2025-900081 12/27/2025 Damage to Property Kent Street 12/15/2025 00:35 Inactive-Referred to Student Conduct
+2025-900082 07/13/2025 Harassment Burruss Hall 07/01/2025 02:32 Cleared by Arrest
+2025-900083 12/06/2025 Underage Possession of Marijuana Hillcrest Hall 12/02/2025 03:09 Cleared by Arrest
+2025-900084 02/16/2025 Harassment Davidson Hall 02/07/2025 22:03 Inactive-Referred to Student Conduct
+2025-900085 09/08/2025 Larceny Oak Lane 08/30/2025 03:33 Inactive
+2025-900086 08/21/2025 Fake ID McBryde Hall 08/19/2025 22:23 Active
+2025-900087 03/05/2025 Motor Vehicle Theft Architecture Annex 02/26/2025 22:20 Cleared by Arrest
+2025-900088 08/07/2025 Urinating in Public Patrick Henry Drive 08/05/2025 03:00 Inactive
+2025-900089 07/15/2025 Motor Vehicle Theft Draper Road 07/06/2025 11:20 Inactive-Referred to Student Conduct
+2025-900090 03/25/2025 Fraud Torgersen Hall 03/13/2025 07:24 Inactive
+2025-900091 08/10/2025 Credit Card Fraud Perry Street Garage 08/09/2025 03:54 Cleared by Arrest
+2025-900092 07/15/2025 Driving Under the Influence Broce Drive 07/01/2025 19:04 Cleared by Arrest
+2025-900093 10/13/2025 Motor Vehicle Theft Goodwin Hall 10/10/2025 23:53 Active
+2025-900094 08/02/2025 Underage Possession of Marijuana Patrick Henry Drive 07/30/2025 00:17 Active
+2025-900095 04/10/2025 Trespassing Owens Hall 04/06/2025 13:37 Inactive-Referred to Student Conduct
+2025-900096 08/29/2025 Grand Larceny Kent Street 08/24/2025 13:55 Cleared by Arrest
+2025-900097 11/17/2025 Harassment Cochrane Hall 11/15/2025 22:39 Inactive-Referred to Student Conduct
+2025-900098 01/23/2025 Underage Possession of Alcohol Payne Hall 01/14/2025 20:12 Inactive
+2025-900099 09/11/2025 Fake ID Cookout 09/07/2025 00:12 Cleared by Arrest
+2025-900100 05/20/2025 Underage Possession of Alcohol Slusher Hall 05/17/2025 15:22 Cleared by Arrest
+2025-900101 11/23/2025 Larceny Broce Drive 11/21/2025 01:55 Inactive
+2025-900102 08/30/2025 Public Intoxication West Campus Drive 08/25/2025 13:52 Active
+2025-900103 03/25/2025 Underage Possession of Alcohol Main Street 03/24/2025 00:34 Cleared by Arrest
+2025-900104 03/05/2025 Assault South Main Street 02/28/2025 09:55 Cleared by Arrest
+2025-900105 08/17/2025 Credit Card Fraud Broce Drive 08/10/2025 20:15 Inactive-Referred to Student Conduct
+2025-900106 11/21/2025 Vandalism Patrick Henry Drive 11/14/2025 10:48 Cleared by Arrest
+2025-900107 08/20/2025 Petit Larceny West Campus Drive 08/08/2025 19:34 Active
+2025-900108 12/01/2025 Motor Vehicle Theft Hahn Hall 11/20/2025 13:32 Inactive-Referred to Student Conduct
+2025-900109 06/05/2025 Damage to Property Architecture Annex 05/28/2025 12:17 Inactive-Referred to Student Conduct
+2025-900110 05/20/2025 Petit Larceny Davidson Hall 05/15/2025 22:27 Inactive-Referred to Student Conduct
+2025-900111 09/26/2025 Public Intoxication Campbell Hall 09/13/2025 03:57 Cleared by Arrest
+2025-900112 11/05/2025 Petit Larceny Torgersen Hall 10/28/2025 13:26 Inactive-Referred to Student Conduct
+2025-900113 01/11/2025 Underage Possession of Alcohol Lane Stadium 01/04/2025 12:26 Inactive
+2025-900114 04/30/2025 Petit Larceny Southgate Drive 04/17/2025 07:23 Inactive
+2025-900115 07/09/2025 Trespassing Roanoke Street 07/08/2025 02:10 Active
+2025-900116 03/08/2025 Assault and Battery North Main Street 03/06/2025 22:24 Inactive-Referred to Student Conduct
+2025-900117 08/27/2025 Trespassing Draper Road 08/13/2025 19:33 Inactive
+2025-900118 05/23/2025 Petit Larceny Owens Hall 05/17/2025 22:13 Cleared by Arrest
+2025-900119 05/15/2025 Public Intoxication Pearson Hall 05/09/2025 19:27 Inactive
+2025-900120 11/20/2025 Public Intoxication Roanoke Street 11/07/2025 02:22 Inactive
+2025-900121 09/09/2025 Larceny Hillcrest Hall 08/30/2025 03:00 Inactive-Referred to Student Conduct
+2025-900122 05/30/2025 Harassment Payne Hall 05/19/2025 01:12 Cleared by Arrest
+2025-900123 01/16/2025 Reckless Driving McBryde Hall 01/14/2025 21:25 Inactive-Referred to Student Conduct
+2025-900124 05/31/2025 Harassment Hillcrest Hall 05/20/2025 02:36 Active
+2025-900125 12/19/2025 Underage Possession of Alcohol Davidson Hall 12/12/2025 22:47 Inactive-Referred to Student Conduct
+2025-900126 12/24/2025 Public Intoxication Dietrick Hall 12/16/2025 01:47 Inactive-Referred to Student Conduct
+2025-900127 09/28/2025 Fake ID Owens Hall 09/26/2025 22:45 Inactive-Referred to Student Conduct
+2025-900128 01/04/2025 Larceny Perry Street Garage 12/24/2024 22:04 Active
+2025-900129 11/24/2025 Public Intoxication South Main Street 11/24/2025 23:07 Active
+2025-900130 02/20/2025 Larceny Media Building Lot 02/10/2025 02:44 Active
+2025-900131 09/28/2025 Public Intoxication Southgate Drive 09/20/2025 00:00 Inactive
+2025-900132 08/20/2025 Petit Larceny Perry Street Garage 08/20/2025 11:54 Inactive-Referred to Student Conduct
+2025-900133 09/15/2025 Urinating in Public Davidson Hall 09/02/2025 00:49 Active
+2025-900134 08/09/2025 Underage Possession of Alcohol Draper Road 08/09/2025 07:49 Inactive
+2025-900135 06/09/2025 Fraud Duck Pond Drive 06/06/2025 23:54 Inactive
+2025-900136 10/09/2025 Credit Card Theft Kent Street 10/05/2025 19:50 Inactive
+2025-900137 04/02/2025 Underage Possession of Alcohol Architecture Annex 03/25/2025 02:20 Cleared by Arrest
+2025-900138 11/01/2025 Underage Possession of Marijuana West Ambler Johnston Hall 10/25/2025 01:00 Active
+2025-900139 02/01/2025 Petit Larceny Newman Hall 01/22/2025 00:28 Inactive
+2025-900140 11/13/2025 Underage Possession of Alcohol Cochrane Hall 11/08/2025 22:47 Active
+2025-900141 06/10/2025 Underage Possession of Alcohol Cookout 05/27/2025 01:32 Cleared by Arrest
+2025-900142 05/07/2025 Identity Fraud Duck Pond Lot 04/28/2025 19:13 Cleared by Arrest
+2025-900143 05/15/2025 Assault College Avenue 05/12/2025 19:36 Cleared by Arrest
+2025-900144 07/29/2025 Fake ID Pritchard Hall 07/20/2025 07:27 Active
+2025-900145 07/02/2025 Disorderly Conduct BNB Theater 06/24/2025 08:03 Cleared by Arrest
+2025-900146 10/10/2025 Stalking Burruss Hall 09/29/2025 07:10 Inactive-Referred to Student Conduct
+2025-900147 11/28/2025 Vandalism Cassell Coliseum 11/21/2025 03:37 Inactive
+2025-900148 11/22/2025 Urinating in Public Southgate Drive 11/15/2025 01:53 Inactive-Referred to Student Conduct
+2025-900149 01/04/2025 Vandalism Patrick Henry Drive 12/24/2024 08:58 Inactive-Referred to Student Conduct
+2025-900150 06/04/2025 Damage to Property College Avenue 06/04/2025 03:35 Inactive
+2025-900151 11/04/2025 Harassment Progress Street 10/25/2025 21:13 Active
+2025-900152 08/28/2025 Stalking McBryde Hall 08/18/2025 03:06 Active
+2025-900153 03/10/2025 Public Intoxication Draper Road 03/02/2025 23:57 Active
+2025-900154 07/20/2025 Underage Possession of Alcohol Goodwin Hall 07/16/2025 03:24 Cleared by Arrest
+2025-900155 07/05/2025 Underage Possession of Alcohol Payne Hall 07/04/2025 09:42 Active
+2025-900156 09/13/2025 Damage to Property Campbell Hall 09/13/2025 14:58 Inactive-Referred to Student Conduct
+2025-900157 09/24/2025 Underage Possession of Alcohol Lane Stadium 09/13/2025 20:42 Inactive-Referred to Student Conduct
+2025-900158 09/14/2025 Public Intoxication Payne Hall 09/07/2025 12:16 Inactive-Referred to Student Conduct
+2025-900159 02/12/2025 Public Intoxication College Avenue 01/29/2025 20:50 Active
+2025-900160 04/22/2025 Fraud War Memorial Hall 04/17/2025 10:36 Cleared by Arrest
+2025-900161 09/09/2025 Assault and Battery Davidson Hall 09/04/2025 01:00 Inactive
+2025-900162 02/11/2025 Grand Larceny Johnson Student Center 02/08/2025 23:32 Inactive
+2025-900163 03/30/2025 Public Intoxication Vawter Hall 03/18/2025 01:39 Cleared by Arrest
+2025-900164 04/04/2025 Grand Larceny McBryde Hall 03/22/2025 14:35 Active
+2025-900165 06/21/2025 Underage Possession of Alcohol Cookout 06/13/2025 01:39 Inactive-Referred to Student Conduct
+2025-900166 12/06/2025 Drug Possession Vawter Hall 11/24/2025 03:52 Inactive
+2025-900167 05/13/2025 Underage Possession of Alcohol Johnson Student Center 05/12/2025 21:42 Inactive-Referred to Student Conduct
+2025-900168 10/13/2025 Unauthorized Use of Vehicle Main Street 10/04/2025 21:26 Inactive
+2025-900169 11/04/2025 Identity Fraud Hillcrest Hall 10/27/2025 22:03 Inactive
+2025-900170 07/31/2025 Underage Possession of Alcohol Pritchard Hall 07/18/2025 00:25 Cleared by Arrest
+2025-900171 08/10/2025 Vandalism Owens Hall 07/30/2025 22:18 Inactive-Referred to Student Conduct
+2025-900172 01/08/2025 Petit Larceny Lane Stadium 01/01/2025 03:49 Cleared by Arrest
+2025-900173 11/12/2025 Motor Vehicle Theft Media Building Lot 10/31/2025 23:29 Active
+2025-900174 09/20/2025 Underage Possession of Alcohol Harding Avenue 09/06/2025 08:16 Active
+2025-900175 06/18/2025 Fraud Davidson Hall 06/14/2025 12:43 Inactive
+2025-900176 03/03/2025 Identity Fraud BNB Theater 02/26/2025 22:03 Active
+2025-900177 10/16/2025 Driving Under the Influence Hillcrest Hall 10/10/2025 21:39 Cleared by Arrest
+2025-900178 02/05/2025 Underage Possession of Alcohol Miles Hall 01/24/2025 11:54 Active
+2025-900179 05/04/2025 Underage Possession of Alcohol College Avenue 05/03/2025 18:59 Cleared by Arrest
+2025-900180 02/17/2025 Assault and Battery Turner Street 02/11/2025 00:52 Inactive-Referred to Student Conduct
+2025-900181 03/03/2025 Fake ID Southgate Drive 03/02/2025 03:21 Inactive-Referred to Student Conduct
+2025-900182 02/27/2025 Public Intoxication Pearson Hall 02/27/2025 16:19 Active
+2025-900183 02/22/2025 Urinating in Public Vawter Hall 02/10/2025 20:28 Inactive
+2025-900184 10/10/2025 Disorderly Conduct Broce Drive 09/28/2025 23:17 Cleared by Arrest
+2025-900185 07/09/2025 Underage Possession of Alcohol College Avenue 07/04/2025 00:36 Active
+2025-900186 08/02/2025 Driving Under the Influence Pearson Hall 07/24/2025 21:17 Inactive
+2025-900187 02/16/2025 Disorderly Conduct West Campus Drive 02/16/2025 23:36 Inactive
+2025-900188 11/23/2025 Underage Possession of Alcohol Dietrick Hall 11/19/2025 20:30 Inactive
+2025-900189 03/08/2025 Vandalism Perry Street Garage 03/03/2025 14:43 Cleared by Arrest
+2025-900190 11/21/2025 Credit Card Fraud South Main Street 11/21/2025 23:05 Cleared by Arrest
+2025-900191 04/04/2025 Petit Larceny Duck Pond Drive 04/01/2025 12:53 Inactive-Referred to Student Conduct
+2025-900192 07/09/2025 Fraud Broce Drive 06/25/2025 21:58 Inactive
+2025-900193 07/26/2025 Hit and Run Cochrane Hall 07/24/2025 02:45 Inactive
+2025-900194 10/14/2025 Unauthorized Use of Vehicle VT Golf Course 10/13/2025 11:01 Inactive
+2025-900195 03/26/2025 Underage Possession of Alcohol Slusher Hall 03/20/2025 03:15 Inactive
+2025-900196 09/14/2025 Underage Possession of Alcohol War Memorial Hall 09/13/2025 13:54 Inactive-Referred to Student Conduct
+2025-900197 09/29/2025 Fake ID Pearson Hall 09/29/2025 02:06 Active
+2025-900198 06/29/2025 Fraud Pearson Hall 06/16/2025 16:49 Inactive-Referred to Student Conduct
+2025-900199 07/13/2025 Extortion Hoge Hall 07/04/2025 19:34 Cleared by Arrest
+2025-900200 12/08/2025 Stalking Perry Street 12/02/2025 20:30 Inactive-Referred to Student Conduct
+2025-900201 11/18/2025 Public Intoxication Cochrane Hall 11/09/2025 02:06 Active
+2025-900202 01/27/2025 Hit and Run Southgate Drive 01/26/2025 20:15 Inactive
+2025-900203 10/27/2025 Motor Vehicle Theft Davidson Hall 10/26/2025 18:02 Active
+2025-900204 07/02/2025 Driving Under the Influence West Campus Drive 06/28/2025 03:15 Inactive
+2025-900205 10/02/2025 Public Intoxication Hoge Hall 09/30/2025 21:33 Inactive-Referred to Student Conduct
+2025-900206 10/10/2025 Fake ID West Ambler Johnston Hall 10/08/2025 09:53 Inactive-Referred to Student Conduct
+2025-900207 06/03/2025 Stalking Broce Drive 05/23/2025 00:53 Cleared by Arrest
+2025-900208 11/26/2025 Disorderly Conduct BNB Theater 11/13/2025 18:27 Cleared by Arrest
+2025-900209 11/25/2025 Underage Possession of Alcohol New Residence Hall East 11/21/2025 01:53 Cleared by Arrest
+2025-900210 09/02/2025 Public Intoxication Clay Street 08/26/2025 06:37 Inactive-Referred to Student Conduct
+2025-900211 08/18/2025 Violation of Protective Order Draper Road 08/16/2025 10:15 Inactive-Referred to Student Conduct
+2025-900212 01/31/2025 Violation of Protective Order Slusher Hall 01/27/2025 19:21 Active
+2025-900213 10/04/2025 Underage Possession of Alcohol Pritchard Hall 09/29/2025 02:05 Inactive-Referred to Student Conduct
+2025-900214 03/14/2025 Hit and Run Prices Fork Road 03/10/2025 12:01 Cleared by Arrest
+2025-900215 02/28/2025 Public Intoxication BNB Theater 02/21/2025 00:29 Inactive
+2025-900216 04/04/2025 Underage Possession of Alcohol Progress Street 03/24/2025 02:28 Inactive
+2025-900217 04/05/2025 Disorderly Conduct VT Golf Course 04/04/2025 22:22 Active
+2025-900218 01/01/2025 Grand Larceny Prices Fork Road 12/25/2024 18:06 Inactive
+2025-900219 02/16/2025 Extortion Goodwin Hall 02/09/2025 19:31 Inactive-Referred to Student Conduct
+2025-900220 09/11/2025 Extortion Burruss Hall 09/07/2025 23:48 Inactive
+2025-900221 04/20/2025 Petit Larceny Eggleston Hall 04/18/2025 22:05 Active
+2025-900222 08/13/2025 Fake ID Washington Street 08/13/2025 00:04 Active
+2025-900223 08/26/2025 Underage Possession of Marijuana Slusher Hall 08/24/2025 11:46 Inactive
+2025-900224 01/02/2025 Fake ID Vawter Hall 12/29/2024 03:28 Inactive-Referred to Student Conduct
+2025-900225 10/06/2025 Underage Possession of Alcohol Kent Street 09/29/2025 19:08 Cleared by Arrest
+2025-900226 01/13/2025 Burglary Roanoke Street 01/06/2025 00:27 Cleared by Arrest
+2025-900227 10/18/2025 Motor Vehicle Theft Campbell Hall 10/10/2025 14:35 Inactive-Referred to Student Conduct
+2025-900228 02/04/2025 Underage Possession of Alcohol Progress Street 01/25/2025 23:15 Active
+2025-900229 07/20/2025 Underage Possession of Alcohol Pearson Hall 07/08/2025 21:00 Active
+2025-900230 10/08/2025 Public Intoxication Payne Hall 09/30/2025 23:39 Inactive-Referred to Student Conduct
+2025-900231 11/22/2025 Grand Larceny Eggleston Hall 11/17/2025 18:10 Active
+2025-900232 10/06/2025 Larceny Draper Road 09/23/2025 01:38 Active
+2025-900233 06/27/2025 Larceny Vawter Hall 06/24/2025 22:07 Inactive
+2025-900234 07/17/2025 Underage Possession of Alcohol Duck Pond Lot 07/06/2025 20:28 Inactive-Referred to Student Conduct
+2025-900235 07/08/2025 Petit Larceny BNB Theater 06/30/2025 08:29 Active
+2025-900236 08/21/2025 Identity Fraud Pritchard Hall 08/08/2025 23:57 Active
+2025-900237 06/13/2025 Underage Possession of Alcohol Turner Street 06/01/2025 18:45 Cleared by Arrest
+2025-900238 04/16/2025 Trespassing Washington Street 04/07/2025 23:24 Inactive-Referred to Student Conduct
+2025-900239 07/04/2025 Public Intoxication Owens Hall 06/22/2025 03:50 Cleared by Arrest
+2025-900240 07/25/2025 Hit and Run New Residence Hall East 07/12/2025 14:35 Inactive-Referred to Student Conduct
+2025-900241 12/05/2025 Underage Possession of Alcohol BNB Theater 11/30/2025 21:32 Cleared by Arrest
+2025-900242 02/24/2025 Underage Possession of Alcohol Patrick Henry Drive 02/21/2025 19:16 Inactive
+2025-900243 09/22/2025 Larceny Media Building Lot 09/19/2025 18:32 Inactive-Referred to Student Conduct
+2025-900244 08/11/2025 Larceny Owens Hall 08/02/2025 03:44 Inactive
+2025-900245 03/31/2025 Credit Card Fraud West Campus Drive 03/30/2025 00:59 Inactive
+2025-900246 06/17/2025 Underage Possession of Alcohol Owens Hall 06/05/2025 23:11 Inactive-Referred to Student Conduct
+2025-900247 07/05/2025 Driving Under the Influence Davidson Hall 06/29/2025 21:44 Cleared by Arrest
+2025-900248 10/03/2025 Credit Card Theft Slusher Hall 09/19/2025 02:25 Cleared by Arrest
+2025-900249 09/28/2025 Hit and Run Lane Stadium 09/21/2025 02:51 Cleared by Arrest
+2025-900250 01/22/2025 Public Intoxication BNB Theater 01/18/2025 18:05 Cleared by Arrest
+2025-900251 01/18/2025 Public Intoxication Slusher Hall 01/13/2025 12:01 Active
+2025-900252 02/28/2025 Harassment Prices Fork Road 02/19/2025 17:08 Cleared by Arrest
+2025-900253 04/17/2025 Petit Larceny Burruss Hall 04/06/2025 11:37 Inactive-Referred to Student Conduct
+2025-900254 11/25/2025 Underage Possession of Alcohol Southgate Drive 11/11/2025 00:44 Inactive
+2025-900255 08/21/2025 Identity Fraud Prices Fork Road 08/08/2025 01:05 Inactive
+2025-900256 11/18/2025 Underage Possession of Alcohol BNB Theater 11/14/2025 12:56 Active
+2025-900257 07/30/2025 Fake ID Slusher Hall 07/17/2025 23:05 Cleared by Arrest
+2025-900258 11/23/2025 Underage Possession of Alcohol Duck Pond Drive 11/15/2025 23:55 Inactive
+2025-900259 11/28/2025 Assault Clay Street 11/15/2025 04:40 Active
+2025-900260 04/02/2025 Underage Possession of Alcohol Perry Street Garage 03/27/2025 09:54 Cleared by Arrest
+2025-900261 03/23/2025 Credit Card Fraud Washington Street 03/16/2025 12:52 Active
+2025-900262 10/08/2025 Public Intoxication North Main Street 09/29/2025 01:55 Inactive
+2025-900263 01/28/2025 Hit and Run Prices Fork Road 01/24/2025 14:09 Inactive
+2025-900264 01/07/2025 Public Intoxication Patrick Henry Drive 01/03/2025 20:54 Cleared by Arrest
+2025-900265 06/30/2025 Credit Card Fraud North Main Street 06/19/2025 23:17 Inactive
+2025-900266 10/20/2025 Trespassing Perry Street Garage 10/12/2025 23:02 Inactive-Referred to Student Conduct
+2025-900267 08/16/2025 Disorderly Conduct Cassell Coliseum 08/13/2025 19:07 Inactive
+2025-900268 01/14/2025 Underage Possession of Alcohol McBryde Hall 01/05/2025 00:29 Active
+2025-900269 11/10/2025 Driving Under the Influence Eggleston Hall 11/04/2025 19:31 Inactive
+2025-900270 02/09/2025 Underage Possession of Alcohol Harding Avenue 02/04/2025 19:30 Inactive-Referred to Student Conduct
+2025-900271 11/16/2025 Underage Possession of Alcohol Johnson Student Center 11/11/2025 21:31 Inactive
+2025-900272 05/02/2025 Fake ID Eggleston Hall 04/29/2025 02:27 Cleared by Arrest
+2025-900273 05/28/2025 Burglary Duck Pond Lot 05/22/2025 21:11 Inactive-Referred to Student Conduct
+2025-900274 08/17/2025 Underage Possession of Alcohol Pearson Hall 08/04/2025 01:03 Active
+2025-900275 02/13/2025 Motor Vehicle Theft Owens Hall 02/04/2025 21:47 Active
+2025-900276 10/31/2025 Petit Larceny Oak Lane 10/26/2025 22:17 Cleared by Arrest
+2025-900277 10/27/2025 Motor Vehicle Theft Draper Road 10/22/2025 05:27 Active
+2025-900278 04/07/2025 Driving Under the Influence Newman Hall 04/07/2025 02:58 Inactive-Referred to Student Conduct
+2025-900279 09/08/2025 Drug Possession Main Street 09/02/2025 22:14 Cleared by Arrest
+2025-900280 01/27/2025 Identity Fraud North Main Street 01/24/2025 03:58 Inactive
+2025-900281 12/22/2025 Stalking Lane Stadium 12/09/2025 18:15 Cleared by Arrest
+2025-900282 08/20/2025 Trespassing Duck Pond Drive 08/17/2025 23:25 Inactive
+2025-900283 09/17/2025 Underage Possession of Alcohol VT Golf Course 09/12/2025 07:22 Inactive
+2025-900284 06/25/2025 Public Intoxication Kent Street 06/16/2025 02:56 Inactive
+2025-900285 10/21/2025 Public Intoxication Draper Road 10/20/2025 22:58 Cleared by Arrest
+2025-900286 12/20/2025 Assault and Battery Duck Pond Drive 12/15/2025 19:15 Active
+2025-900287 10/24/2025 Petit Larceny Miles Hall 10/19/2025 00:35 Inactive-Referred to Student Conduct
+2025-900288 03/16/2025 Public Intoxication BNB Theater 03/07/2025 19:22 Inactive
+2025-900289 04/29/2025 Underage Possession of Marijuana BNB Theater 04/26/2025 17:43 Inactive
+2025-900290 12/22/2025 Fake ID Perry Street Garage 12/12/2025 23:34 Active
+2025-900291 05/17/2025 Fraud Broce Drive 05/14/2025 02:40 Cleared by Arrest
+2025-900292 03/20/2025 Motor Vehicle Theft Pritchard Hall 03/15/2025 02:01 Active
+2025-900293 01/12/2025 Trespassing Newman Hall 01/11/2025 23:02 Active
+2025-900294 11/28/2025 Underage Possession of Alcohol West Ambler Johnston Hall 11/18/2025 01:41 Inactive
+2025-900295 11/09/2025 Trespassing Hoge Hall 10/31/2025 23:07 Cleared by Arrest
+2025-900296 04/12/2025 Underage Possession of Alcohol South Main Street 04/09/2025 00:15 Inactive
+2025-900297 05/09/2025 Reckless Driving Hahn Hall 05/05/2025 00:38 Active
+2025-900298 01/10/2025 Assault and Battery Burruss Hall 01/01/2025 23:57 Inactive-Referred to Student Conduct
+2025-900299 02/17/2025 Petit Larceny Owens Hall 02/05/2025 21:00 Inactive-Referred to Student Conduct
+2025-900300 06/26/2025 Reckless Driving Turner Street 06/25/2025 02:32 Cleared by Arrest
+2025-900301 01/11/2025 Underage Possession of Alcohol Dietrick Hall 01/08/2025 01:06 Inactive-Referred to Student Conduct
+2025-900302 10/10/2025 Vandalism BNB Theater 09/28/2025 19:23 Cleared by Arrest
+2025-900303 06/15/2025 Public Intoxication McBryde Hall 06/10/2025 21:34 Inactive
+2025-900304 12/14/2025 Underage Possession of Alcohol Campbell Hall 12/14/2025 23:04 Inactive-Referred to Student Conduct
+2025-900305 08/21/2025 Underage Possession of Alcohol Owens Hall 08/21/2025 05:37 Inactive-Referred to Student Conduct
+2025-900306 09/27/2025 Larceny Hoge Hall 09/22/2025 23:13 Active
+2025-900307 07/28/2025 Driving Under the Influence BNB Theater 07/19/2025 03:52 Active
+2025-900308 02/13/2025 Public Intoxication Hahn Hall 01/30/2025 09:41 Cleared by Arrest
+2025-900309 03/14/2025 Larceny Campbell Hall 03/14/2025 20:42 Active
+2025-900310 03/10/2025 Public Intoxication VT Golf Course 03/05/2025 19:43 Cleared by Arrest
+2025-900311 03/03/2025 Vandalism Miles Hall 02/18/2025 01:12 Inactive
+2025-900312 03/31/2025 Underage Possession of Alcohol College Avenue 03/19/2025 03:14 Inactive
+2025-900313 08/17/2025 Public Intoxication Pearson Hall 08/10/2025 21:14 Active
+2025-900314 12/10/2025 Underage Possession of Alcohol Southgate Drive 12/10/2025 22:47 Cleared by Arrest
+2025-900315 01/10/2025 Vandalism Southgate Drive 12/29/2024 18:23 Cleared by Arrest
+2025-900316 11/28/2025 Vandalism Payne Hall 11/25/2025 21:47 Inactive
+2025-900317 12/06/2025 Larceny Prices Fork Road 11/24/2025 15:48 Inactive-Referred to Student Conduct
+2025-900318 03/08/2025 Underage Possession of Alcohol Patrick Henry Drive 03/08/2025 00:31 Inactive
+2025-900319 06/03/2025 Violation of Protective Order North Main Street 05/29/2025 00:49 Cleared by Arrest
+2025-900320 02/18/2025 Stalking Hillcrest Hall 02/05/2025 18:39 Cleared by Arrest
+2025-900321 08/10/2025 Fake ID Duck Pond Drive 08/09/2025 23:41 Cleared by Arrest
+2025-900322 04/09/2025 Stalking Slusher Hall 03/31/2025 02:37 Inactive
+2025-900323 12/14/2025 Vandalism Draper Road 12/14/2025 19:10 Inactive
+2025-900324 09/24/2025 Underage Possession of Alcohol Media Building Lot 09/11/2025 21:17 Inactive
+2025-900325 04/01/2025 Public Intoxication BNB Theater 03/20/2025 01:13 Active
+2025-900326 12/24/2025 Underage Possession of Alcohol Broce Drive 12/12/2025 23:24 Inactive-Referred to Student Conduct
+2025-900327 06/19/2025 Larceny Turner Street 06/05/2025 03:03 Inactive
+2025-900328 01/09/2025 Petit Larceny West Ambler Johnston Hall 01/03/2025 20:30 Inactive-Referred to Student Conduct
+2025-900329 12/18/2025 Unauthorized Use of Vehicle War Memorial Hall 12/16/2025 01:49 Inactive
+2025-900330 07/22/2025 Disorderly Conduct West Campus Drive 07/09/2025 03:42 Inactive
+2025-900331 11/14/2025 Reckless Driving South Main Street 11/02/2025 21:00 Active
+2025-900332 10/24/2025 Assault Pritchard Hall 10/14/2025 01:51 Cleared by Arrest
+2025-900333 12/12/2025 Drug Possession Goodwin Hall 12/06/2025 05:06 Inactive
+2025-900334 07/23/2025 Credit Card Fraud Slusher Hall 07/12/2025 02:24 Inactive
+2025-900335 10/20/2025 Grand Larceny Perry Street Garage 10/11/2025 21:23 Active
+2025-900336 05/19/2025 Trespassing Otey Street 05/06/2025 21:39 Inactive
+2025-900337 04/25/2025 Underage Possession of Alcohol Johnson Student Center 04/22/2025 18:19 Inactive-Referred to Student Conduct
+2025-900338 03/25/2025 Driving Under the Influence West Campus Drive 03/22/2025 02:15 Active
+2025-900339 05/21/2025 Underage Possession of Alcohol Draper Road 05/09/2025 20:24 Cleared by Arrest
+2025-900340 12/02/2025 Credit Card Fraud Cookout 12/01/2025 00:40 Cleared by Arrest
+2025-900341 08/22/2025 Trespassing Cookout 08/11/2025 11:32 Inactive-Referred to Student Conduct
+2025-900342 05/28/2025 Harassment Patrick Henry Drive 05/26/2025 00:16 Cleared by Arrest
+2025-900343 02/05/2025 Underage Possession of Alcohol West Campus Drive 01/29/2025 23:22 Inactive
+2025-900344 06/08/2025 Identity Fraud Payne Hall 05/29/2025 23:56 Active
+2025-900345 12/22/2025 Motor Vehicle Theft Turner Street 12/11/2025 00:55 Inactive-Referred to Student Conduct
+2025-900346 07/08/2025 Larceny Lane Stadium 07/02/2025 00:09 Cleared by Arrest
+2025-900347 06/02/2025 Trespassing New Residence Hall East 05/29/2025 19:42 Inactive
+2025-900348 06/29/2025 Assault Hahn Hall 06/24/2025 23:59 Active
+2025-900349 03/27/2025 Assault Pearson Hall 03/25/2025 20:20 Active
+2025-900350 09/18/2025 Vandalism South Main Street 09/13/2025 00:56 Inactive
+2025-900351 09/19/2025 Drug Possession Washington Street 09/15/2025 20:12 Inactive-Referred to Student Conduct
+2025-900352 06/01/2025 Fake ID Media Building Lot 05/20/2025 23:34 Inactive-Referred to Student Conduct
+2025-900353 07/14/2025 Assault Clay Street 07/05/2025 19:33 Cleared by Arrest
+2025-900354 07/06/2025 Theft from Motor Vehicle Otey Street 06/29/2025 18:03 Active
+2025-900355 09/10/2025 Larceny Prices Fork Road 08/31/2025 00:26 Cleared by Arrest
+2025-900356 10/06/2025 Vandalism Architecture Annex 09/22/2025 12:40 Active
+2025-900357 02/09/2025 Trespassing West Ambler Johnston Hall 01/28/2025 18:27 Cleared by Arrest
+2025-900358 01/27/2025 Underage Possession of Alcohol Torgersen Hall 01/22/2025 22:20 Cleared by Arrest
+2025-900359 09/16/2025 Larceny Hillcrest Hall 09/15/2025 20:29 Inactive
+2025-900360 05/08/2025 Larceny Broce Drive 04/29/2025 12:17 Active
+2025-900361 09/11/2025 Public Intoxication Perry Street Garage 09/06/2025 00:03 Active
+2025-900362 10/20/2025 Vandalism West Ambler Johnston Hall 10/12/2025 14:31 Inactive
+2025-900363 12/05/2025 Drug Possession Turner Street 11/22/2025 03:39 Inactive
+2025-900364 03/25/2025 Hit and Run New Residence Hall East 03/22/2025 09:45 Active
+2025-900365 09/27/2025 Stalking Clay Street 09/15/2025 21:22 Inactive-Referred to Student Conduct
+2025-900366 04/06/2025 Larceny Miles Hall 03/31/2025 02:11 Active
+2025-900367 02/02/2025 Underage Possession of Alcohol Burruss Hall 01/20/2025 20:28 Inactive-Referred to Student Conduct
+2025-900368 12/11/2025 Fake ID VT Golf Course 11/27/2025 03:27 Inactive-Referred to Student Conduct
+2025-900369 03/09/2025 Motor Vehicle Theft Hoge Hall 03/02/2025 20:30 Cleared by Arrest
+2025-900370 04/16/2025 Urinating in Public Perry Street Garage 04/13/2025 00:19 Inactive-Referred to Student Conduct
+2025-900371 07/17/2025 Assault Broce Drive 07/17/2025 01:12 Active
+2025-900372 10/29/2025 Motor Vehicle Theft Owens Hall 10/20/2025 00:23 Inactive
+2025-900373 07/15/2025 Public Intoxication Goodwin Hall 07/12/2025 04:35 Inactive-Referred to Student Conduct
+2025-900374 01/31/2025 Grand Larceny Vawter Hall 01/17/2025 20:50 Inactive-Referred to Student Conduct
+2025-900375 11/28/2025 Motor Vehicle Theft West Ambler Johnston Hall 11/21/2025 08:35 Cleared by Arrest
+2025-900376 01/29/2025 Underage Possession of Alcohol Miles Hall 01/16/2025 02:24 Active
+2025-900377 12/15/2025 Public Intoxication Kent Street 12/11/2025 02:46 Active
+2025-900378 09/13/2025 Public Intoxication Southgate Drive 09/11/2025 23:16 Cleared by Arrest
+2025-900379 02/04/2025 Underage Possession of Alcohol Progress Street 02/02/2025 22:46 Inactive
+2025-900380 10/03/2025 Public Intoxication Patrick Henry Drive 09/26/2025 19:14 Active
+2025-900381 10/01/2025 Underage Possession of Alcohol College Avenue 09/24/2025 10:37 Cleared by Arrest
+2025-900382 04/05/2025 Underage Possession of Alcohol Miles Hall 03/29/2025 22:09 Inactive
+2025-900383 10/10/2025 Underage Possession of Alcohol Miles Hall 10/09/2025 06:48 Cleared by Arrest
+2025-900384 08/19/2025 Fake ID Owens Hall 08/15/2025 02:00 Inactive
+2025-900385 02/07/2025 Underage Possession of Alcohol Owens Hall 02/07/2025 20:10 Inactive-Referred to Student Conduct
+2025-900386 12/21/2025 Fake ID Main Street 12/14/2025 03:58 Cleared by Arrest
+2025-900387 07/27/2025 Petit Larceny Owens Hall 07/27/2025 08:04 Cleared by Arrest
+2025-900388 02/12/2025 Urinating in Public Pearson Hall 01/31/2025 00:15 Inactive-Referred to Student Conduct
+2025-900389 03/13/2025 Damage to Property Pritchard Hall 03/03/2025 03:15 Active
+2025-900390 08/25/2025 Larceny Main Street 08/21/2025 11:25 Cleared by Arrest
+2025-900391 07/05/2025 Disorderly Conduct Hoge Hall 06/21/2025 18:41 Active
+2025-900392 02/15/2025 Vandalism Oak Lane 02/10/2025 19:01 Inactive-Referred to Student Conduct
+2025-900393 08/10/2025 Larceny Media Building Lot 08/02/2025 03:15 Active
+2025-900394 11/03/2025 Vandalism Progress Street 10/22/2025 22:46 Inactive
+2025-900395 03/06/2025 Credit Card Theft Prices Fork Road 03/05/2025 02:29 Inactive
+2025-900396 03/09/2025 Petit Larceny Hahn Hall 02/26/2025 02:25 Cleared by Arrest
+2025-900397 10/04/2025 Credit Card Fraud Prices Fork Road 09/26/2025 18:43 Inactive
+2025-900398 06/14/2025 Stalking Slusher Hall 06/01/2025 09:05 Inactive
+2025-900399 02/20/2025 Underage Possession of Alcohol Owens Hall 02/10/2025 05:05 Cleared by Arrest
+2025-900400 08/21/2025 Larceny Johnson Student Center 08/15/2025 00:33 Cleared by Arrest
+2025-900401 05/09/2025 Underage Possession of Alcohol Clay Street 04/27/2025 12:13 Inactive-Referred to Student Conduct
+2025-900402 03/19/2025 Petit Larceny Miles Hall 03/15/2025 22:50 Inactive-Referred to Student Conduct
+2025-900403 09/16/2025 Trespassing College Avenue 09/09/2025 23:21 Active
+2025-900404 01/23/2025 Underage Possession of Alcohol VT Golf Course 01/23/2025 02:14 Active
+2025-900405 09/19/2025 Public Intoxication Draper Road 09/17/2025 02:44 Cleared by Arrest
+2025-900406 07/16/2025 Larceny Torgersen Hall 07/05/2025 00:23 Inactive
+2025-900407 08/10/2025 Disorderly Conduct VT Golf Course 07/29/2025 20:16 Inactive-Referred to Student Conduct
+2025-900408 07/15/2025 Underage Possession of Alcohol Broce Drive 07/15/2025 00:28 Inactive
+2025-900409 12/28/2025 Public Intoxication Pearson Hall 12/25/2025 11:44 Inactive-Referred to Student Conduct
+2025-900410 04/26/2025 Public Intoxication Kent Street 04/19/2025 02:59 Cleared by Arrest
+2025-900411 09/25/2025 Public Intoxication Media Building Lot 09/21/2025 13:42 Inactive-Referred to Student Conduct
+2025-900412 05/02/2025 Petit Larceny Cochrane Hall 04/30/2025 00:42 Cleared by Arrest
+2025-900413 05/02/2025 Petit Larceny McBryde Hall 04/28/2025 13:58 Inactive
+2025-900414 05/05/2025 Public Intoxication Clay Street 04/30/2025 21:06 Active
+2025-900415 05/06/2025 Underage Possession of Alcohol Roanoke Street 04/30/2025 18:37 Active
+2025-900416 12/10/2025 Fraud Owens Hall 11/29/2025 00:14 Inactive
+2025-900417 11/11/2025 Hit and Run West Campus Drive 11/10/2025 01:42 Inactive-Referred to Student Conduct
+2025-900418 11/10/2025 Petit Larceny Clay Street 10/28/2025 14:25 Inactive-Referred to Student Conduct
+2025-900419 05/30/2025 Underage Possession of Alcohol VT Golf Course 05/23/2025 02:11 Inactive
+2025-900420 06/09/2025 Disorderly Conduct Goodwin Hall 06/03/2025 01:22 Inactive-Referred to Student Conduct
+2025-900421 01/19/2025 Underage Possession of Alcohol Prices Fork Road 01/14/2025 22:51 Inactive
+2025-900422 06/29/2025 Underage Possession of Alcohol BNB Theater 06/29/2025 02:36 Active
+2025-900423 03/09/2025 Identity Fraud Architecture Annex 02/26/2025 06:58 Active
+2025-900424 03/31/2025 Drug Possession Perry Street 03/20/2025 02:20 Inactive-Referred to Student Conduct
+2025-900425 12/05/2025 Public Intoxication New Residence Hall East 12/04/2025 01:15 Active
+2025-900426 09/07/2025 Disorderly Conduct Miles Hall 08/26/2025 23:11 Inactive
+2025-900427 04/14/2025 Public Intoxication Washington Street 04/12/2025 22:55 Inactive
+2025-900428 10/09/2025 Disorderly Conduct Cochrane Hall 09/28/2025 23:13 Active
+2025-900429 04/14/2025 Driving Under the Influence Duck Pond Drive 03/31/2025 03:44 Active
+2025-900430 02/24/2025 Larceny Perry Street 02/23/2025 02:27 Inactive-Referred to Student Conduct
+2025-900431 11/27/2025 Fake ID West Ambler Johnston Hall 11/18/2025 02:07 Inactive-Referred to Student Conduct
+2025-900432 07/07/2025 Assault Turner Street 07/03/2025 00:37 Inactive-Referred to Student Conduct
+2025-900433 08/20/2025 Driving Under the Influence Lane Stadium 08/18/2025 19:09 Inactive
+2025-900434 02/22/2025 Underage Possession of Alcohol Cochrane Hall 02/16/2025 02:12 Inactive
+2025-900435 08/17/2025 Underage Possession of Alcohol Progress Street 08/16/2025 01:38 Active
+2025-900436 06/24/2025 Underage Possession of Alcohol Roanoke Street 06/24/2025 20:42 Inactive-Referred to Student Conduct
+2025-900437 01/05/2025 Underage Possession of Alcohol Dietrick Hall 01/02/2025 19:34 Inactive-Referred to Student Conduct
+2025-900438 09/08/2025 Violation of Protective Order Cookout 09/08/2025 09:42 Cleared by Arrest
+2025-900439 12/12/2025 Credit Card Fraud New Residence Hall East 12/06/2025 19:13 Active
+2025-900440 10/11/2025 Underage Possession of Alcohol Harding Avenue 10/10/2025 10:02 Inactive-Referred to Student Conduct
+2025-900441 05/14/2025 Petit Larceny Slusher Hall 05/10/2025 10:41 Inactive-Referred to Student Conduct
+2025-900442 09/20/2025 Burglary Oak Lane 09/19/2025 03:53 Active
+2025-900443 10/08/2025 Assault VT Golf Course 09/28/2025 12:40 Inactive
+2025-900444 12/13/2025 Unauthorized Use of Vehicle Vawter Hall 12/08/2025 02:58 Active
+2025-900445 12/17/2025 Reckless Driving Cassell Coliseum 12/06/2025 09:49 Cleared by Arrest
+2025-900446 11/14/2025 Fake ID Hahn Hall 11/03/2025 03:19 Inactive
+2025-900447 01/02/2025 Petit Larceny Slusher Hall 12/23/2024 22:22 Active
+2025-900448 06/27/2025 Public Intoxication Duck Pond Drive 06/25/2025 12:46 Inactive
+2025-900449 08/04/2025 Public Intoxication Perry Street 08/01/2025 02:00 Cleared by Arrest
+2025-900450 10/08/2025 Petit Larceny Draper Road 10/04/2025 02:49 Inactive-Referred to Student Conduct
+2025-900451 06/23/2025 Motor Vehicle Theft Turner Street 06/15/2025 22:27 Active
+2025-900452 01/29/2025 Reckless Driving Progress Street 01/29/2025 09:40 Inactive
+2025-900453 11/17/2025 Public Intoxication Newman Hall 11/03/2025 18:09 Cleared by Arrest
+2025-900454 03/11/2025 Vandalism Southgate Drive 03/10/2025 20:32 Cleared by Arrest
+2025-900455 06/21/2025 Larceny Payne Hall 06/20/2025 20:10 Inactive
+2025-900456 12/28/2025 Identity Fraud VT Golf Course 12/26/2025 03:48 Active
+2025-900457 07/16/2025 Underage Possession of Alcohol Perry Street 07/12/2025 21:13 Active
+2025-900458 05/17/2025 Underage Possession of Alcohol Main Street 05/08/2025 19:11 Inactive
+2025-900459 06/29/2025 Fake ID Architecture Annex 06/26/2025 03:36 Active
+2025-900460 10/25/2025 Reckless Driving VT Golf Course 10/23/2025 00:17 Cleared by Arrest
+2025-900461 07/26/2025 Harassment BNB Theater 07/15/2025 20:37 Inactive
+2025-900462 05/17/2025 Trespassing Duck Pond Drive 05/15/2025 21:09 Inactive
+2025-900463 03/17/2025 Underage Possession of Alcohol Turner Street 03/04/2025 22:16 Inactive-Referred to Student Conduct
+2025-900464 03/31/2025 Vandalism Architecture Annex 03/17/2025 00:39 Cleared by Arrest
+2025-900465 07/21/2025 Credit Card Fraud West Ambler Johnston Hall 07/17/2025 11:50 Inactive-Referred to Student Conduct
+2025-900466 04/05/2025 Underage Possession of Alcohol Harding Avenue 03/31/2025 23:19 Active
+2025-900467 07/28/2025 Petit Larceny New Residence Hall East 07/21/2025 09:13 Inactive
+2025-900468 06/16/2025 Motor Vehicle Theft College Avenue 06/03/2025 01:59 Active
+2025-900469 01/08/2025 Vandalism Clay Street 01/04/2025 00:26 Inactive
+2025-900470 08/18/2025 Grand Larceny Cookout 08/15/2025 00:20 Inactive
+2025-900471 07/06/2025 Vandalism Dietrick Hall 07/06/2025 20:11 Inactive
+2025-900472 12/19/2025 Larceny Miles Hall 12/15/2025 02:45 Inactive-Referred to Student Conduct
+2025-900473 07/24/2025 Vandalism Payne Hall 07/19/2025 22:26 Active
+2025-900474 04/15/2025 Motor Vehicle Theft Otey Street 04/08/2025 18:13 Active
+2025-900475 08/06/2025 Assault Duck Pond Drive 08/01/2025 20:51 Active
+2025-900476 04/21/2025 Hit and Run Eggleston Hall 04/11/2025 02:22 Inactive
+2025-900477 12/05/2025 Identity Fraud West Ambler Johnston Hall 11/28/2025 09:29 Cleared by Arrest
+2025-900478 02/17/2025 Underage Possession of Alcohol Prices Fork Road 02/15/2025 01:41 Inactive
+2025-900479 10/28/2025 Vandalism Cochrane Hall 10/28/2025 23:13 Cleared by Arrest
+2025-900480 04/15/2025 Hit and Run Torgersen Hall 04/10/2025 03:03 Active
+2025-900481 05/30/2025 Assault Goodwin Hall 05/17/2025 20:18 Inactive
+2025-900482 10/30/2025 Credit Card Theft New Residence Hall East 10/29/2025 21:42 Cleared by Arrest
+2025-900483 09/17/2025 Disorderly Conduct Draper Road 09/03/2025 14:25 Active
+2025-900484 05/10/2025 Trespassing Perry Street Garage 05/07/2025 08:09 Inactive
+2025-900485 08/06/2025 Public Intoxication Broce Drive 07/23/2025 20:16 Inactive-Referred to Student Conduct
+2025-900486 02/21/2025 Vandalism Oak Lane 02/15/2025 11:58 Active
+2025-900487 10/01/2025 Fake ID Slusher Hall 09/20/2025 00:22 Cleared by Arrest
+2025-900488 05/27/2025 Public Intoxication Main Street 05/23/2025 02:53 Inactive-Referred to Student Conduct
+2025-900489 04/09/2025 Underage Possession of Alcohol North Main Street 03/27/2025 10:45 Inactive-Referred to Student Conduct
+2025-900490 08/31/2025 Trespassing Turner Street 08/25/2025 18:08 Inactive-Referred to Student Conduct
+2025-900491 03/27/2025 Driving Under the Influence Turner Street 03/18/2025 22:50 Inactive
+2025-900492 10/31/2025 Theft from Motor Vehicle North Main Street 10/22/2025 22:47 Cleared by Arrest
+2025-900493 08/01/2025 Credit Card Fraud Burruss Hall 07/27/2025 03:21 Cleared by Arrest
+2025-900494 03/24/2025 Petit Larceny Hillcrest Hall 03/10/2025 02:39 Inactive
+2025-900495 11/24/2025 Underage Possession of Alcohol Vawter Hall 11/22/2025 19:27 Cleared by Arrest
+2025-900496 04/24/2025 Theft from Motor Vehicle Southgate Drive 04/24/2025 23:38 Inactive
+2025-900497 02/05/2025 Grand Larceny Newman Hall 01/28/2025 22:47 Inactive
+2025-900498 04/01/2025 Motor Vehicle Theft Main Street 03/28/2025 18:00 Active
+2025-900499 11/22/2025 Underage Possession of Alcohol Progress Street 11/09/2025 01:07 Inactive-Referred to Student Conduct
+2025-900500 06/21/2025 Disorderly Conduct New Residence Hall East 06/08/2025 22:38 Active
+2025-900501 09/03/2025 Underage Possession of Alcohol Hahn Hall 08/26/2025 02:59 Cleared by Arrest
+2025-900502 05/15/2025 Public Intoxication College Avenue 05/04/2025 00:42 Cleared by Arrest
+2025-900503 02/11/2025 Larceny Cassell Coliseum 02/02/2025 22:51 Active
+2025-900504 08/15/2025 Vandalism New Residence Hall East 08/02/2025 00:54 Inactive-Referred to Student Conduct
+2025-900505 07/05/2025 Larceny Otey Street 07/03/2025 16:06 Active
+2025-900506 05/25/2025 Assault Draper Road 05/23/2025 21:57 Inactive-Referred to Student Conduct
+2025-900507 10/28/2025 Driving Under the Influence South Main Street 10/23/2025 20:57 Active
+2025-900508 12/28/2025 Petit Larceny North Main Street 12/18/2025 23:14 Inactive
+2025-900509 03/22/2025 Grand Larceny Dietrick Hall 03/08/2025 13:16 Cleared by Arrest
+2025-900510 04/20/2025 Extortion Pritchard Hall 04/08/2025 02:18 Inactive-Referred to Student Conduct
+2025-900511 03/26/2025 Extortion Owens Hall 03/24/2025 22:33 Inactive-Referred to Student Conduct
+2025-900512 05/03/2025 Public Intoxication North Main Street 04/25/2025 21:33 Active
+2025-900513 09/25/2025 Burglary Newman Hall 09/21/2025 03:15 Cleared by Arrest
+2025-900514 10/01/2025 Underage Possession of Alcohol Newman Hall 09/23/2025 21:31 Inactive
+2025-900515 07/27/2025 Public Intoxication Duck Pond Drive 07/15/2025 00:23 Cleared by Arrest
+2025-900516 11/27/2025 Underage Possession of Alcohol Hillcrest Hall 11/19/2025 22:26 Cleared by Arrest
+2025-900517 12/26/2025 Vandalism Roanoke Street 12/22/2025 09:18 Active
+2025-900518 01/16/2025 Credit Card Fraud South Main Street 01/09/2025 16:28 Inactive-Referred to Student Conduct
+2025-900519 03/23/2025 Grand Larceny Lane Stadium 03/13/2025 14:19 Cleared by Arrest
+2025-900520 06/07/2025 Harassment Dietrick Hall 05/25/2025 07:10 Inactive
+2025-900521 09/12/2025 Underage Possession of Alcohol Slusher Hall 08/31/2025 00:06 Cleared by Arrest
+2025-900522 04/09/2025 Unauthorized Use of Vehicle Perry Street 03/26/2025 01:28 Cleared by Arrest
+2025-900523 11/05/2025 Underage Possession of Alcohol North Main Street 10/26/2025 21:35 Active
+2025-900524 09/28/2025 Fraud Hahn Hall 09/15/2025 04:10 Inactive
+2025-900525 04/11/2025 Underage Possession of Alcohol Cassell Coliseum 04/04/2025 04:05 Active
+2025-900526 01/31/2025 Vandalism New Residence Hall East 01/23/2025 22:44 Cleared by Arrest
+2025-900527 04/09/2025 Urinating in Public Main Street 04/09/2025 21:49 Inactive-Referred to Student Conduct
+2025-900528 04/08/2025 Harassment Hillcrest Hall 03/26/2025 00:29 Active
+2025-900529 01/27/2025 Driving Under the Influence Architecture Annex 01/17/2025 16:17 Active
+2025-900530 02/13/2025 Underage Possession of Alcohol Cochrane Hall 02/01/2025 19:05 Cleared by Arrest
+2025-900531 10/14/2025 Underage Possession of Alcohol McBryde Hall 10/06/2025 23:22 Active
+2025-900532 07/26/2025 Fake ID Broce Drive 07/17/2025 02:53 Inactive
+2025-900533 06/19/2025 Disorderly Conduct Miles Hall 06/17/2025 05:20 Inactive
+2025-900534 05/17/2025 Driving Under the Influence Patrick Henry Drive 05/04/2025 23:30 Inactive-Referred to Student Conduct
+2025-900535 07/01/2025 Assault Miles Hall 06/18/2025 23:16 Active
+2025-900536 12/24/2025 Underage Possession of Marijuana Duck Pond Drive 12/22/2025 02:42 Cleared by Arrest
+2025-900537 08/29/2025 Fake ID West Campus Drive 08/29/2025 20:34 Inactive-Referred to Student Conduct
+2025-900538 01/27/2025 Grand Larceny Torgersen Hall 01/17/2025 23:11 Inactive
+2025-900539 10/02/2025 Burglary Hillcrest Hall 09/27/2025 10:58 Cleared by Arrest
+2025-900540 03/21/2025 Harassment Oak Lane 03/16/2025 03:49 Cleared by Arrest
+2025-900541 03/13/2025 Larceny Southgate Drive 03/07/2025 14:09 Active
+2025-900542 07/07/2025 Underage Possession of Alcohol Duck Pond Drive 06/23/2025 02:17 Inactive-Referred to Student Conduct
+2025-900543 02/09/2025 Unauthorized Use of Vehicle Southgate Drive 02/07/2025 14:50 Active
+2025-900544 02/08/2025 Larceny Burruss Hall 01/31/2025 20:35 Active
+2025-900545 03/15/2025 Petit Larceny Prices Fork Road 03/01/2025 02:05 Inactive
+2025-900546 10/31/2025 Public Intoxication Payne Hall 10/29/2025 03:02 Active
+2025-900547 04/26/2025 Credit Card Theft Main Street 04/16/2025 23:34 Inactive
+2025-900548 06/08/2025 Grand Larceny Turner Street 06/07/2025 00:54 Cleared by Arrest
+2025-900549 03/19/2025 Violation of Protective Order Hahn Hall 03/19/2025 20:29 Inactive-Referred to Student Conduct
+2025-900550 02/28/2025 Harassment Roanoke Street 02/20/2025 00:51 Inactive-Referred to Student Conduct
+2025-900551 03/01/2025 Larceny Oak Lane 02/21/2025 22:51 Active
+2025-900552 12/22/2025 Petit Larceny Eggleston Hall 12/22/2025 02:37 Inactive-Referred to Student Conduct
+2025-900553 01/30/2025 Damage to Property Pearson Hall 01/17/2025 01:52 Active
+2025-900554 09/08/2025 Larceny Cookout 09/06/2025 12:28 Inactive
+2025-900555 09/23/2025 Public Intoxication Prices Fork Road 09/20/2025 02:58 Inactive-Referred to Student Conduct
+2025-900556 05/17/2025 Public Intoxication Washington Street 05/16/2025 02:38 Inactive-Referred to Student Conduct
+2025-900557 05/27/2025 Underage Possession of Alcohol Owens Hall 05/14/2025 12:46 Inactive-Referred to Student Conduct
+2025-900558 08/29/2025 Larceny Perry Street Garage 08/25/2025 19:52 Inactive-Referred to Student Conduct
+2025-900559 09/15/2025 Underage Possession of Alcohol Media Building Lot 09/12/2025 12:37 Inactive-Referred to Student Conduct
+2025-900560 11/28/2025 Underage Possession of Alcohol Hahn Hall 11/15/2025 21:15 Inactive-Referred to Student Conduct
+2025-900561 05/29/2025 Underage Possession of Alcohol Perry Street Garage 05/19/2025 22:34 Cleared by Arrest
+2025-900562 11/22/2025 Assault Hoge Hall 11/19/2025 00:35 Inactive
+2025-900563 06/07/2025 Public Intoxication McBryde Hall 05/29/2025 01:59 Inactive-Referred to Student Conduct
+2025-900564 06/19/2025 Underage Possession of Alcohol Harding Avenue 06/11/2025 02:53 Cleared by Arrest
+2025-900565 09/20/2025 Vandalism College Avenue 09/14/2025 20:37 Active
+2025-900566 03/17/2025 Public Intoxication Turner Street 03/14/2025 01:07 Cleared by Arrest
+2025-900567 10/20/2025 Vandalism Hillcrest Hall 10/13/2025 23:40 Inactive
+2025-900568 05/29/2025 Underage Possession of Alcohol Draper Road 05/16/2025 22:42 Active
+2025-900569 01/05/2025 Damage to Property Pearson Hall 12/29/2024 23:32 Active
+2025-900570 11/30/2025 Underage Possession of Alcohol Washington Street 11/21/2025 14:14 Active
+2025-900571 01/05/2025 Public Intoxication Hillcrest Hall 12/22/2024 03:42 Inactive
+2025-900572 04/26/2025 Underage Possession of Alcohol McBryde Hall 04/16/2025 03:39 Cleared by Arrest
+2025-900573 06/30/2025 Underage Possession of Alcohol College Avenue 06/28/2025 08:00 Inactive
+2025-900574 05/10/2025 Vandalism Main Street 05/10/2025 03:25 Cleared by Arrest
+2025-900575 01/31/2025 Assault Cassell Coliseum 01/17/2025 20:25 Inactive
+2025-900576 12/13/2025 Fake ID Broce Drive 12/02/2025 22:44 Cleared by Arrest
+2025-900577 10/21/2025 Underage Possession of Alcohol Duck Pond Drive 10/19/2025 03:46 Inactive
+2025-900578 03/08/2025 Public Intoxication Hoge Hall 02/25/2025 05:46 Active
+2025-900579 04/18/2025 Driving Under the Influence Clay Street 04/14/2025 20:51 Inactive
+2025-900580 06/14/2025 Identity Fraud Miles Hall 06/03/2025 02:18 Inactive
+2025-900581 10/07/2025 Underage Possession of Alcohol Miles Hall 09/24/2025 01:44 Inactive-Referred to Student Conduct
+2025-900582 06/09/2025 Drug Possession Cassell Coliseum 06/08/2025 14:07 Active
+2025-900583 03/28/2025 Trespassing West Ambler Johnston Hall 03/22/2025 02:49 Cleared by Arrest
+2025-900584 07/28/2025 Underage Possession of Alcohol Lane Stadium 07/21/2025 15:19 Inactive-Referred to Student Conduct
+2025-900585 10/20/2025 Public Intoxication Clay Street 10/14/2025 20:28 Active
+2025-900586 08/23/2025 Underage Possession of Alcohol Main Street 08/19/2025 20:36 Inactive
+2025-900587 04/09/2025 Motor Vehicle Theft Lane Stadium 04/03/2025 00:43 Active
+2025-900588 02/05/2025 Trespassing Lane Stadium 02/03/2025 22:48 Cleared by Arrest
+2025-900589 10/08/2025 Petit Larceny Patrick Henry Drive 09/28/2025 10:03 Cleared by Arrest
+2025-900590 01/29/2025 Fake ID Burruss Hall 01/24/2025 23:39 Cleared by Arrest
+2025-900591 08/01/2025 Petit Larceny VT Golf Course 07/26/2025 03:26 Inactive
+2025-900592 03/31/2025 Public Intoxication Southgate Drive 03/27/2025 01:37 Cleared by Arrest
+2025-900593 04/09/2025 Underage Possession of Alcohol Progress Street 04/06/2025 23:02 Cleared by Arrest
+2025-900594 01/26/2025 Burglary Vawter Hall 01/16/2025 03:36 Inactive
+2025-900595 01/26/2025 Public Intoxication Media Building Lot 01/17/2025 14:10 Inactive-Referred to Student Conduct
+2025-900596 01/14/2025 Underage Possession of Alcohol Cookout 01/01/2025 17:31 Active
+2025-900597 12/10/2025 Drug Possession South Main Street 11/28/2025 16:51 Cleared by Arrest
+2025-900598 06/03/2025 Underage Possession of Alcohol Torgersen Hall 05/30/2025 14:43 Active
+2025-900599 06/08/2025 Underage Possession of Alcohol Prices Fork Road 06/01/2025 13:26 Inactive
+2025-900600 12/21/2025 Assault Campbell Hall 12/14/2025 22:14 Active
+2025-900601 01/01/2025 Trespassing Prices Fork Road 12/27/2024 01:15 Inactive-Referred to Student Conduct
+2025-900602 05/11/2025 Underage Possession of Alcohol Prices Fork Road 05/01/2025 03:01 Inactive
+2025-900603 05/28/2025 Reckless Driving Draper Road 05/16/2025 03:20 Inactive
+2025-900604 02/14/2025 Vandalism BNB Theater 02/09/2025 00:18 Cleared by Arrest
+2025-900605 03/07/2025 Vandalism Hoge Hall 03/05/2025 02:28 Inactive-Referred to Student Conduct
+2025-900606 11/11/2025 Fraud Pearson Hall 11/04/2025 07:27 Cleared by Arrest
+2025-900607 10/02/2025 Underage Possession of Alcohol Progress Street 09/21/2025 21:33 Cleared by Arrest
+2025-900608 02/26/2025 Disorderly Conduct Cookout 02/12/2025 02:29 Inactive-Referred to Student Conduct
+2025-900609 10/31/2025 Underage Possession of Alcohol Eggleston Hall 10/27/2025 21:43 Inactive-Referred to Student Conduct
+2025-900610 01/05/2025 Underage Possession of Alcohol Torgersen Hall 01/04/2025 20:13 Inactive
+2025-900611 10/28/2025 Underage Possession of Alcohol Clay Street 10/25/2025 13:58 Cleared by Arrest
+2025-900612 02/27/2025 Underage Possession of Alcohol Cassell Coliseum 02/26/2025 00:58 Cleared by Arrest
+2025-900613 02/23/2025 Petit Larceny Torgersen Hall 02/23/2025 21:55 Inactive
+2025-900614 12/06/2025 Drug Possession Media Building Lot 11/26/2025 23:34 Cleared by Arrest
+2025-900615 05/31/2025 Disorderly Conduct Duck Pond Drive 05/20/2025 02:37 Inactive
+2025-900616 06/23/2025 Underage Possession of Alcohol VT Golf Course 06/16/2025 13:27 Inactive
+2025-900617 10/06/2025 Motor Vehicle Theft Duck Pond Lot 09/26/2025 12:13 Inactive-Referred to Student Conduct
+2025-900618 05/02/2025 Fraud Turner Street 05/02/2025 20:13 Inactive
+2025-900619 10/29/2025 Underage Possession of Alcohol Goodwin Hall 10/18/2025 23:05 Active
+2025-900620 07/11/2025 Trespassing Roanoke Street 07/08/2025 03:19 Active
+2025-900621 03/17/2025 Hit and Run West Ambler Johnston Hall 03/07/2025 01:18 Inactive
+2025-900622 01/01/2025 Trespassing Owens Hall 12/28/2024 21:31 Inactive-Referred to Student Conduct
+2025-900623 07/07/2025 Underage Possession of Alcohol Miles Hall 07/06/2025 21:20 Active
+2025-900624 08/17/2025 Underage Possession of Alcohol Draper Road 08/15/2025 01:25 Inactive-Referred to Student Conduct
+2025-900625 06/25/2025 Larceny Roanoke Street 06/18/2025 03:49 Cleared by Arrest
+2025-900626 04/11/2025 Petit Larceny New Residence Hall East 03/30/2025 18:18 Cleared by Arrest
+2025-900627 10/03/2025 Harassment Oak Lane 10/01/2025 02:16 Inactive-Referred to Student Conduct
+2025-900628 12/09/2025 Drug Possession Cookout 12/03/2025 21:53 Inactive
+2025-900629 11/27/2025 Public Intoxication McBryde Hall 11/15/2025 12:53 Inactive-Referred to Student Conduct
+2025-900630 01/31/2025 Underage Possession of Alcohol War Memorial Hall 01/23/2025 02:50 Inactive
+2025-900631 05/30/2025 Fraud Cassell Coliseum 05/21/2025 21:50 Cleared by Arrest
+2025-900632 01/23/2025 Underage Possession of Alcohol Davidson Hall 01/11/2025 05:30 Inactive-Referred to Student Conduct
+2025-900633 07/09/2025 Petit Larceny Cookout 06/25/2025 00:41 Cleared by Arrest
+2025-900634 10/01/2025 Underage Possession of Marijuana VT Golf Course 09/30/2025 22:29 Inactive-Referred to Student Conduct
+2025-900635 12/25/2025 Hit and Run Southgate Drive 12/11/2025 01:00 Inactive-Referred to Student Conduct
+2025-900636 08/01/2025 Hit and Run Progress Street 07/24/2025 19:42 Inactive
+2025-900637 02/04/2025 Assault and Battery Hahn Hall 01/30/2025 02:20 Active
+2025-900638 07/14/2025 Petit Larceny Newman Hall 07/14/2025 23:03 Inactive-Referred to Student Conduct
+2025-900639 02/15/2025 Violation of Protective Order Burruss Hall 02/01/2025 02:11 Inactive-Referred to Student Conduct
+2025-900640 03/19/2025 Fake ID Prices Fork Road 03/13/2025 02:45 Cleared by Arrest
+2025-900641 11/02/2025 Underage Possession of Alcohol Kent Street 10/26/2025 01:11 Active
+2025-900642 07/10/2025 Extortion War Memorial Hall 07/08/2025 01:14 Active
+2025-900643 03/01/2025 Trespassing Eggleston Hall 02/20/2025 19:22 Inactive
+2025-900644 01/10/2025 Public Intoxication Kent Street 01/09/2025 18:08 Inactive
+2025-900645 07/24/2025 Extortion Progress Street 07/21/2025 23:51 Cleared by Arrest
+2025-900646 12/27/2025 Larceny Roanoke Street 12/20/2025 18:13 Cleared by Arrest
+2025-900647 10/06/2025 Underage Possession of Alcohol Progress Street 10/05/2025 00:10 Active
+2025-900648 09/08/2025 Driving Under the Influence Hillcrest Hall 09/05/2025 02:46 Inactive-Referred to Student Conduct
+2025-900649 08/21/2025 Disorderly Conduct Slusher Hall 08/08/2025 00:16 Inactive-Referred to Student Conduct
+2025-900650 08/08/2025 Credit Card Theft Duck Pond Drive 08/03/2025 09:42 Inactive-Referred to Student Conduct
+2025-900651 07/06/2025 Public Intoxication BNB Theater 06/23/2025 19:28 Inactive-Referred to Student Conduct
+2025-900652 07/30/2025 Larceny West Campus Drive 07/25/2025 21:50 Inactive
+2025-900653 07/18/2025 Underage Possession of Alcohol Draper Road 07/17/2025 20:55 Inactive
+2025-900654 05/15/2025 Underage Possession of Marijuana New Residence Hall East 05/02/2025 22:21 Active
+2025-900655 06/17/2025 Public Intoxication Owens Hall 06/14/2025 21:12 Active
+2025-900656 05/11/2025 Petit Larceny Burruss Hall 04/27/2025 15:52 Inactive-Referred to Student Conduct
+2025-900657 05/19/2025 Vandalism South Main Street 05/06/2025 21:39 Inactive-Referred to Student Conduct
+2025-900658 03/31/2025 Fake ID McBryde Hall 03/23/2025 22:31 Active
+2025-900659 06/08/2025 Theft from Motor Vehicle Harding Avenue 05/31/2025 20:33 Cleared by Arrest
+2025-900660 11/10/2025 Trespassing Cassell Coliseum 11/03/2025 01:15 Inactive
+2025-900661 03/26/2025 Fake ID VT Golf Course 03/12/2025 23:47 Cleared by Arrest
+2025-900662 09/25/2025 Vandalism Hahn Hall 09/25/2025 00:35 Cleared by Arrest
+2025-900663 05/27/2025 Fake ID Hahn Hall 05/22/2025 02:35 Inactive-Referred to Student Conduct
+2025-900664 03/15/2025 Drug Possession Slusher Hall 03/11/2025 00:05 Inactive-Referred to Student Conduct
+2025-900665 10/03/2025 Drug Possession Cochrane Hall 09/19/2025 00:47 Cleared by Arrest
+2025-900666 05/07/2025 Driving Under the Influence Pearson Hall 04/25/2025 21:15 Inactive
+2025-900667 09/19/2025 Damage to Property Cookout 09/11/2025 22:09 Active
+2025-900668 06/09/2025 Underage Possession of Alcohol Dietrick Hall 05/30/2025 19:04 Inactive
+2025-900669 02/12/2025 Grand Larceny Architecture Annex 02/08/2025 11:57 Inactive
+2025-900670 09/05/2025 Trespassing Owens Hall 09/03/2025 21:50 Cleared by Arrest
+2025-900671 10/21/2025 Urinating in Public Architecture Annex 10/11/2025 02:34 Cleared by Arrest
+2025-900672 06/22/2025 Hit and Run Progress Street 06/09/2025 20:54 Inactive-Referred to Student Conduct
+2025-900673 07/27/2025 Hit and Run McBryde Hall 07/18/2025 12:16 Inactive
+2025-900674 08/28/2025 Public Intoxication Johnson Student Center 08/22/2025 23:25 Active
+2025-900675 12/01/2025 Vandalism Perry Street Garage 11/26/2025 03:59 Inactive
+2025-900676 07/11/2025 Damage to Property Duck Pond Lot 07/11/2025 01:20 Active
+2025-900677 12/15/2025 Underage Possession of Alcohol Harding Avenue 12/13/2025 20:23 Inactive-Referred to Student Conduct
+2025-900678 03/16/2025 Urinating in Public College Avenue 03/16/2025 09:55 Inactive-Referred to Student Conduct
+2025-900679 06/11/2025 Public Intoxication Cookout 06/05/2025 01:37 Cleared by Arrest
+2025-900680 10/16/2025 Credit Card Fraud Southgate Drive 10/05/2025 02:53 Cleared by Arrest
+2025-900681 03/20/2025 Assault Pearson Hall 03/15/2025 07:16 Active
+2025-900682 12/27/2025 Trespassing Cochrane Hall 12/21/2025 01:50 Inactive
+2025-900683 06/17/2025 Assault Architecture Annex 06/14/2025 23:51 Active
+2025-900684 05/07/2025 Trespassing McBryde Hall 04/30/2025 18:38 Cleared by Arrest
+2025-900685 05/24/2025 Extortion Southgate Drive 05/15/2025 02:28 Inactive-Referred to Student Conduct
+2025-900686 06/19/2025 Drug Possession Perry Street Garage 06/14/2025 11:49 Active
+2025-900687 07/09/2025 Disorderly Conduct War Memorial Hall 07/06/2025 23:25 Inactive
+2025-900688 08/22/2025 Assault and Battery Draper Road 08/16/2025 01:28 Inactive-Referred to Student Conduct
+2025-900689 08/06/2025 Identity Fraud Oak Lane 08/03/2025 01:15 Inactive
+2025-900690 10/26/2025 Fake ID Vawter Hall 10/24/2025 05:33 Active
+2025-900691 09/22/2025 Vandalism Pearson Hall 09/21/2025 14:59 Cleared by Arrest
+2025-900692 02/21/2025 Underage Possession of Alcohol Slusher Hall 02/17/2025 02:44 Cleared by Arrest
+2025-900693 02/28/2025 Credit Card Fraud Kent Street 02/28/2025 20:09 Inactive
+2025-900694 07/01/2025 Drug Possession Burruss Hall 06/27/2025 21:00 Active
+2025-900695 02/14/2025 Trespassing Campbell Hall 02/03/2025 22:58 Inactive
+2025-900696 04/27/2025 Vandalism Patrick Henry Drive 04/21/2025 13:56 Inactive-Referred to Student Conduct
+2025-900697 03/30/2025 Burglary Lane Stadium 03/25/2025 22:44 Inactive-Referred to Student Conduct
+2025-900698 08/16/2025 Trespassing Burruss Hall 08/13/2025 18:50 Inactive-Referred to Student Conduct
+2025-900699 04/16/2025 Public Intoxication Washington Street 04/02/2025 23:47 Active
+2025-900700 11/12/2025 Public Intoxication Pearson Hall 11/05/2025 07:10 Active
+2025-900701 08/04/2025 Identity Fraud Washington Street 07/26/2025 11:16 Inactive-Referred to Student Conduct
+2025-900702 08/04/2025 Public Intoxication Davidson Hall 07/22/2025 23:28 Cleared by Arrest
+2025-900703 04/16/2025 Hit and Run New Residence Hall East 04/16/2025 21:19 Inactive
+2025-900704 04/12/2025 Unauthorized Use of Vehicle Harding Avenue 04/11/2025 21:26 Cleared by Arrest
+2025-900705 09/24/2025 Underage Possession of Alcohol Campbell Hall 09/13/2025 05:44 Cleared by Arrest
+2025-900706 11/25/2025 Driving Under the Influence Washington Street 11/17/2025 21:45 Inactive-Referred to Student Conduct
+2025-900707 06/08/2025 Vandalism Perry Street Garage 05/27/2025 01:26 Inactive-Referred to Student Conduct
+2025-900708 09/22/2025 Disorderly Conduct Cassell Coliseum 09/22/2025 00:49 Inactive-Referred to Student Conduct
+2025-900709 07/05/2025 Underage Possession of Alcohol Vawter Hall 06/23/2025 01:16 Inactive
+2025-900710 12/16/2025 Trespassing Dietrick Hall 12/05/2025 22:51 Cleared by Arrest
+2025-900711 05/27/2025 Grand Larceny Payne Hall 05/26/2025 14:34 Active
+2025-900712 10/21/2025 Public Intoxication Duck Pond Lot 10/14/2025 04:29 Inactive-Referred to Student Conduct
+2025-900713 06/29/2025 Grand Larceny Burruss Hall 06/29/2025 00:54 Inactive-Referred to Student Conduct
+2025-900714 04/20/2025 Underage Possession of Marijuana Miles Hall 04/13/2025 17:20 Active
+2025-900715 03/01/2025 Underage Possession of Alcohol Goodwin Hall 02/15/2025 02:44 Cleared by Arrest
+2025-900716 07/05/2025 Larceny Perry Street Garage 07/02/2025 22:53 Cleared by Arrest
+2025-900717 04/04/2025 Underage Possession of Alcohol Newman Hall 03/29/2025 18:29 Cleared by Arrest
+2025-900718 04/09/2025 Larceny Perry Street 04/05/2025 20:33 Inactive
+2025-900719 07/17/2025 Disorderly Conduct Dietrick Hall 07/11/2025 22:11 Cleared by Arrest
+2025-900720 12/26/2025 Disorderly Conduct Patrick Henry Drive 12/13/2025 18:42 Active
+2025-900721 04/22/2025 Credit Card Theft West Campus Drive 04/18/2025 22:40 Inactive-Referred to Student Conduct
+2025-900722 09/07/2025 Underage Possession of Alcohol College Avenue 09/07/2025 09:20 Inactive-Referred to Student Conduct
+2025-900723 09/21/2025 Driving Under the Influence Owens Hall 09/13/2025 12:25 Inactive-Referred to Student Conduct
+2025-900724 10/04/2025 Theft from Motor Vehicle College Avenue 09/29/2025 02:59 Active
+2025-900725 09/09/2025 Underage Possession of Alcohol Cochrane Hall 08/30/2025 20:57 Cleared by Arrest
+2025-900726 12/24/2025 Underage Possession of Marijuana VT Golf Course 12/11/2025 01:08 Cleared by Arrest
+2025-900727 10/15/2025 Public Intoxication Campbell Hall 10/13/2025 00:43 Cleared by Arrest
+2025-900728 09/12/2025 Underage Possession of Alcohol Perry Street 09/03/2025 01:10 Cleared by Arrest
+2025-900729 11/11/2025 Disorderly Conduct Dietrick Hall 11/07/2025 10:52 Cleared by Arrest
+2025-900730 09/27/2025 Public Intoxication Harding Avenue 09/21/2025 03:43 Cleared by Arrest
+2025-900731 03/16/2025 Underage Possession of Alcohol Turner Street 03/09/2025 09:57 Active
+2025-900732 09/23/2025 Hit and Run Kent Street 09/19/2025 02:42 Inactive
+2025-900733 07/04/2025 Identity Fraud Oak Lane 06/29/2025 14:50 Inactive-Referred to Student Conduct
+2025-900734 01/18/2025 Harassment Burruss Hall 01/16/2025 16:18 Inactive-Referred to Student Conduct
+2025-900735 02/24/2025 Vandalism VT Golf Course 02/15/2025 01:12 Cleared by Arrest
+2025-900736 01/11/2025 Disorderly Conduct College Avenue 12/31/2024 18:23 Inactive-Referred to Student Conduct
+2025-900737 06/12/2025 Disorderly Conduct Miles Hall 06/03/2025 23:59 Inactive-Referred to Student Conduct
+2025-900738 11/24/2025 Disorderly Conduct Main Street 11/12/2025 19:48 Cleared by Arrest
+2025-900739 12/02/2025 Credit Card Theft Davidson Hall 11/27/2025 12:35 Inactive
+2025-900740 08/23/2025 Reckless Driving Newman Hall 08/14/2025 01:06 Inactive-Referred to Student Conduct
+2025-900741 05/09/2025 Larceny Hillcrest Hall 04/29/2025 00:38 Active
+2025-900742 05/01/2025 Disorderly Conduct Pearson Hall 04/20/2025 03:42 Cleared by Arrest
+2025-900743 09/11/2025 Underage Possession of Alcohol Burruss Hall 08/29/2025 01:44 Inactive-Referred to Student Conduct
+2025-900744 02/21/2025 Credit Card Fraud Turner Street 02/07/2025 03:36 Inactive-Referred to Student Conduct
+2025-900745 05/23/2025 Public Intoxication Hillcrest Hall 05/18/2025 18:39 Inactive-Referred to Student Conduct
+2025-900746 12/28/2025 Disorderly Conduct Cochrane Hall 12/20/2025 23:57 Inactive-Referred to Student Conduct
+2025-900747 04/19/2025 Identity Fraud VT Golf Course 04/10/2025 22:48 Cleared by Arrest
+2025-900748 08/20/2025 Credit Card Fraud Cochrane Hall 08/10/2025 19:38 Inactive
+2025-900749 02/04/2025 Reckless Driving Broce Drive 02/01/2025 09:46 Inactive
+2025-900750 05/12/2025 Underage Possession of Marijuana Draper Road 05/07/2025 02:42 Inactive
+2025-900751 04/07/2025 Underage Possession of Alcohol Slusher Hall 04/06/2025 01:25 Inactive
+2025-900752 03/28/2025 Underage Possession of Marijuana New Residence Hall East 03/24/2025 03:50 Inactive-Referred to Student Conduct
+2025-900753 01/29/2025 Underage Possession of Marijuana Main Street 01/27/2025 20:15 Inactive-Referred to Student Conduct
+2025-900754 06/17/2025 Petit Larceny Kent Street 06/16/2025 03:43 Inactive
+2025-900755 05/24/2025 Underage Possession of Alcohol Broce Drive 05/13/2025 10:54 Active
+2025-900756 02/08/2025 Reckless Driving Hahn Hall 01/29/2025 23:42 Inactive-Referred to Student Conduct
+2025-900757 05/21/2025 Larceny Lane Stadium 05/07/2025 01:17 Active
+2025-900758 10/14/2025 Larceny Burruss Hall 10/07/2025 00:16 Cleared by Arrest
+2025-900759 07/04/2025 Petit Larceny Perry Street 06/20/2025 02:26 Inactive-Referred to Student Conduct
+2025-900760 01/14/2025 Assault Newman Hall 01/12/2025 12:53 Cleared by Arrest
+2025-900761 05/18/2025 Fake ID Harding Avenue 05/07/2025 10:42 Inactive
+2025-900762 04/26/2025 Public Intoxication Roanoke Street 04/14/2025 22:27 Cleared by Arrest
+2025-900763 02/25/2025 Fake ID Kent Street 02/22/2025 03:28 Inactive-Referred to Student Conduct
+2025-900764 02/13/2025 Petit Larceny Patrick Henry Drive 02/11/2025 01:44 Active
+2025-900765 06/25/2025 Disorderly Conduct Goodwin Hall 06/15/2025 15:16 Inactive
+2025-900766 09/15/2025 Damage to Property Cassell Coliseum 09/15/2025 23:32 Cleared by Arrest
+2025-900767 02/09/2025 Larceny Johnson Student Center 02/08/2025 22:50 Cleared by Arrest
+2025-900768 04/03/2025 Public Intoxication Perry Street Garage 03/25/2025 13:25 Active
+2025-900769 07/23/2025 Driving Under the Influence Southgate Drive 07/15/2025 23:11 Cleared by Arrest
+2025-900770 07/18/2025 Public Intoxication New Residence Hall East 07/11/2025 21:06 Inactive
+2025-900771 03/29/2025 Petit Larceny Hillcrest Hall 03/17/2025 01:16 Inactive
+2025-900772 06/09/2025 Violation of Protective Order Roanoke Street 05/29/2025 00:10 Inactive
+2025-900773 09/22/2025 Underage Possession of Alcohol Johnson Student Center 09/19/2025 21:59 Inactive-Referred to Student Conduct
+2025-900774 06/20/2025 Larceny West Campus Drive 06/08/2025 02:38 Active
+2025-900775 06/21/2025 Reckless Driving BNB Theater 06/19/2025 20:19 Inactive-Referred to Student Conduct
+2025-900776 07/10/2025 Vandalism Kent Street 06/27/2025 07:41 Inactive
+2025-900777 07/21/2025 Underage Possession of Alcohol Hahn Hall 07/18/2025 22:21 Inactive
+2025-900778 09/29/2025 Underage Possession of Alcohol Perry Street Garage 09/26/2025 22:03 Active
+2025-900779 04/04/2025 Credit Card Fraud Duck Pond Lot 03/25/2025 23:05 Active
+2025-900780 03/06/2025 Assault and Battery McBryde Hall 02/21/2025 02:26 Active
+2025-900781 01/31/2025 Unauthorized Use of Vehicle Campbell Hall 01/20/2025 05:29 Cleared by Arrest
+2025-900782 12/17/2025 Credit Card Fraud Cookout 12/15/2025 01:24 Inactive-Referred to Student Conduct
+2025-900783 11/18/2025 Public Intoxication Campbell Hall 11/07/2025 00:23 Active
+2025-900784 09/09/2025 Petit Larceny Clay Street 08/29/2025 20:48 Cleared by Arrest
+2025-900785 05/14/2025 Unauthorized Use of Vehicle Miles Hall 05/05/2025 02:31 Cleared by Arrest
+2025-900786 03/28/2025 Fake ID Cochrane Hall 03/23/2025 22:41 Active
+2025-900787 03/17/2025 Trespassing College Avenue 03/04/2025 01:35 Active
+2025-900788 04/23/2025 Underage Possession of Alcohol Pearson Hall 04/21/2025 21:14 Cleared by Arrest
+2025-900789 04/11/2025 Fraud Turner Street 04/03/2025 00:45 Inactive-Referred to Student Conduct
+2025-900790 10/05/2025 Fake ID West Campus Drive 10/03/2025 03:37 Inactive
+2025-900791 03/07/2025 Damage to Property Payne Hall 02/28/2025 20:36 Active
+2025-900792 11/20/2025 Larceny Architecture Annex 11/15/2025 21:17 Cleared by Arrest
+2025-900793 06/04/2025 Underage Possession of Marijuana Hillcrest Hall 05/22/2025 19:23 Inactive-Referred to Student Conduct
+2025-900794 11/12/2025 Motor Vehicle Theft Payne Hall 10/31/2025 18:07 Active
+2025-900795 12/24/2025 Underage Possession of Alcohol Payne Hall 12/19/2025 22:24 Inactive-Referred to Student Conduct
+2025-900796 02/18/2025 Reckless Driving Goodwin Hall 02/06/2025 01:45 Cleared by Arrest
+2025-900797 04/16/2025 Public Intoxication New Residence Hall East 04/15/2025 22:11 Inactive-Referred to Student Conduct
+2025-900798 07/08/2025 Reckless Driving Torgersen Hall 06/26/2025 15:11 Inactive
+2025-900799 01/21/2025 Reckless Driving Media Building Lot 01/20/2025 00:27 Active
+2025-900800 09/19/2025 Underage Possession of Alcohol Progress Street 09/15/2025 23:41 Active
+2025-900801 07/30/2025 Vandalism Pearson Hall 07/20/2025 23:35 Cleared by Arrest
+2025-900802 07/09/2025 Vandalism North Main Street 07/01/2025 01:23 Inactive-Referred to Student Conduct
+2025-900803 03/28/2025 Reckless Driving West Ambler Johnston Hall 03/27/2025 20:44 Inactive
+2025-900804 09/01/2025 Petit Larceny Owens Hall 08/21/2025 11:17 Cleared by Arrest
+2025-900805 02/13/2025 Credit Card Theft New Residence Hall East 02/01/2025 18:39 Cleared by Arrest
+2025-900806 08/20/2025 Hit and Run Washington Street 08/18/2025 22:47 Inactive-Referred to Student Conduct
+2025-900807 01/01/2025 Underage Possession of Alcohol Duck Pond Drive 01/01/2025 09:04 Active
+2025-900808 11/20/2025 Underage Possession of Alcohol South Main Street 11/19/2025 21:58 Inactive-Referred to Student Conduct
+2025-900809 07/04/2025 Grand Larceny West Ambler Johnston Hall 06/30/2025 22:55 Active
+2025-900810 10/10/2025 Underage Possession of Alcohol Patrick Henry Drive 10/09/2025 00:38 Cleared by Arrest
+2025-900811 08/24/2025 Motor Vehicle Theft Owens Hall 08/21/2025 03:37 Cleared by Arrest
+2025-900812 04/28/2025 Credit Card Fraud War Memorial Hall 04/14/2025 23:44 Cleared by Arrest
+2025-900813 03/11/2025 Underage Possession of Alcohol West Ambler Johnston Hall 03/11/2025 20:07 Active
+2025-900814 04/13/2025 Underage Possession of Alcohol Harding Avenue 04/09/2025 20:39 Inactive
+2025-900815 12/20/2025 Public Intoxication Patrick Henry Drive 12/06/2025 23:04 Inactive
+2025-900816 12/30/2025 Public Intoxication Clay Street 12/29/2025 03:29 Cleared by Arrest
+2025-900817 10/19/2025 Underage Possession of Alcohol Owens Hall 10/09/2025 19:59 Inactive
+2025-900818 11/21/2025 Underage Possession of Alcohol South Main Street 11/08/2025 22:55 Inactive-Referred to Student Conduct
+2025-900819 08/27/2025 Underage Possession of Alcohol Prices Fork Road 08/18/2025 23:37 Inactive
+2025-900820 11/30/2025 Vandalism Dietrick Hall 11/22/2025 12:32 Cleared by Arrest
+2025-900821 01/12/2025 Underage Possession of Marijuana Architecture Annex 01/04/2025 21:03 Cleared by Arrest
+2025-900822 03/08/2025 Underage Possession of Alcohol McBryde Hall 03/03/2025 13:06 Cleared by Arrest
+2025-900823 05/02/2025 Disorderly Conduct Owens Hall 04/21/2025 22:00 Active
+2025-900824 03/07/2025 Petit Larceny North Main Street 02/24/2025 22:34 Inactive
+2025-900825 05/12/2025 Underage Possession of Marijuana Perry Street 04/29/2025 18:22 Cleared by Arrest
+2025-900826 08/26/2025 Public Intoxication BNB Theater 08/17/2025 20:50 Inactive
+2025-900827 07/29/2025 Fake ID Draper Road 07/20/2025 03:49 Cleared by Arrest
+2025-900828 05/31/2025 Driving Under the Influence Turner Street 05/22/2025 20:26 Active
+2025-900829 03/06/2025 Hit and Run New Residence Hall East 02/27/2025 03:17 Inactive-Referred to Student Conduct
+2025-900830 03/18/2025 Motor Vehicle Theft Harding Avenue 03/10/2025 03:02 Inactive
+2025-900831 05/03/2025 Vandalism Eggleston Hall 04/28/2025 17:19 Inactive
+2025-900832 02/24/2025 Credit Card Fraud Kent Street 02/15/2025 23:52 Active
+2025-900833 12/19/2025 Extortion Campbell Hall 12/06/2025 21:04 Inactive-Referred to Student Conduct
+2025-900834 08/05/2025 Larceny Hahn Hall 07/24/2025 00:06 Inactive-Referred to Student Conduct
+2025-900835 11/23/2025 Larceny Otey Street 11/10/2025 22:15 Inactive
+2025-900836 11/29/2025 Underage Possession of Alcohol Hahn Hall 11/19/2025 13:13 Inactive-Referred to Student Conduct
+2025-900837 05/06/2025 Underage Possession of Alcohol Roanoke Street 05/05/2025 02:59 Cleared by Arrest
+2025-900838 10/17/2025 Underage Possession of Alcohol Dietrick Hall 10/08/2025 08:39 Inactive-Referred to Student Conduct
+2025-900839 07/05/2025 Petit Larceny Goodwin Hall 07/03/2025 00:59 Inactive
+2025-900840 10/14/2025 Theft from Motor Vehicle Duck Pond Drive 10/06/2025 20:16 Cleared by Arrest
+2025-900841 10/25/2025 Disorderly Conduct Lane Stadium 10/21/2025 23:13 Inactive-Referred to Student Conduct
+2025-900842 12/15/2025 Violation of Protective Order VT Golf Course 12/08/2025 02:53 Cleared by Arrest
+2025-900843 01/15/2025 Assault Campbell Hall 01/05/2025 08:39 Active
+2025-900844 10/14/2025 Underage Possession of Alcohol Payne Hall 10/02/2025 21:24 Cleared by Arrest
+2025-900845 05/10/2025 Petit Larceny Turner Street 05/07/2025 14:28 Active
+2025-900846 04/03/2025 Assault Prices Fork Road 03/27/2025 01:29 Active
+2025-900847 05/05/2025 Fake ID Johnson Student Center 04/24/2025 16:37 Active
+2025-900848 03/24/2025 Hit and Run Eggleston Hall 03/19/2025 22:38 Active
+2025-900849 02/01/2025 Underage Possession of Alcohol West Ambler Johnston Hall 01/28/2025 09:18 Active
+2025-900850 06/23/2025 Disorderly Conduct Draper Road 06/15/2025 08:39 Active
+2025-900851 04/08/2025 Public Intoxication New Residence Hall East 03/31/2025 03:08 Inactive-Referred to Student Conduct
+2025-900852 04/03/2025 Identity Fraud War Memorial Hall 03/27/2025 19:10 Cleared by Arrest
+2025-900853 10/26/2025 Underage Possession of Alcohol Duck Pond Drive 10/17/2025 05:13 Inactive
+2025-900854 03/16/2025 Petit Larceny Washington Street 03/12/2025 01:16 Cleared by Arrest
+2025-900855 09/05/2025 Underage Possession of Marijuana North Main Street 09/01/2025 18:54 Inactive-Referred to Student Conduct
+2025-900856 10/12/2025 Underage Possession of Alcohol Lane Stadium 10/01/2025 21:15 Inactive-Referred to Student Conduct
+2025-900857 07/20/2025 Vandalism Draper Road 07/09/2025 00:42 Active
+2025-900858 06/07/2025 Identity Fraud New Residence Hall East 05/30/2025 07:23 Cleared by Arrest
+2025-900859 09/29/2025 Trespassing Southgate Drive 09/29/2025 00:16 Inactive
+2025-900860 03/28/2025 Vandalism Duck Pond Lot 03/21/2025 13:31 Inactive-Referred to Student Conduct
+2025-900861 09/30/2025 Underage Possession of Alcohol Kent Street 09/25/2025 21:35 Cleared by Arrest
+2025-900862 10/14/2025 Harassment Newman Hall 10/13/2025 21:49 Inactive
+2025-900863 03/20/2025 Fake ID War Memorial Hall 03/12/2025 18:25 Cleared by Arrest
+2025-900864 03/01/2025 Public Intoxication Roanoke Street 02/22/2025 01:12 Inactive-Referred to Student Conduct
+2025-900865 01/17/2025 Public Intoxication Prices Fork Road 01/12/2025 02:28 Inactive
+2025-900866 08/26/2025 Violation of Protective Order Clay Street 08/23/2025 11:47 Inactive-Referred to Student Conduct
+2025-900867 12/29/2025 Urinating in Public Turner Street 12/27/2025 04:09 Inactive-Referred to Student Conduct
+2025-900868 03/16/2025 Trespassing Patrick Henry Drive 03/11/2025 22:45 Active
+2025-900869 05/08/2025 Vandalism Main Street 04/26/2025 22:42 Active
+2025-900870 10/20/2025 Underage Possession of Alcohol Davidson Hall 10/17/2025 20:57 Inactive
+2025-900871 07/28/2025 Reckless Driving Otey Street 07/26/2025 20:10 Inactive
+2025-900872 02/05/2025 Reckless Driving Broce Drive 01/31/2025 21:17 Inactive
+2025-900873 06/11/2025 Reckless Driving Slusher Hall 06/10/2025 19:55 Cleared by Arrest
+2025-900874 11/14/2025 Identity Fraud Architecture Annex 11/05/2025 21:02 Inactive
+2025-900875 01/21/2025 Public Intoxication Southgate Drive 01/09/2025 03:36 Inactive-Referred to Student Conduct
+2025-900876 06/06/2025 Reckless Driving Newman Hall 05/30/2025 23:03 Active
+2025-900877 03/09/2025 Disorderly Conduct West Ambler Johnston Hall 03/02/2025 20:27 Active
+2025-900878 11/07/2025 Stalking Campbell Hall 11/06/2025 06:42 Cleared by Arrest
+2025-900879 11/11/2025 Underage Possession of Alcohol Clay Street 10/28/2025 01:56 Active
+2025-900880 06/16/2025 Driving Under the Influence Roanoke Street 06/14/2025 02:19 Active
+2025-900881 05/06/2025 Unauthorized Use of Vehicle Miles Hall 04/25/2025 13:45 Inactive-Referred to Student Conduct
+2025-900882 02/03/2025 Fake ID Vawter Hall 01/24/2025 02:15 Inactive-Referred to Student Conduct
+2025-900883 12/16/2025 Fake ID Miles Hall 12/04/2025 23:45 Active
+2025-900884 02/04/2025 Disorderly Conduct Campbell Hall 01/25/2025 00:42 Active
+2025-900885 07/20/2025 Assault and Battery Media Building Lot 07/20/2025 01:22 Active
+2025-900886 11/18/2025 Underage Possession of Alcohol Cassell Coliseum 11/16/2025 19:59 Cleared by Arrest
+2025-900887 07/02/2025 Public Intoxication McBryde Hall 06/18/2025 18:49 Inactive-Referred to Student Conduct
+2025-900888 11/15/2025 Trespassing Southgate Drive 11/01/2025 08:15 Inactive-Referred to Student Conduct
+2025-900889 12/12/2025 Vandalism Newman Hall 12/07/2025 22:43 Inactive
+2025-900890 11/23/2025 Driving Under the Influence Burruss Hall 11/18/2025 00:13 Cleared by Arrest
+2025-900891 08/10/2025 Petit Larceny Broce Drive 08/10/2025 14:25 Cleared by Arrest
+2025-900892 12/09/2025 Vandalism Main Street 12/01/2025 22:04 Inactive
+2025-900893 01/18/2025 Larceny Vawter Hall 01/07/2025 19:53 Cleared by Arrest
+2025-900894 11/25/2025 Urinating in Public Cochrane Hall 11/18/2025 23:50 Cleared by Arrest
+2025-900895 04/27/2025 Underage Possession of Alcohol McBryde Hall 04/21/2025 20:04 Active
+2025-900896 02/15/2025 Extortion South Main Street 02/08/2025 03:25 Active
+2025-900897 10/19/2025 Reckless Driving Cochrane Hall 10/10/2025 23:37 Inactive
+2025-900898 09/27/2025 Underage Possession of Alcohol Perry Street Garage 09/23/2025 21:03 Inactive-Referred to Student Conduct
+2025-900899 10/22/2025 Fraud Architecture Annex 10/12/2025 01:16 Inactive
+2025-900900 06/29/2025 Hit and Run Duck Pond Drive 06/17/2025 23:00 Inactive-Referred to Student Conduct
+2025-900901 05/27/2025 Petit Larceny Miles Hall 05/27/2025 23:44 Cleared by Arrest
+2025-900902 12/19/2025 Violation of Protective Order Eggleston Hall 12/14/2025 18:08 Cleared by Arrest
+2025-900903 01/28/2025 Underage Possession of Alcohol Miles Hall 01/15/2025 03:00 Inactive
+2025-900904 02/10/2025 Public Intoxication Cassell Coliseum 02/03/2025 01:28 Active
+2025-900905 01/16/2025 Underage Possession of Alcohol Owens Hall 01/15/2025 18:56 Inactive
+2025-900906 05/26/2025 Extortion Cookout 05/18/2025 03:57 Inactive-Referred to Student Conduct
+2025-900907 01/10/2025 Vandalism Southgate Drive 01/03/2025 01:24 Active
+2025-900908 01/23/2025 Trespassing Broce Drive 01/13/2025 22:51 Active
+2025-900909 05/09/2025 Underage Possession of Alcohol Otey Street 04/25/2025 23:57 Active
+2025-900910 05/06/2025 Fake ID Washington Street 05/05/2025 10:08 Active
+2025-900911 03/06/2025 Underage Possession of Alcohol Cassell Coliseum 03/03/2025 00:09 Inactive-Referred to Student Conduct
+2025-900912 10/12/2025 Public Intoxication Torgersen Hall 09/30/2025 16:28 Inactive-Referred to Student Conduct
+2025-900913 03/08/2025 Fake ID Harding Avenue 03/01/2025 05:10 Inactive-Referred to Student Conduct
+2025-900914 03/21/2025 Underage Possession of Alcohol Slusher Hall 03/21/2025 04:49 Inactive-Referred to Student Conduct
+2025-900915 09/07/2025 Public Intoxication Southgate Drive 08/26/2025 06:22 Inactive
+2025-900916 03/04/2025 Underage Possession of Alcohol Cassell Coliseum 02/28/2025 00:41 Active
+2025-900917 02/10/2025 Trespassing Broce Drive 01/27/2025 23:34 Inactive-Referred to Student Conduct
+2025-900918 04/29/2025 Reckless Driving Perry Street 04/18/2025 23:54 Inactive-Referred to Student Conduct
+2025-900919 10/01/2025 Underage Possession of Alcohol Burruss Hall 09/24/2025 20:26 Inactive
+2025-900920 07/28/2025 Assault Vawter Hall 07/14/2025 11:09 Cleared by Arrest
+2025-900921 01/03/2025 Underage Possession of Alcohol North Main Street 12/30/2024 10:27 Cleared by Arrest
+2025-900922 08/15/2025 Identity Fraud West Ambler Johnston Hall 08/15/2025 23:10 Inactive-Referred to Student Conduct
+2025-900923 04/09/2025 Identity Fraud BNB Theater 04/04/2025 18:58 Active
+2025-900924 04/05/2025 Burglary South Main Street 03/29/2025 00:36 Inactive
+2025-900925 06/02/2025 Drug Possession Cochrane Hall 05/28/2025 00:18 Cleared by Arrest
+2025-900926 05/27/2025 Underage Possession of Alcohol West Ambler Johnston Hall 05/13/2025 22:49 Cleared by Arrest
+2025-900927 03/05/2025 Underage Possession of Alcohol Main Street 03/04/2025 22:32 Inactive
+2025-900928 01/17/2025 Trespassing North Main Street 01/07/2025 02:55 Cleared by Arrest
+2025-900929 03/28/2025 Credit Card Fraud Slusher Hall 03/23/2025 01:59 Inactive-Referred to Student Conduct
+2025-900930 03/11/2025 Public Intoxication Roanoke Street 03/07/2025 00:39 Active
+2025-900931 01/23/2025 Credit Card Fraud BNB Theater 01/09/2025 00:49 Inactive
+2025-900932 10/28/2025 Extortion Hillcrest Hall 10/26/2025 08:22 Cleared by Arrest
+2025-900933 03/23/2025 Disorderly Conduct Architecture Annex 03/22/2025 01:52 Cleared by Arrest
+2025-900934 07/08/2025 Disorderly Conduct Owens Hall 07/06/2025 03:18 Inactive-Referred to Student Conduct
+2025-900935 05/07/2025 Disorderly Conduct New Residence Hall East 04/26/2025 02:20 Inactive
+2025-900936 03/14/2025 Public Intoxication Prices Fork Road 03/12/2025 22:01 Inactive-Referred to Student Conduct
+2025-900937 08/16/2025 Credit Card Fraud North Main Street 08/12/2025 02:11 Inactive-Referred to Student Conduct
+2025-900938 09/26/2025 Vandalism Roanoke Street 09/24/2025 21:01 Active
+2025-900939 02/24/2025 Larceny Payne Hall 02/14/2025 21:40 Inactive-Referred to Student Conduct
+2025-900940 12/08/2025 Underage Possession of Alcohol Johnson Student Center 11/24/2025 18:31 Active
+2025-900941 05/10/2025 Urinating in Public Perry Street 05/06/2025 01:15 Active
+2025-900942 01/18/2025 Burglary Dietrick Hall 01/14/2025 06:07 Inactive
+2025-900943 03/18/2025 Vandalism McBryde Hall 03/08/2025 23:48 Cleared by Arrest
+2025-900944 10/10/2025 Underage Possession of Alcohol Architecture Annex 10/09/2025 00:23 Inactive-Referred to Student Conduct
+2025-900945 02/14/2025 Trespassing Main Street 02/14/2025 12:26 Inactive-Referred to Student Conduct
+2025-900946 03/05/2025 Underage Possession of Alcohol Clay Street 02/28/2025 19:37 Inactive
+2025-900947 07/22/2025 Reckless Driving Media Building Lot 07/11/2025 01:44 Inactive-Referred to Student Conduct
+2025-900948 07/05/2025 Fake ID Clay Street 06/26/2025 03:49 Inactive
+2025-900949 07/16/2025 Burglary Prices Fork Road 07/04/2025 14:40 Active
+2025-900950 12/16/2025 Larceny BNB Theater 12/05/2025 07:54 Active
+2025-900951 07/28/2025 Fake ID Pearson Hall 07/20/2025 01:59 Cleared by Arrest
+2025-900952 12/04/2025 Underage Possession of Alcohol VT Golf Course 12/01/2025 02:30 Inactive
+2025-900953 12/06/2025 Credit Card Fraud Eggleston Hall 11/26/2025 23:24 Active
+2025-900954 12/23/2025 Fraud Harding Avenue 12/15/2025 22:41 Inactive
+2025-900955 01/27/2025 Public Intoxication Eggleston Hall 01/23/2025 23:49 Inactive-Referred to Student Conduct
+2025-900956 01/26/2025 Extortion Eggleston Hall 01/26/2025 03:54 Inactive
+2025-900957 02/20/2025 Extortion Harding Avenue 02/16/2025 20:40 Active
+2025-900958 09/08/2025 Credit Card Fraud Johnson Student Center 08/27/2025 01:05 Inactive
+2025-900959 02/22/2025 Fake ID Perry Street 02/13/2025 01:56 Inactive
+2025-900960 09/30/2025 Fake ID Pearson Hall 09/16/2025 01:06 Cleared by Arrest
+2025-900961 02/24/2025 Public Intoxication War Memorial Hall 02/10/2025 20:54 Active
+2025-900962 05/17/2025 Credit Card Fraud BNB Theater 05/04/2025 23:53 Inactive-Referred to Student Conduct
+2025-900963 12/26/2025 Underage Possession of Alcohol Main Street 12/17/2025 23:50 Inactive-Referred to Student Conduct
+2025-900964 09/15/2025 Underage Possession of Alcohol Roanoke Street 09/04/2025 19:49 Cleared by Arrest
+2025-900965 07/16/2025 Assault Owens Hall 07/10/2025 21:16 Inactive
+2025-900966 09/07/2025 Fake ID Slusher Hall 08/26/2025 21:31 Cleared by Arrest
+2025-900967 03/05/2025 Driving Under the Influence Campbell Hall 02/19/2025 18:45 Inactive-Referred to Student Conduct
+2025-900968 06/27/2025 Underage Possession of Alcohol Hoge Hall 06/18/2025 17:36 Active
+2025-900969 03/05/2025 Disorderly Conduct Newman Hall 03/01/2025 00:13 Inactive-Referred to Student Conduct
+2025-900970 05/22/2025 Public Intoxication Johnson Student Center 05/15/2025 01:28 Active
+2025-900971 09/19/2025 Underage Possession of Alcohol South Main Street 09/12/2025 19:36 Cleared by Arrest
+2025-900972 09/04/2025 Fraud Hoge Hall 08/31/2025 19:06 Inactive-Referred to Student Conduct
+2025-900973 10/13/2025 Underage Possession of Alcohol Oak Lane 10/08/2025 01:20 Active
+2025-900974 07/26/2025 Underage Possession of Alcohol Kent Street 07/19/2025 09:02 Active
+2025-900975 12/01/2025 Underage Possession of Alcohol Hillcrest Hall 11/29/2025 02:37 Cleared by Arrest
+2025-900976 08/31/2025 Petit Larceny Vawter Hall 08/21/2025 23:13 Inactive-Referred to Student Conduct
+2025-900977 07/11/2025 Underage Possession of Alcohol Hoge Hall 07/01/2025 01:39 Active
+2025-900978 07/03/2025 Public Intoxication Main Street 06/21/2025 23:02 Inactive
+2025-900979 10/28/2025 Trespassing Eggleston Hall 10/27/2025 23:07 Cleared by Arrest
+2025-900980 11/19/2025 Credit Card Fraud Newman Hall 11/09/2025 21:39 Inactive
+2025-900981 01/27/2025 Public Intoxication Kent Street 01/22/2025 22:11 Cleared by Arrest
+2025-900982 09/25/2025 Underage Possession of Alcohol Cookout 09/22/2025 21:08 Inactive
+2025-900983 07/26/2025 Credit Card Fraud Media Building Lot 07/18/2025 21:40 Cleared by Arrest
+2025-900984 04/07/2025 Disorderly Conduct Turner Street 04/03/2025 00:22 Active
+2025-900985 02/07/2025 Public Intoxication North Main Street 02/05/2025 02:42 Active
+2025-900986 08/15/2025 Unauthorized Use of Vehicle Duck Pond Drive 08/09/2025 23:40 Inactive-Referred to Student Conduct
+2025-900987 04/27/2025 Underage Possession of Alcohol Clay Street 04/27/2025 20:27 Cleared by Arrest
+2025-900988 08/12/2025 Underage Possession of Alcohol Architecture Annex 08/08/2025 03:42 Active
+2025-900989 02/19/2025 Underage Possession of Alcohol Prices Fork Road 02/07/2025 23:52 Cleared by Arrest
+2025-900990 01/27/2025 Trespassing Media Building Lot 01/17/2025 02:33 Cleared by Arrest
+2025-900991 04/18/2025 Public Intoxication Hahn Hall 04/17/2025 19:00 Cleared by Arrest
+2025-900992 08/09/2025 Burglary Duck Pond Lot 08/06/2025 01:43 Cleared by Arrest
+2025-900993 10/21/2025 Fake ID West Ambler Johnston Hall 10/19/2025 22:23 Inactive
+2025-900994 11/20/2025 Public Intoxication Cassell Coliseum 11/06/2025 11:02 Cleared by Arrest
+2025-900995 07/07/2025 Underage Possession of Alcohol Perry Street Garage 07/01/2025 22:34 Inactive-Referred to Student Conduct
+2025-900996 02/22/2025 Identity Fraud Duck Pond Drive 02/15/2025 01:25 Inactive
+2025-900997 01/11/2025 Public Intoxication Clay Street 01/03/2025 19:28 Inactive-Referred to Student Conduct
+2025-900998 05/09/2025 Petit Larceny Roanoke Street 05/02/2025 16:44 Active
+2025-900999 06/30/2025 Trespassing Lane Stadium 06/30/2025 20:55 Inactive-Referred to Student Conduct
+2025-901000 03/18/2025 Harassment West Ambler Johnston Hall 03/05/2025 23:06 Active
+2025-901001 02/21/2025 Motor Vehicle Theft Goodwin Hall 02/11/2025 00:48 Active
+2025-901002 01/09/2025 Underage Possession of Alcohol Draper Road 01/07/2025 23:22 Inactive-Referred to Student Conduct
+2025-901003 10/09/2025 Credit Card Fraud BNB Theater 10/05/2025 00:04 Inactive
+2025-901004 01/19/2025 Motor Vehicle Theft Duck Pond Drive 01/05/2025 20:43 Inactive-Referred to Student Conduct
+2025-901005 07/24/2025 Hit and Run Johnson Student Center 07/16/2025 01:29 Inactive-Referred to Student Conduct
+2025-901006 11/16/2025 Petit Larceny Campbell Hall 11/14/2025 17:25 Active
+2025-901007 02/23/2025 Underage Possession of Alcohol Washington Street 02/12/2025 02:38 Inactive
+2025-901008 04/29/2025 Underage Possession of Alcohol Eggleston Hall 04/20/2025 23:53 Active
+2025-901009 12/04/2025 Vandalism Vawter Hall 11/21/2025 22:09 Cleared by Arrest
+2025-901010 03/21/2025 Underage Possession of Alcohol New Residence Hall East 03/16/2025 23:08 Active
+2025-901011 02/13/2025 Underage Possession of Alcohol South Main Street 02/02/2025 21:57 Cleared by Arrest
+2025-901012 11/16/2025 Underage Possession of Alcohol North Main Street 11/14/2025 19:44 Cleared by Arrest
+2025-901013 12/19/2025 Underage Possession of Marijuana Broce Drive 12/12/2025 02:51 Inactive
+2025-901014 07/08/2025 Public Intoxication Hillcrest Hall 07/06/2025 12:24 Active
+2025-901015 09/02/2025 Petit Larceny Architecture Annex 08/21/2025 21:18 Cleared by Arrest
+2025-901016 04/17/2025 Disorderly Conduct VT Golf Course 04/17/2025 03:44 Cleared by Arrest
+2025-901017 07/14/2025 Public Intoxication Davidson Hall 07/05/2025 21:22 Inactive
+2025-901018 03/07/2025 Motor Vehicle Theft Southgate Drive 03/04/2025 18:26 Cleared by Arrest
+2025-901019 09/06/2025 Petit Larceny College Avenue 08/31/2025 00:32 Inactive-Referred to Student Conduct
+2025-901020 07/22/2025 Underage Possession of Alcohol Clay Street 07/09/2025 20:50 Inactive
+2025-901021 07/04/2025 Motor Vehicle Theft Architecture Annex 07/01/2025 05:50 Inactive-Referred to Student Conduct
+2025-901022 02/28/2025 Disorderly Conduct Vawter Hall 02/17/2025 07:34 Active
+2025-901023 03/02/2025 Public Intoxication Owens Hall 02/26/2025 18:09 Inactive-Referred to Student Conduct
+2025-901024 08/27/2025 Assault Lane Stadium 08/15/2025 09:22 Cleared by Arrest
+2025-901025 02/16/2025 Larceny Burruss Hall 02/16/2025 21:07 Inactive-Referred to Student Conduct
+2025-901026 01/10/2025 Motor Vehicle Theft Turner Street 01/09/2025 02:52 Cleared by Arrest
+2025-901027 12/15/2025 Petit Larceny Burruss Hall 12/13/2025 12:36 Inactive-Referred to Student Conduct
+2025-901028 02/11/2025 Driving Under the Influence Hillcrest Hall 02/04/2025 00:18 Cleared by Arrest
+2025-901029 09/26/2025 Violation of Protective Order Main Street 09/20/2025 21:33 Inactive
+2025-901030 02/05/2025 Public Intoxication Perry Street 01/26/2025 22:40 Inactive
+2025-901031 10/26/2025 Reckless Driving BNB Theater 10/24/2025 01:45 Inactive-Referred to Student Conduct
+2025-901032 12/14/2025 Petit Larceny Newman Hall 12/07/2025 13:16 Cleared by Arrest
+2025-901033 04/22/2025 Grand Larceny BNB Theater 04/20/2025 20:21 Active
+2025-901034 09/22/2025 Reckless Driving Cochrane Hall 09/22/2025 19:05 Inactive-Referred to Student Conduct
+2025-901035 07/23/2025 Underage Possession of Alcohol College Avenue 07/22/2025 10:45 Inactive
+2025-901036 10/27/2025 Vandalism Main Street 10/24/2025 06:30 Inactive
+2025-901037 06/18/2025 Assault Hoge Hall 06/16/2025 23:05 Inactive-Referred to Student Conduct
+2025-901038 05/29/2025 Larceny Duck Pond Drive 05/28/2025 03:31 Active
+2025-901039 03/20/2025 Trespassing Owens Hall 03/11/2025 23:47 Inactive-Referred to Student Conduct
+2025-901040 07/11/2025 Public Intoxication Lane Stadium 07/01/2025 09:35 Active
+2025-901041 06/21/2025 Larceny McBryde Hall 06/17/2025 17:54 Inactive-Referred to Student Conduct
+2025-901042 05/07/2025 Petit Larceny South Main Street 04/25/2025 13:17 Inactive
+2025-901043 12/19/2025 Underage Possession of Alcohol Oak Lane 12/12/2025 21:31 Inactive-Referred to Student Conduct
+2025-901044 02/27/2025 Hit and Run Burruss Hall 02/17/2025 11:44 Cleared by Arrest
+2025-901045 07/08/2025 Hit and Run Goodwin Hall 06/24/2025 23:38 Inactive
+2025-901046 01/08/2025 Identity Fraud Draper Road 12/29/2024 03:46 Inactive-Referred to Student Conduct
+2025-901047 10/02/2025 Public Intoxication VT Golf Course 09/24/2025 19:29 Cleared by Arrest
+2025-901048 10/28/2025 Petit Larceny Eggleston Hall 10/27/2025 14:40 Inactive
+2025-901049 03/18/2025 Underage Possession of Alcohol Harding Avenue 03/11/2025 23:24 Inactive-Referred to Student Conduct
+2025-901050 06/30/2025 Harassment Payne Hall 06/30/2025 22:03 Inactive-Referred to Student Conduct
+2025-901051 01/10/2025 Underage Possession of Alcohol West Campus Drive 01/07/2025 03:46 Active
+2025-901052 06/16/2025 Disorderly Conduct Miles Hall 06/12/2025 18:37 Active
+2025-901053 09/16/2025 Assault Broce Drive 09/16/2025 19:50 Cleared by Arrest
+2025-901054 09/07/2025 Hit and Run Washington Street 08/26/2025 22:37 Inactive
+2025-901055 10/20/2025 Trespassing Newman Hall 10/06/2025 20:51 Inactive-Referred to Student Conduct
+2025-901056 01/25/2025 Burglary Miles Hall 01/23/2025 14:11 Active
+2025-901057 11/13/2025 Extortion Otey Street 11/12/2025 22:01 Inactive-Referred to Student Conduct
+2025-901058 12/13/2025 Underage Possession of Alcohol Newman Hall 11/29/2025 22:02 Active
+2025-901059 10/29/2025 Underage Possession of Alcohol Johnson Student Center 10/23/2025 01:54 Active
+2025-901060 01/27/2025 Vandalism Slusher Hall 01/19/2025 07:27 Inactive
+2025-901061 11/09/2025 Public Intoxication Cassell Coliseum 10/30/2025 20:58 Cleared by Arrest
+2025-901062 12/25/2025 Trespassing Goodwin Hall 12/21/2025 00:13 Inactive-Referred to Student Conduct
+2025-901063 06/28/2025 Hit and Run Newman Hall 06/15/2025 20:14 Active
+2025-901064 12/12/2025 Vandalism Pearson Hall 12/07/2025 20:17 Cleared by Arrest
+2025-901065 09/25/2025 Petit Larceny War Memorial Hall 09/22/2025 18:46 Inactive
+2025-901066 12/13/2025 Burglary Cassell Coliseum 12/10/2025 02:19 Cleared by Arrest
+2025-901067 07/26/2025 Reckless Driving Turner Street 07/15/2025 05:28 Cleared by Arrest
+2025-901068 08/24/2025 Urinating in Public Oak Lane 08/19/2025 13:36 Inactive-Referred to Student Conduct
+2025-901069 06/18/2025 Assault Perry Street Garage 06/11/2025 19:04 Active
+2025-901070 10/04/2025 Fraud Vawter Hall 09/26/2025 22:55 Active
+2025-901071 08/31/2025 Fake ID Draper Road 08/21/2025 20:26 Cleared by Arrest
+2025-901072 11/11/2025 Underage Possession of Alcohol North Main Street 10/29/2025 04:39 Active
+2025-901073 12/14/2025 Reckless Driving Washington Street 12/02/2025 00:13 Inactive
+2025-901074 01/05/2025 Driving Under the Influence Newman Hall 12/25/2024 22:51 Cleared by Arrest
+2025-901075 03/15/2025 Petit Larceny College Avenue 03/10/2025 01:49 Cleared by Arrest
+2025-901076 01/29/2025 Public Intoxication Turner Street 01/15/2025 18:06 Inactive-Referred to Student Conduct
+2025-901077 06/11/2025 Extortion Hillcrest Hall 06/09/2025 22:20 Inactive
+2025-901078 03/31/2025 Public Intoxication Southgate Drive 03/29/2025 01:12 Cleared by Arrest
+2025-901079 05/02/2025 Trespassing Perry Street Garage 04/19/2025 00:25 Inactive
+2025-901080 10/29/2025 Fake ID Prices Fork Road 10/23/2025 12:27 Inactive
+2025-901081 10/28/2025 Petit Larceny Architecture Annex 10/18/2025 18:55 Inactive-Referred to Student Conduct
+2025-901082 10/10/2025 Reckless Driving Johnson Student Center 09/29/2025 18:49 Inactive-Referred to Student Conduct
+2025-901083 01/24/2025 Underage Possession of Alcohol Architecture Annex 01/22/2025 14:48 Active
+2025-901084 02/02/2025 Underage Possession of Alcohol Lane Stadium 01/27/2025 02:35 Cleared by Arrest
+2025-901085 07/02/2025 Reckless Driving College Avenue 06/22/2025 02:46 Cleared by Arrest
+2025-901086 03/02/2025 Public Intoxication New Residence Hall East 02/22/2025 03:21 Cleared by Arrest
+2025-901087 08/20/2025 Fraud Miles Hall 08/13/2025 01:53 Inactive
+2025-901088 11/19/2025 Petit Larceny Draper Road 11/07/2025 14:44 Active
+2025-901089 06/29/2025 Reckless Driving McBryde Hall 06/16/2025 05:43 Inactive-Referred to Student Conduct
+2025-901090 07/02/2025 Reckless Driving Newman Hall 06/21/2025 14:22 Inactive
+2025-901091 10/22/2025 Stalking West Campus Drive 10/20/2025 23:13 Cleared by Arrest
+2025-901092 03/17/2025 Assault Architecture Annex 03/06/2025 01:13 Inactive
+2025-901093 07/02/2025 Underage Possession of Alcohol BNB Theater 06/19/2025 00:16 Inactive
+2025-901094 01/15/2025 Credit Card Theft College Avenue 01/12/2025 22:30 Inactive-Referred to Student Conduct
+2025-901095 12/05/2025 Vandalism Payne Hall 11/26/2025 03:52 Inactive
+2025-901096 03/08/2025 Fraud South Main Street 02/26/2025 09:45 Inactive-Referred to Student Conduct
+2025-901097 08/19/2025 Drug Possession Main Street 08/13/2025 23:34 Cleared by Arrest
+2025-901098 08/07/2025 Motor Vehicle Theft War Memorial Hall 07/25/2025 01:49 Active
+2025-901099 12/15/2025 Public Intoxication Cochrane Hall 12/14/2025 00:25 Inactive
+2025-901100 12/14/2025 Larceny Media Building Lot 12/03/2025 00:39 Inactive
+2025-901101 12/22/2025 Harassment BNB Theater 12/13/2025 02:03 Active
+2025-901102 10/16/2025 Public Intoxication West Campus Drive 10/16/2025 18:21 Inactive-Referred to Student Conduct
+2025-901103 10/19/2025 Underage Possession of Alcohol Miles Hall 10/12/2025 11:09 Inactive
+2025-901104 09/18/2025 Identity Fraud War Memorial Hall 09/16/2025 22:07 Inactive
+2025-901105 04/03/2025 Disorderly Conduct West Ambler Johnston Hall 03/31/2025 01:57 Inactive-Referred to Student Conduct
+2025-901106 09/26/2025 Petit Larceny Hoge Hall 09/26/2025 01:57 Inactive
+2025-901107 10/14/2025 Underage Possession of Alcohol Main Street 10/11/2025 20:56 Inactive-Referred to Student Conduct
+2025-901108 12/12/2025 Drug Possession Hillcrest Hall 12/10/2025 02:05 Inactive
+2025-901109 10/01/2025 Credit Card Theft Goodwin Hall 09/19/2025 21:48 Inactive
+2025-901110 05/14/2025 Public Intoxication College Avenue 05/09/2025 00:05 Active
+2025-901111 04/19/2025 Disorderly Conduct Perry Street 04/12/2025 01:46 Active
+2025-901112 01/06/2025 Extortion Cookout 01/04/2025 00:01 Inactive-Referred to Student Conduct
+2025-901113 01/28/2025 Assault Perry Street Garage 01/20/2025 19:04 Inactive
+2025-901114 03/27/2025 Motor Vehicle Theft Turner Street 03/18/2025 23:31 Active
+2025-901115 03/01/2025 Larceny Kent Street 02/23/2025 19:35 Inactive-Referred to Student Conduct
+2025-901116 03/20/2025 Underage Possession of Alcohol Cochrane Hall 03/10/2025 02:37 Active
+2025-901117 11/04/2025 Public Intoxication South Main Street 10/25/2025 18:38 Inactive
+2025-901118 02/04/2025 Trespassing Cochrane Hall 01/22/2025 03:58 Cleared by Arrest
+2025-901119 07/08/2025 Underage Possession of Alcohol BNB Theater 07/01/2025 21:21 Active
+2025-901120 09/28/2025 Underage Possession of Alcohol New Residence Hall East 09/18/2025 00:24 Active
+2025-901121 01/03/2025 Hit and Run Cookout 01/02/2025 03:45 Inactive-Referred to Student Conduct
+2025-901122 01/06/2025 Assault Pritchard Hall 01/05/2025 02:53 Inactive-Referred to Student Conduct
+2025-901123 09/19/2025 Grand Larceny Media Building Lot 09/05/2025 02:08 Active
+2025-901124 07/20/2025 Disorderly Conduct Perry Street Garage 07/19/2025 23:22 Active
+2025-901125 07/17/2025 Larceny South Main Street 07/15/2025 14:37 Inactive
+2025-901126 02/07/2025 Identity Fraud Architecture Annex 01/30/2025 03:21 Inactive-Referred to Student Conduct
+2025-901127 07/30/2025 Driving Under the Influence Broce Drive 07/26/2025 08:50 Inactive
+2025-901128 11/11/2025 Petit Larceny Perry Street Garage 10/29/2025 23:53 Inactive-Referred to Student Conduct
+2025-901129 03/28/2025 Public Intoxication West Campus Drive 03/19/2025 03:41 Inactive
+2025-901130 07/24/2025 Fake ID Broce Drive 07/17/2025 02:29 Active
+2025-901131 08/30/2025 Fake ID Johnson Student Center 08/22/2025 21:52 Inactive
+2025-901132 03/18/2025 Driving Under the Influence Newman Hall 03/17/2025 17:19 Inactive
+2025-901133 12/23/2025 Trespassing Goodwin Hall 12/09/2025 01:10 Active
+2025-901134 10/09/2025 Larceny Media Building Lot 10/08/2025 21:35 Active
+2025-901135 08/07/2025 Assault and Battery Lane Stadium 08/05/2025 14:57 Cleared by Arrest
+2025-901136 11/16/2025 Public Intoxication Patrick Henry Drive 11/11/2025 00:02 Active
+2025-901137 07/17/2025 Motor Vehicle Theft Dietrick Hall 07/08/2025 00:51 Inactive
+2025-901138 09/11/2025 Fraud Otey Street 09/06/2025 21:42 Inactive
+2025-901139 04/13/2025 Hit and Run College Avenue 04/06/2025 22:10 Active
+2025-901140 08/17/2025 Driving Under the Influence South Main Street 08/09/2025 08:00 Inactive-Referred to Student Conduct
+2025-901141 09/09/2025 Stalking Hoge Hall 09/02/2025 21:50 Inactive
+2025-901142 10/19/2025 Credit Card Theft Media Building Lot 10/15/2025 11:33 Inactive-Referred to Student Conduct
+2025-901143 07/16/2025 Underage Possession of Alcohol Roanoke Street 07/10/2025 02:22 Inactive
+2025-901144 01/23/2025 Vandalism Miles Hall 01/16/2025 20:38 Active
+2025-901145 06/02/2025 Underage Possession of Alcohol Torgersen Hall 05/21/2025 21:23 Inactive
+2025-901146 11/09/2025 Public Intoxication Dietrick Hall 10/28/2025 01:45 Inactive
+2025-901147 05/21/2025 Motor Vehicle Theft Davidson Hall 05/18/2025 12:46 Inactive
+2025-901148 11/18/2025 Driving Under the Influence Main Street 11/09/2025 12:45 Cleared by Arrest
+2025-901149 04/06/2025 Petit Larceny Roanoke Street 03/27/2025 03:52 Inactive
+2025-901150 04/20/2025 Larceny Clay Street 04/15/2025 01:30 Cleared by Arrest
+2025-901151 10/06/2025 Public Intoxication Media Building Lot 10/02/2025 22:58 Inactive-Referred to Student Conduct
+2025-901152 12/06/2025 Underage Possession of Alcohol North Main Street 11/28/2025 22:26 Inactive
+2025-901153 08/24/2025 Underage Possession of Alcohol Davidson Hall 08/22/2025 00:17 Cleared by Arrest
+2025-901154 07/05/2025 Fraud Otey Street 06/29/2025 21:40 Inactive
+2025-901155 12/19/2025 Driving Under the Influence Progress Street 12/07/2025 20:46 Active
+2025-901156 09/30/2025 Underage Possession of Alcohol Payne Hall 09/26/2025 18:04 Inactive-Referred to Student Conduct
+2025-901157 08/14/2025 Public Intoxication Johnson Student Center 08/14/2025 20:42 Active
+2025-901158 01/04/2025 Fake ID Dietrick Hall 01/04/2025 20:30 Cleared by Arrest
+2025-901159 03/26/2025 Reckless Driving Torgersen Hall 03/16/2025 11:14 Cleared by Arrest
+2025-901160 08/04/2025 Trespassing Cassell Coliseum 07/27/2025 22:18 Inactive-Referred to Student Conduct
+2025-901161 09/08/2025 Burglary Washington Street 08/31/2025 04:40 Active
+2025-901162 12/31/2025 Underage Possession of Alcohol Cassell Coliseum 12/28/2025 20:52 Active
+2025-901163 03/13/2025 Underage Possession of Alcohol Torgersen Hall 03/12/2025 21:15 Cleared by Arrest
+2025-901164 03/28/2025 Fake ID Cookout 03/26/2025 13:36 Active
+2025-901165 08/17/2025 Assault and Battery Southgate Drive 08/10/2025 03:10 Cleared by Arrest
+2025-901166 11/26/2025 Assault North Main Street 11/15/2025 03:35 Inactive-Referred to Student Conduct
+2025-901167 02/13/2025 Fake ID Johnson Student Center 02/07/2025 00:57 Active
+2025-901168 10/05/2025 Public Intoxication Miles Hall 09/29/2025 22:06 Active
+2025-901169 03/27/2025 Underage Possession of Alcohol War Memorial Hall 03/19/2025 20:35 Cleared by Arrest
+2025-901170 04/26/2025 Assault and Battery Goodwin Hall 04/19/2025 17:16 Inactive
+2025-901171 05/15/2025 Underage Possession of Alcohol Davidson Hall 05/11/2025 00:28 Active
+2025-901172 02/13/2025 Assault Pritchard Hall 02/10/2025 07:35 Inactive-Referred to Student Conduct
+2025-901173 10/29/2025 Disorderly Conduct Pearson Hall 10/22/2025 05:31 Cleared by Arrest
+2025-901174 07/14/2025 Petit Larceny Media Building Lot 07/05/2025 14:57 Cleared by Arrest
+2025-901175 06/12/2025 Burglary South Main Street 06/11/2025 14:06 Active
+2025-901176 09/25/2025 Underage Possession of Alcohol Otey Street 09/16/2025 03:13 Inactive
+2025-901177 08/23/2025 Underage Possession of Marijuana Broce Drive 08/21/2025 09:10 Inactive
+2025-901178 03/27/2025 Trespassing VT Golf Course 03/16/2025 23:40 Active
+2025-901179 09/07/2025 Underage Possession of Alcohol BNB Theater 08/31/2025 13:12 Inactive
+2025-901180 10/21/2025 Public Intoxication Goodwin Hall 10/14/2025 01:37 Active
+2025-901181 08/14/2025 Urinating in Public Roanoke Street 08/08/2025 01:52 Inactive-Referred to Student Conduct
+2025-901182 09/09/2025 Larceny Owens Hall 09/03/2025 13:46 Inactive-Referred to Student Conduct
+2025-901183 04/07/2025 Underage Possession of Alcohol War Memorial Hall 03/30/2025 11:06 Inactive-Referred to Student Conduct
+2025-901184 02/18/2025 Trespassing Roanoke Street 02/15/2025 19:53 Active
+2025-901185 09/01/2025 Theft from Motor Vehicle Roanoke Street 08/29/2025 03:26 Active
+2025-901186 01/30/2025 Vandalism Progress Street 01/19/2025 21:33 Active
+2025-901187 09/15/2025 Disorderly Conduct Media Building Lot 09/14/2025 19:48 Inactive
+2025-901188 04/01/2025 Fraud Cochrane Hall 03/27/2025 16:57 Active
+2025-901189 10/07/2025 Violation of Protective Order Draper Road 10/02/2025 19:44 Inactive
+2025-901190 10/10/2025 Underage Possession of Alcohol Media Building Lot 10/02/2025 03:08 Active
+2025-901191 01/02/2025 Petit Larceny Duck Pond Drive 12/28/2024 00:33 Cleared by Arrest
+2025-901192 08/30/2025 Theft from Motor Vehicle Washington Street 08/17/2025 23:20 Inactive-Referred to Student Conduct
+2025-901193 01/18/2025 Vandalism Main Street 01/16/2025 15:32 Inactive-Referred to Student Conduct
+2025-901194 04/22/2025 Underage Possession of Alcohol Johnson Student Center 04/14/2025 00:47 Inactive-Referred to Student Conduct
+2025-901195 02/03/2025 Trespassing Pearson Hall 01/23/2025 21:08 Cleared by Arrest
+2025-901196 05/22/2025 Public Intoxication Harding Avenue 05/22/2025 13:51 Inactive-Referred to Student Conduct
+2025-901197 10/23/2025 Credit Card Fraud Clay Street 10/11/2025 23:22 Active
+2025-901198 02/28/2025 Hit and Run Clay Street 02/24/2025 01:25 Cleared by Arrest
+2025-901199 06/27/2025 Fraud Payne Hall 06/22/2025 04:15 Cleared by Arrest
+2025-901200 07/29/2025 Motor Vehicle Theft Prices Fork Road 07/16/2025 21:22 Active
+2025-901201 07/20/2025 Driving Under the Influence North Main Street 07/09/2025 18:45 Cleared by Arrest
+2025-901202 12/10/2025 Underage Possession of Alcohol Davidson Hall 11/30/2025 23:21 Inactive-Referred to Student Conduct
+2025-901203 08/06/2025 Drug Possession Duck Pond Lot 08/06/2025 12:59 Active
+2025-901204 08/12/2025 Public Intoxication South Main Street 08/11/2025 01:22 Active
+2025-901205 10/10/2025 Underage Possession of Alcohol Hahn Hall 10/09/2025 13:25 Inactive-Referred to Student Conduct
+2025-901206 04/25/2025 Underage Possession of Alcohol New Residence Hall East 04/23/2025 04:56 Active
+2025-901207 01/19/2025 Petit Larceny Dietrick Hall 01/11/2025 02:29 Cleared by Arrest
+2025-901208 11/11/2025 Disorderly Conduct Goodwin Hall 10/29/2025 02:06 Inactive
+2025-901209 07/03/2025 Driving Under the Influence Kent Street 06/29/2025 00:42 Inactive-Referred to Student Conduct
+2025-901210 07/08/2025 Disorderly Conduct Cookout 06/26/2025 20:35 Inactive
+2025-901211 12/16/2025 Petit Larceny Media Building Lot 12/08/2025 21:33 Active
+2025-901212 03/13/2025 Violation of Protective Order Burruss Hall 03/04/2025 03:02 Cleared by Arrest
+2025-901213 01/23/2025 Harassment College Avenue 01/20/2025 12:30 Inactive-Referred to Student Conduct
+2025-901214 10/03/2025 Underage Possession of Alcohol Roanoke Street 10/02/2025 02:30 Cleared by Arrest
+2025-901215 09/19/2025 Urinating in Public Clay Street 09/18/2025 22:17 Active
+2025-901216 02/18/2025 Grand Larceny Harding Avenue 02/08/2025 02:50 Active
+2025-901217 05/15/2025 Underage Possession of Alcohol Duck Pond Lot 05/12/2025 22:46 Active
+2025-901218 04/20/2025 Assault Lane Stadium 04/15/2025 03:56 Inactive-Referred to Student Conduct
+2025-901219 07/18/2025 Trespassing Lane Stadium 07/07/2025 02:39 Inactive
+2025-901220 10/06/2025 Fake ID War Memorial Hall 09/25/2025 21:33 Active
+2025-901221 03/21/2025 Underage Possession of Alcohol College Avenue 03/07/2025 21:39 Active
+2025-901222 12/04/2025 Burglary Clay Street 11/27/2025 22:23 Inactive
+2025-901223 08/07/2025 Fraud Duck Pond Drive 08/03/2025 03:35 Inactive-Referred to Student Conduct
+2025-901224 08/25/2025 Underage Possession of Alcohol Torgersen Hall 08/16/2025 00:18 Active
+2025-901225 12/10/2025 Petit Larceny Harding Avenue 12/08/2025 00:35 Cleared by Arrest
+2025-901226 07/23/2025 Public Intoxication Pritchard Hall 07/22/2025 01:24 Active
+2025-901227 06/08/2025 Stalking Eggleston Hall 05/26/2025 23:28 Cleared by Arrest
+2025-901228 05/08/2025 Reckless Driving VT Golf Course 04/29/2025 23:25 Inactive
+2025-901229 01/23/2025 Petit Larceny Payne Hall 01/22/2025 22:08 Inactive-Referred to Student Conduct
+2025-901230 12/27/2025 Fraud West Ambler Johnston Hall 12/15/2025 01:20 Active
+2025-901231 09/27/2025 Public Intoxication West Ambler Johnston Hall 09/27/2025 08:48 Inactive
+2025-901232 06/02/2025 Underage Possession of Alcohol Miles Hall 05/23/2025 03:49 Cleared by Arrest
+2025-901233 04/17/2025 Damage to Property Johnson Student Center 04/05/2025 23:07 Inactive
+2025-901234 06/21/2025 Trespassing BNB Theater 06/07/2025 11:17 Cleared by Arrest
+2025-901235 12/24/2025 Petit Larceny Southgate Drive 12/10/2025 02:01 Inactive-Referred to Student Conduct
+2025-901236 12/05/2025 Larceny Burruss Hall 11/29/2025 02:00 Active
+2025-901237 09/24/2025 Underage Possession of Alcohol College Avenue 09/16/2025 23:07 Inactive-Referred to Student Conduct
+2025-901238 08/09/2025 Petit Larceny West Campus Drive 08/07/2025 07:20 Inactive
+2025-901239 01/11/2025 Petit Larceny Cochrane Hall 01/05/2025 21:04 Inactive-Referred to Student Conduct
+2025-901240 03/29/2025 Trespassing Turner Street 03/29/2025 14:37 Cleared by Arrest
+2025-901241 10/08/2025 Petit Larceny Washington Street 09/30/2025 21:40 Inactive-Referred to Student Conduct
+2025-901242 06/13/2025 Motor Vehicle Theft Duck Pond Drive 06/05/2025 21:59 Inactive
+2025-901243 02/14/2025 Credit Card Fraud Broce Drive 02/05/2025 20:23 Inactive-Referred to Student Conduct
+2025-901244 11/28/2025 Public Intoxication Pearson Hall 11/21/2025 03:00 Active
+2025-901245 01/25/2025 Damage to Property Patrick Henry Drive 01/17/2025 02:52 Inactive
+2025-901246 09/10/2025 Reckless Driving Cookout 08/27/2025 20:24 Inactive
+2025-901247 01/20/2025 Vandalism Roanoke Street 01/18/2025 03:10 Cleared by Arrest
+2025-901248 05/26/2025 Underage Possession of Alcohol Main Street 05/24/2025 18:58 Cleared by Arrest
+2025-901249 02/02/2025 Underage Possession of Alcohol Broce Drive 02/01/2025 05:21 Inactive
+2025-901250 06/13/2025 Driving Under the Influence Davidson Hall 06/12/2025 20:19 Inactive
+2025-901251 06/25/2025 Unauthorized Use of Vehicle Perry Street Garage 06/12/2025 00:18 Cleared by Arrest
+2025-901252 10/02/2025 Trespassing Pearson Hall 09/23/2025 23:32 Cleared by Arrest
+2025-901253 09/26/2025 Fake ID Roanoke Street 09/13/2025 12:10 Active
+2025-901254 01/24/2025 Vandalism Duck Pond Lot 01/18/2025 21:05 Inactive
+2025-901255 10/07/2025 Assault Eggleston Hall 10/01/2025 03:02 Inactive
+2025-901256 04/01/2025 Grand Larceny Slusher Hall 03/21/2025 21:30 Active
+2025-901257 12/01/2025 Disorderly Conduct Cookout 11/23/2025 19:21 Cleared by Arrest
+2025-901258 12/04/2025 Underage Possession of Alcohol North Main Street 11/25/2025 02:24 Active
+2025-901259 12/30/2025 Underage Possession of Alcohol Goodwin Hall 12/19/2025 00:18 Active
+2025-901260 06/02/2025 Credit Card Fraud Pritchard Hall 05/22/2025 02:14 Inactive
+2025-901261 08/16/2025 Driving Under the Influence Washington Street 08/15/2025 02:09 Cleared by Arrest
+2025-901262 11/10/2025 Stalking Dietrick Hall 10/30/2025 00:31 Inactive
+2025-901263 09/15/2025 Violation of Protective Order Clay Street 09/12/2025 01:14 Inactive-Referred to Student Conduct
+2025-901264 09/11/2025 Burglary BNB Theater 09/01/2025 21:33 Cleared by Arrest
+2025-901265 02/22/2025 Driving Under the Influence Dietrick Hall 02/13/2025 21:10 Inactive
+2025-901266 11/30/2025 Disorderly Conduct Vawter Hall 11/27/2025 00:26 Inactive-Referred to Student Conduct
+2025-901267 10/11/2025 Fake ID VT Golf Course 10/02/2025 01:25 Inactive-Referred to Student Conduct
+2025-901268 05/29/2025 Public Intoxication Hahn Hall 05/15/2025 13:04 Active
+2025-901269 09/24/2025 Larceny Roanoke Street 09/23/2025 19:11 Inactive-Referred to Student Conduct
+2025-901270 07/12/2025 Harassment North Main Street 07/04/2025 12:56 Cleared by Arrest
+2025-901271 01/09/2025 Public Intoxication War Memorial Hall 12/27/2024 09:48 Inactive
+2025-901272 01/25/2025 Larceny Draper Road 01/22/2025 02:46 Inactive
+2025-901273 05/24/2025 Reckless Driving Roanoke Street 05/17/2025 22:19 Cleared by Arrest
+2025-901274 04/14/2025 Driving Under the Influence Campbell Hall 04/05/2025 17:14 Inactive-Referred to Student Conduct
+2025-901275 02/26/2025 Grand Larceny Architecture Annex 02/18/2025 02:42 Cleared by Arrest
+2025-901276 06/24/2025 Petit Larceny Architecture Annex 06/18/2025 23:24 Inactive-Referred to Student Conduct
+2025-901277 12/25/2025 Petit Larceny Slusher Hall 12/13/2025 22:14 Inactive-Referred to Student Conduct
+2025-901278 05/11/2025 Underage Possession of Alcohol West Ambler Johnston Hall 04/30/2025 14:14 Active
+2025-901279 12/26/2025 Unauthorized Use of Vehicle Perry Street 12/20/2025 00:51 Inactive
+2025-901280 05/30/2025 Public Intoxication Hahn Hall 05/28/2025 00:31 Active
+2025-901281 09/15/2025 Credit Card Fraud Architecture Annex 09/11/2025 18:13 Active
+2025-901282 03/25/2025 Vandalism Main Street 03/13/2025 23:44 Active
+2025-901283 02/18/2025 Petit Larceny Progress Street 02/17/2025 21:45 Cleared by Arrest
+2025-901284 05/04/2025 Stalking Patrick Henry Drive 05/01/2025 14:58 Cleared by Arrest
+2025-901285 07/25/2025 Vandalism Kent Street 07/22/2025 05:23 Inactive
+2025-901286 06/26/2025 Underage Possession of Alcohol South Main Street 06/22/2025 01:33 Inactive-Referred to Student Conduct
+2025-901287 03/06/2025 Underage Possession of Alcohol Hillcrest Hall 02/26/2025 02:06 Inactive
+2025-901288 07/10/2025 Underage Possession of Alcohol Hillcrest Hall 07/08/2025 03:34 Inactive
+2025-901289 03/02/2025 Underage Possession of Alcohol McBryde Hall 02/27/2025 21:36 Cleared by Arrest
+2025-901290 09/01/2025 Public Intoxication BNB Theater 08/27/2025 20:43 Inactive
+2025-901291 12/16/2025 Trespassing Oak Lane 12/04/2025 21:26 Inactive
+2025-901292 06/30/2025 Driving Under the Influence Owens Hall 06/27/2025 03:57 Inactive
+2025-901293 05/11/2025 Fake ID Patrick Henry Drive 04/30/2025 02:02 Inactive-Referred to Student Conduct
+2025-901294 12/30/2025 Public Intoxication Perry Street Garage 12/30/2025 12:47 Inactive-Referred to Student Conduct
+2025-901295 06/23/2025 Underage Possession of Alcohol Dietrick Hall 06/12/2025 20:30 Inactive
+2025-901296 01/28/2025 Vandalism Johnson Student Center 01/14/2025 21:42 Active
+2025-901297 06/12/2025 Disorderly Conduct Davidson Hall 06/01/2025 02:00 Inactive
+2025-901298 04/20/2025 Motor Vehicle Theft West Campus Drive 04/18/2025 01:11 Inactive
+2025-901299 02/01/2025 Credit Card Fraud War Memorial Hall 01/22/2025 02:26 Inactive-Referred to Student Conduct
+2025-901300 01/14/2025 Petit Larceny Vawter Hall 01/05/2025 00:18 Cleared by Arrest
+2025-901301 01/24/2025 Petit Larceny Kent Street 01/14/2025 03:08 Active
+2025-901302 05/13/2025 Underage Possession of Alcohol Slusher Hall 05/04/2025 03:22 Cleared by Arrest
+2025-901303 08/26/2025 Petit Larceny Payne Hall 08/16/2025 03:09 Inactive
+2025-901304 12/12/2025 Larceny War Memorial Hall 12/09/2025 00:10 Active
+2025-901305 02/10/2025 Larceny War Memorial Hall 02/04/2025 00:12 Active
+2025-901306 11/21/2025 Hit and Run Otey Street 11/09/2025 03:47 Inactive
+2025-901307 09/04/2025 Trespassing Turner Street 09/02/2025 00:25 Inactive
+2025-901308 01/14/2025 Larceny Davidson Hall 01/06/2025 02:26 Inactive
+2025-901309 04/12/2025 Underage Possession of Marijuana Davidson Hall 04/04/2025 00:37 Active
+2025-901310 10/17/2025 Fake ID Architecture Annex 10/09/2025 22:36 Inactive-Referred to Student Conduct
+2025-901311 02/20/2025 Vandalism Southgate Drive 02/11/2025 08:38 Inactive
+2025-901312 03/10/2025 Petit Larceny Perry Street 03/08/2025 19:02 Active
+2025-901313 03/25/2025 Urinating in Public Vawter Hall 03/14/2025 00:33 Active
+2025-901314 12/08/2025 Motor Vehicle Theft College Avenue 12/02/2025 18:23 Inactive
+2025-901315 07/26/2025 Underage Possession of Alcohol Dietrick Hall 07/19/2025 19:29 Active
+2025-901316 05/09/2025 Petit Larceny Oak Lane 04/30/2025 03:28 Active
+2025-901317 02/10/2025 Driving Under the Influence Duck Pond Drive 01/27/2025 10:35 Inactive
+2025-901318 07/22/2025 Reckless Driving Hoge Hall 07/10/2025 04:22 Inactive-Referred to Student Conduct
+2025-901319 07/18/2025 Damage to Property New Residence Hall East 07/15/2025 15:42 Cleared by Arrest
+2025-901320 04/05/2025 Theft from Motor Vehicle Otey Street 04/04/2025 00:04 Active
+2025-901321 10/07/2025 Vandalism Prices Fork Road 10/07/2025 02:37 Active
+2025-901322 01/12/2025 Disorderly Conduct Oak Lane 01/10/2025 05:54 Active
+2025-901323 05/16/2025 Public Intoxication Campbell Hall 05/10/2025 01:05 Cleared by Arrest
+2025-901324 06/20/2025 Driving Under the Influence North Main Street 06/17/2025 04:04 Active
+2025-901325 04/19/2025 Petit Larceny Draper Road 04/05/2025 12:22 Inactive
+2025-901326 06/23/2025 Stalking Newman Hall 06/16/2025 23:25 Inactive-Referred to Student Conduct
+2025-901327 03/15/2025 Larceny Perry Street 03/12/2025 00:52 Inactive-Referred to Student Conduct
+2025-901328 10/22/2025 Underage Possession of Alcohol Clay Street 10/15/2025 11:22 Inactive-Referred to Student Conduct
+2025-901329 11/26/2025 Public Intoxication Goodwin Hall 11/18/2025 20:55 Inactive-Referred to Student Conduct
+2025-901330 03/10/2025 Public Intoxication Vawter Hall 02/28/2025 14:13 Cleared by Arrest
+2025-901331 03/22/2025 Vandalism Washington Street 03/09/2025 23:04 Inactive
+2025-901332 06/26/2025 Motor Vehicle Theft West Ambler Johnston Hall 06/15/2025 18:16 Inactive-Referred to Student Conduct
+2025-901333 07/21/2025 Hit and Run Patrick Henry Drive 07/21/2025 23:19 Inactive-Referred to Student Conduct
+2025-901334 11/12/2025 Driving Under the Influence McBryde Hall 11/06/2025 20:44 Inactive-Referred to Student Conduct
+2025-901335 03/24/2025 Stalking New Residence Hall East 03/17/2025 05:53 Inactive
+2025-901336 06/27/2025 Hit and Run Dietrick Hall 06/14/2025 12:27 Inactive
+2025-901337 07/18/2025 Public Intoxication South Main Street 07/13/2025 21:30 Active
+2025-901338 10/16/2025 Urinating in Public War Memorial Hall 10/16/2025 03:41 Inactive-Referred to Student Conduct
+2025-901339 05/30/2025 Larceny Main Street 05/23/2025 10:33 Inactive-Referred to Student Conduct
+2025-901340 03/05/2025 Extortion Prices Fork Road 02/20/2025 04:09 Inactive-Referred to Student Conduct
+2025-901341 04/11/2025 Burglary Broce Drive 04/03/2025 18:02 Inactive-Referred to Student Conduct
+2025-901342 04/30/2025 Fake ID Pritchard Hall 04/21/2025 09:47 Cleared by Arrest
+2025-901343 01/15/2025 Public Intoxication Otey Street 01/01/2025 00:32 Cleared by Arrest
+2025-901344 02/22/2025 Trespassing Torgersen Hall 02/20/2025 11:04 Inactive-Referred to Student Conduct
+2025-901345 03/17/2025 Disorderly Conduct Slusher Hall 03/07/2025 21:25 Active
+2025-901346 11/05/2025 Underage Possession of Alcohol West Campus Drive 11/03/2025 20:00 Inactive-Referred to Student Conduct
+2025-901347 01/12/2025 Underage Possession of Alcohol Davidson Hall 01/10/2025 19:14 Inactive
+2025-901348 01/09/2025 Disorderly Conduct Goodwin Hall 01/05/2025 09:58 Cleared by Arrest
+2025-901349 02/18/2025 Credit Card Fraud West Campus Drive 02/16/2025 17:05 Inactive-Referred to Student Conduct
+2025-901350 04/20/2025 Larceny Progress Street 04/15/2025 01:58 Inactive
+2025-901351 06/15/2025 Fake ID VT Golf Course 06/10/2025 19:57 Inactive
+2025-901352 03/16/2025 Public Intoxication Patrick Henry Drive 03/16/2025 23:48 Inactive
+2025-901353 09/06/2025 Disorderly Conduct Kent Street 09/06/2025 07:42 Active
+2025-901354 02/08/2025 Public Intoxication Turner Street 01/26/2025 20:36 Inactive
+2025-901355 10/14/2025 Public Intoxication Slusher Hall 10/12/2025 22:42 Inactive-Referred to Student Conduct
+2025-901356 11/29/2025 Credit Card Fraud South Main Street 11/22/2025 23:04 Active
+2025-901357 12/07/2025 Violation of Protective Order Duck Pond Lot 11/24/2025 04:44 Inactive-Referred to Student Conduct
+2025-901358 03/27/2025 Underage Possession of Alcohol Johnson Student Center 03/19/2025 11:00 Cleared by Arrest
+2025-901359 04/16/2025 Public Intoxication Newman Hall 04/14/2025 18:14 Active
+2025-901360 07/14/2025 Public Intoxication Goodwin Hall 07/10/2025 02:07 Inactive
+2025-901361 06/03/2025 Public Intoxication Southgate Drive 05/29/2025 08:37 Cleared by Arrest
+2025-901362 09/08/2025 Underage Possession of Alcohol Architecture Annex 08/25/2025 21:04 Cleared by Arrest
+2025-901363 07/15/2025 Underage Possession of Alcohol College Avenue 07/10/2025 05:12 Active
+2025-901364 07/18/2025 Credit Card Fraud Perry Street Garage 07/13/2025 21:02 Cleared by Arrest
+2025-901365 05/07/2025 Public Intoxication Duck Pond Lot 04/26/2025 14:38 Active
+2025-901366 02/28/2025 Fraud Torgersen Hall 02/15/2025 20:54 Cleared by Arrest
+2025-901367 04/07/2025 Underage Possession of Alcohol Duck Pond Lot 03/26/2025 22:48 Inactive
+2025-901368 02/11/2025 Underage Possession of Alcohol Cochrane Hall 01/30/2025 15:09 Inactive
+2025-901369 06/08/2025 Burglary Eggleston Hall 05/30/2025 02:42 Cleared by Arrest
+2025-901370 10/02/2025 Public Intoxication Draper Road 09/28/2025 23:10 Inactive
+2025-901371 05/01/2025 Burglary Cochrane Hall 04/18/2025 00:33 Inactive
+2025-901372 08/17/2025 Vandalism Torgersen Hall 08/07/2025 03:01 Inactive
+2025-901373 06/10/2025 Petit Larceny Broce Drive 06/10/2025 02:42 Active
+2025-901374 06/14/2025 Assault North Main Street 06/11/2025 20:17 Inactive-Referred to Student Conduct
+2025-901375 10/30/2025 Trespassing Oak Lane 10/27/2025 01:49 Cleared by Arrest
+2025-901376 05/23/2025 Vandalism Harding Avenue 05/18/2025 03:21 Inactive-Referred to Student Conduct
+2025-901377 02/03/2025 Driving Under the Influence Roanoke Street 01/26/2025 14:33 Inactive
+2025-901378 01/11/2025 Fake ID Turner Street 12/30/2024 01:04 Active
+2025-901379 12/01/2025 Fraud McBryde Hall 11/27/2025 22:47 Inactive-Referred to Student Conduct
+2025-901380 05/20/2025 Identity Fraud Washington Street 05/18/2025 00:39 Inactive
+2025-901381 12/20/2025 Underage Possession of Alcohol Campbell Hall 12/11/2025 21:15 Inactive-Referred to Student Conduct
+2025-901382 03/26/2025 Reckless Driving Media Building Lot 03/19/2025 13:13 Inactive
+2025-901383 04/14/2025 Vandalism Prices Fork Road 04/04/2025 01:27 Inactive
+2025-901384 08/27/2025 Public Intoxication Perry Street 08/20/2025 21:06 Cleared by Arrest
+2025-901385 06/10/2025 Underage Possession of Alcohol Davidson Hall 06/09/2025 00:42 Inactive-Referred to Student Conduct
+2025-901386 11/26/2025 Public Intoxication Draper Road 11/25/2025 22:59 Cleared by Arrest
+2025-901387 11/13/2025 Larceny Turner Street 11/02/2025 23:49 Cleared by Arrest
+2025-901388 11/14/2025 Credit Card Fraud Prices Fork Road 11/09/2025 22:56 Inactive-Referred to Student Conduct
+2025-901389 09/13/2025 Trespassing Broce Drive 09/08/2025 00:23 Inactive-Referred to Student Conduct
+2025-901390 07/21/2025 Motor Vehicle Theft West Campus Drive 07/15/2025 08:35 Active
+2025-901391 10/10/2025 Trespassing Otey Street 09/30/2025 08:27 Active
+2025-901392 01/14/2025 Grand Larceny Cochrane Hall 12/31/2024 14:38 Cleared by Arrest
+2025-901393 02/23/2025 Public Intoxication McBryde Hall 02/22/2025 02:38 Inactive
+2025-901394 05/28/2025 Vandalism Southgate Drive 05/24/2025 00:52 Inactive
+2025-901395 12/23/2025 Violation of Protective Order Slusher Hall 12/17/2025 01:50 Cleared by Arrest
+2025-901396 08/07/2025 Underage Possession of Marijuana Owens Hall 08/07/2025 00:56 Inactive
+2025-901397 06/26/2025 Larceny North Main Street 06/19/2025 02:18 Cleared by Arrest
+2025-901398 03/09/2025 Reckless Driving Cochrane Hall 03/08/2025 01:50 Active
+2025-901399 09/07/2025 Credit Card Fraud Media Building Lot 08/25/2025 08:28 Inactive-Referred to Student Conduct
+2025-901400 01/27/2025 Identity Fraud Johnson Student Center 01/16/2025 20:59 Cleared by Arrest
+2025-901401 02/11/2025 Violation of Protective Order Prices Fork Road 01/29/2025 14:19 Inactive
+2025-901402 10/12/2025 Urinating in Public Cochrane Hall 10/10/2025 02:06 Inactive-Referred to Student Conduct
+2025-901403 11/13/2025 Underage Possession of Alcohol Pritchard Hall 11/01/2025 02:06 Inactive-Referred to Student Conduct
+2025-901404 02/11/2025 Driving Under the Influence Perry Street Garage 02/09/2025 03:57 Inactive-Referred to Student Conduct
+2025-901405 11/20/2025 Credit Card Fraud Campbell Hall 11/07/2025 18:46 Inactive
+2025-901406 08/22/2025 Underage Possession of Alcohol Lane Stadium 08/12/2025 10:05 Cleared by Arrest
+2025-901407 06/05/2025 Disorderly Conduct Washington Street 06/02/2025 00:37 Inactive-Referred to Student Conduct
+2025-901408 08/20/2025 Trespassing Patrick Henry Drive 08/11/2025 20:46 Inactive
+2025-901409 12/11/2025 Fake ID North Main Street 12/07/2025 21:14 Cleared by Arrest
+2025-901410 10/02/2025 Disorderly Conduct Dietrick Hall 09/19/2025 06:04 Inactive
+2025-901411 10/13/2025 Vandalism Campbell Hall 10/01/2025 02:47 Inactive-Referred to Student Conduct
+2025-901412 05/28/2025 Fraud Duck Pond Drive 05/25/2025 10:29 Inactive
+2025-901413 02/01/2025 Grand Larceny Media Building Lot 01/24/2025 23:47 Inactive
+2025-901414 07/11/2025 Trespassing Turner Street 07/06/2025 21:38 Inactive
+2025-901415 08/18/2025 Driving Under the Influence North Main Street 08/04/2025 03:40 Cleared by Arrest
+2025-901416 12/15/2025 Credit Card Fraud West Ambler Johnston Hall 12/10/2025 03:34 Inactive-Referred to Student Conduct
+2025-901417 12/21/2025 Petit Larceny Dietrick Hall 12/21/2025 02:31 Cleared by Arrest
+2025-901418 08/20/2025 Fraud Lane Stadium 08/18/2025 20:30 Inactive-Referred to Student Conduct
+2025-901419 02/19/2025 Extortion College Avenue 02/16/2025 02:56 Inactive-Referred to Student Conduct
+2025-901420 10/05/2025 Underage Possession of Alcohol Perry Street 09/29/2025 02:26 Active
+2025-901421 01/16/2025 Grand Larceny Southgate Drive 01/05/2025 20:05 Cleared by Arrest
+2025-901422 12/21/2025 Vandalism Hoge Hall 12/15/2025 19:27 Active
+2025-901423 01/12/2025 Petit Larceny Perry Street 01/02/2025 09:57 Inactive
+2025-901424 09/07/2025 Fake ID Otey Street 08/24/2025 02:34 Active
+2025-901425 12/16/2025 Identity Fraud Campbell Hall 12/09/2025 21:50 Active
+2025-901426 06/29/2025 Underage Possession of Alcohol Lane Stadium 06/28/2025 01:50 Inactive
+2025-901427 02/09/2025 Disorderly Conduct Harding Avenue 02/05/2025 02:54 Active
+2025-901428 04/08/2025 Violation of Protective Order Cookout 03/29/2025 13:39 Cleared by Arrest
+2025-901429 11/23/2025 Trespassing Davidson Hall 11/14/2025 20:55 Cleared by Arrest
+2025-901430 03/12/2025 Hit and Run Vawter Hall 02/27/2025 21:43 Active
+2025-901431 08/07/2025 Driving Under the Influence Washington Street 08/04/2025 22:18 Cleared by Arrest
+2025-901432 02/08/2025 Urinating in Public Patrick Henry Drive 01/30/2025 02:08 Cleared by Arrest
+2025-901433 08/28/2025 Public Intoxication College Avenue 08/24/2025 22:28 Active
+2025-901434 07/23/2025 Disorderly Conduct Patrick Henry Drive 07/18/2025 06:34 Inactive
+2025-901435 07/12/2025 Fake ID Otey Street 07/03/2025 20:06 Cleared by Arrest
+2025-901436 08/10/2025 Vandalism Main Street 08/05/2025 09:02 Inactive-Referred to Student Conduct
+2025-901437 04/19/2025 Hit and Run Broce Drive 04/08/2025 03:57 Inactive
+2025-901438 12/19/2025 Public Intoxication Dietrick Hall 12/06/2025 10:00 Inactive-Referred to Student Conduct
+2025-901439 06/27/2025 Disorderly Conduct Lane Stadium 06/19/2025 14:00 Inactive
+2025-901440 08/01/2025 Petit Larceny North Main Street 07/22/2025 03:30 Inactive
+2025-901441 12/02/2025 Petit Larceny Progress Street 12/02/2025 20:03 Active
+2025-901442 03/26/2025 Theft from Motor Vehicle Miles Hall 03/12/2025 23:29 Active
+2025-901443 12/26/2025 Vandalism BNB Theater 12/19/2025 10:07 Inactive
+2025-901444 05/19/2025 Underage Possession of Alcohol VT Golf Course 05/19/2025 12:15 Cleared by Arrest
+2025-901445 03/22/2025 Petit Larceny West Ambler Johnston Hall 03/13/2025 16:45 Cleared by Arrest
+2025-901446 02/09/2025 Credit Card Fraud VT Golf Course 01/26/2025 00:44 Inactive-Referred to Student Conduct
+2025-901447 08/12/2025 Petit Larceny Perry Street 08/11/2025 02:41 Inactive-Referred to Student Conduct
+2025-901448 01/29/2025 Petit Larceny West Ambler Johnston Hall 01/23/2025 03:04 Cleared by Arrest
+2025-901449 04/22/2025 Trespassing Media Building Lot 04/10/2025 03:55 Inactive
+2025-901450 03/05/2025 Vandalism New Residence Hall East 02/28/2025 20:20 Inactive
+2025-901451 09/13/2025 Reckless Driving Owens Hall 09/04/2025 20:59 Active
+2025-901452 11/12/2025 Trespassing Progress Street 11/08/2025 09:01 Active
+2025-901453 05/01/2025 Identity Fraud Johnson Student Center 04/17/2025 00:17 Inactive
+2025-901454 10/02/2025 Vandalism Roanoke Street 09/26/2025 03:13 Inactive-Referred to Student Conduct
+2025-901455 02/09/2025 Larceny Newman Hall 02/03/2025 03:17 Inactive
+2025-901456 01/18/2025 Underage Possession of Alcohol Cookout 01/06/2025 22:40 Inactive
+2025-901457 09/16/2025 Unauthorized Use of Vehicle Harding Avenue 09/06/2025 18:58 Active
+2025-901458 06/19/2025 Public Intoxication New Residence Hall East 06/14/2025 05:32 Inactive
+2025-901459 05/09/2025 Vandalism Perry Street Garage 04/29/2025 02:52 Inactive-Referred to Student Conduct
+2025-901460 04/24/2025 Underage Possession of Alcohol Architecture Annex 04/16/2025 00:40 Inactive-Referred to Student Conduct
+2025-901461 12/07/2025 Disorderly Conduct Roanoke Street 11/24/2025 21:45 Cleared by Arrest
+2025-901462 04/21/2025 Petit Larceny Hahn Hall 04/13/2025 02:24 Inactive
+2025-901463 10/31/2025 Credit Card Theft West Ambler Johnston Hall 10/25/2025 06:59 Cleared by Arrest
+2025-901464 09/28/2025 Petit Larceny Dietrick Hall 09/27/2025 00:03 Active
+2025-901465 11/16/2025 Petit Larceny Patrick Henry Drive 11/02/2025 02:09 Inactive
+2025-901466 10/04/2025 Vandalism Southgate Drive 09/24/2025 18:50 Inactive
+2025-901467 02/09/2025 Motor Vehicle Theft Clay Street 01/26/2025 22:57 Active
+2025-901468 08/21/2025 Petit Larceny Otey Street 08/15/2025 22:16 Inactive
+2025-901469 04/09/2025 Credit Card Fraud Torgersen Hall 04/05/2025 19:24 Cleared by Arrest
+2025-901470 12/04/2025 Trespassing Media Building Lot 11/25/2025 03:35 Inactive-Referred to Student Conduct
+2025-901471 07/17/2025 Trespassing Burruss Hall 07/11/2025 19:21 Active
+2025-901472 01/05/2025 Unauthorized Use of Vehicle Goodwin Hall 01/01/2025 03:11 Inactive-Referred to Student Conduct
+2025-901473 09/30/2025 Harassment Cochrane Hall 09/28/2025 19:31 Cleared by Arrest
+2025-901474 02/12/2025 Fake ID Prices Fork Road 01/30/2025 19:24 Active
+2025-901475 08/02/2025 Trespassing Architecture Annex 07/20/2025 23:11 Cleared by Arrest
+2025-901476 10/29/2025 Reckless Driving War Memorial Hall 10/17/2025 00:19 Inactive-Referred to Student Conduct
+2025-901477 10/03/2025 Petit Larceny Perry Street Garage 09/20/2025 23:02 Cleared by Arrest
+2025-901478 02/19/2025 Motor Vehicle Theft Cookout 02/19/2025 18:58 Active
+2025-901479 09/26/2025 Underage Possession of Alcohol Oak Lane 09/25/2025 03:59 Inactive-Referred to Student Conduct
+2025-901480 08/08/2025 Larceny Prices Fork Road 07/31/2025 03:34 Inactive-Referred to Student Conduct
+2025-901481 10/08/2025 Petit Larceny Hahn Hall 09/25/2025 09:00 Inactive-Referred to Student Conduct
+2025-901482 02/28/2025 Underage Possession of Alcohol West Campus Drive 02/14/2025 04:30 Cleared by Arrest
+2025-901483 10/23/2025 Trespassing Washington Street 10/12/2025 08:50 Active
+2025-901484 06/21/2025 Fake ID Kent Street 06/17/2025 14:11 Inactive
+2025-901485 03/01/2025 Underage Possession of Alcohol Vawter Hall 02/28/2025 03:38 Cleared by Arrest
+2025-901486 12/22/2025 Fake ID Oak Lane 12/11/2025 08:54 Active
+2025-901487 02/03/2025 Urinating in Public Duck Pond Lot 01/20/2025 00:15 Inactive
+2025-901488 08/29/2025 Disorderly Conduct Miles Hall 08/24/2025 22:24 Active
+2025-901489 06/11/2025 Burglary Vawter Hall 06/09/2025 23:09 Inactive-Referred to Student Conduct
+2025-901490 11/25/2025 Trespassing Prices Fork Road 11/20/2025 11:04 Inactive-Referred to Student Conduct
+2025-901491 02/24/2025 Underage Possession of Alcohol Johnson Student Center 02/22/2025 21:00 Inactive
+2025-901492 03/07/2025 Burglary Turner Street 02/26/2025 14:06 Active
+2025-901493 02/15/2025 Vandalism Johnson Student Center 02/15/2025 18:37 Inactive
+2025-901494 09/25/2025 Assault Miles Hall 09/13/2025 22:41 Active
+2025-901495 06/26/2025 Public Intoxication South Main Street 06/18/2025 01:09 Cleared by Arrest
+2025-901496 10/21/2025 Credit Card Theft College Avenue 10/11/2025 06:43 Active
+2025-901497 04/09/2025 Public Intoxication Lane Stadium 04/05/2025 18:18 Inactive
+2025-901498 10/02/2025 Underage Possession of Alcohol Architecture Annex 10/02/2025 09:28 Inactive-Referred to Student Conduct
+2025-901499 06/03/2025 Underage Possession of Marijuana Perry Street 05/27/2025 02:35 Inactive

@@ -58,7 +58,17 @@
         <a href="{{ url_for('load_2026') }}"
         onclick="return confirm('Load 2026 incidents into the database?')"
         class="btn btn-dark">
-            Load 2026 Incidents
+            Load 2026 Real Incidents
+        </a>
+    </div>
+    {% endif %}
+
+    {% if year == 2025 and session.get('role') == 'admin' and total_incidents < 50 %}
+    <div class="mb-3">
+        <a href="{{ url_for('load_2025') }}"
+        onclick="return confirm('Load 2025 incidents into the database?')"
+        class="btn btn-dark">
+            Load 2025 Example Incidents
         </a>
     </div>
     {% endif %}

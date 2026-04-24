@@ -16,50 +16,105 @@
         {{ year1 }} vs {{ year2 }} Comparison
     </h2>
 
-    <!-- 📈 OVERALL CHANGE -->
-    <div class="alert alert-dark text-center">
-        <strong>Overall Change ({{ year1 }} → {{ year2 }}):</strong>
-        {{ total_change }}%
-    </div>
-
     <!-- 🔥 BIGGEST CHANGE -->
     <div class="alert alert-warning text-center">
-        <strong>Biggest Change ({{ year1 }} → {{ year2 }}):</strong>
+        <strong>Largest Share Change ({{ year1 }} → {{ year2 }}):</strong>
         {{ biggest_change[0] }}
-        ({{ biggest_change[1] }} → {{ biggest_change[2] }},
-        {% if biggest_change[3] > 0 %}+{% endif %}{{ biggest_change[3] }})
+        ({{ biggest_change[1] }}% → {{ biggest_change[2] }}%,
+        {% if biggest_change[3] > 0 %}+{% endif %}{{ biggest_change[3] }}%)
     </div>
 
-    <!-- 📊 CHART -->
+    <!-- 📊 TOP OFFENSE CHART -->
     <div class="card mb-4 shadow-sm">
         <div class="card-body">
-            <h5 class="text-center">Top Offense Comparison</h5>
+            <h5 class="text-center">Top Offense Distribution</h5>
             <canvas id="compareChart"></canvas>
         </div>
     </div>
 
-    <div class="row">
+    <!-- YEAR TOTALS -->
+    <div class="row mb-4">
 
-        <!-- YEAR 1 -->
         <div class="col-md-6">
             <div class="card shadow-sm">
-                <div class="card-body">
-                    <h4 class="text-center">{{ year1 }}</h4>
-                    <p><strong>Total Incidents:</strong> {{ stats1.total }}</p>
+                <div class="card-body text-center">
+                    <h4>{{ year1 }}</h4>
+                    <p class="mb-0"><strong>Total Incidents:</strong> {{ stats1.total }}</p>
                 </div>
             </div>
         </div>
 
-        <!-- YEAR 2 -->
         <div class="col-md-6">
             <div class="card shadow-sm">
-                <div class="card-body">
-                    <h4 class="text-center">{{ year2 }}</h4>
-                    <p><strong>Total Incidents:</strong> {{ stats2.total }}</p>
+                <div class="card-body text-center">
+                    <h4>{{ year2 }}</h4>
+                    <p class="mb-0"><strong>Total Incidents:</strong> {{ stats2.total }}</p>
                 </div>
             </div>
         </div>
 
+    </div>
+
+    <!-- MOST ACTIVE TIME -->
+    <div class="row mb-4">
+        <div class="col-md-6">
+            <div class="card shadow-sm">
+                <div class="card-body text-center">
+                    <h5>Most Active Time ({{ year1 }})</h5>
+                    <p class="mb-0">
+                        <strong>{{ stats1.top_time.time_block }}</strong><br>
+                        {{ stats1.top_time.percent }}% of incidents
+                    </p>
+                </div>
+            </div>
+        </div>
+
+        <div class="col-md-6">
+            <div class="card shadow-sm">
+                <div class="card-body text-center">
+                    <h5>Most Active Time ({{ year2 }})</h5>
+                    <p class="mb-0">
+                        <strong>{{ stats2.top_time.time_block }}</strong><br>
+                        {{ stats2.top_time.percent }}% of incidents
+                    </p>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- ALCOHOL SHARE -->
+    <div class="row mb-4">
+        <div class="col-md-6">
+            <div class="card shadow-sm border-warning">
+                <div class="card-body text-center">
+                    <h5>Alcohol-Related Share ({{ year1 }})</h5>
+                    <p class="mb-0">
+                        <strong>{{ stats1.alcohol_percent }}%</strong><br>
+                        of all reported incidents
+                    </p>
+                </div>
+            </div>
+        </div>
+
+        <div class="col-md-6">
+            <div class="card shadow-sm border-warning">
+                <div class="card-body text-center">
+                    <h5>Alcohol-Related Share ({{ year2 }})</h5>
+                    <p class="mb-0">
+                        <strong>{{ stats2.alcohol_percent }}%</strong><br>
+                        of all reported incidents
+                    </p>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- DISPOSITION CHART -->
+    <div class="card mt-4 shadow-sm">
+        <div class="card-body">
+            <h5 class="text-center">Disposition Comparison</h5>
+            <canvas id="dispositionChart"></canvas>
+        </div>
     </div>
 
 </div>
@@ -77,6 +132,23 @@ new Chart(document.getElementById('compareChart'), {
             {
                 label: '{{ year2 }}',
                 data: {{ chart_year2|tojson }}
+            }
+        ]
+    }
+});
+
+new Chart(document.getElementById('dispositionChart'), {
+    type: 'bar',
+    data: {
+        labels: {{ disp_labels|tojson }},
+        datasets: [
+            {
+                label: '{{ year1 }}',
+                data: {{ disp_year1|tojson }}
+            },
+            {
+                label: '{{ year2 }}',
+                data: {{ disp_year2|tojson }}
             }
         ]
     }

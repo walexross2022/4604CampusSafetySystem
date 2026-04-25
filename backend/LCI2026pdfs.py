@@ -32,7 +32,11 @@ def convert_date(date_str):
     if not date_str:
         return None
     try:
-        return datetime.strptime(date_str, "%m/%d/%Y").strftime("%Y-%m-%d")
+        parsed = datetime.strptime(date_str, "%m/%d/%Y")
+        # Fix obviously wrong years from PDF parsing errors
+        if parsed.year > 2030:
+            parsed = parsed.replace(year=2026)
+        return parsed.strftime("%Y-%m-%d")
     except:
         return None
 
@@ -228,7 +232,9 @@ def load_clean_data(df):
             # Prevent duplicates
             cursor.execute("SELECT incident_id FROM incident WHERE case_number=%s", (case_number,))
             if cursor.fetchone():
-                raise Exception(f"Duplicate case: {case_number}")
+                print(f"Skipping duplicate: {case_number}")
+                continue
+
 
             offense_list = json.loads(row["offense_list"])
 

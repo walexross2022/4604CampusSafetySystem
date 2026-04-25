@@ -1,0 +1,230 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Incident Heatmap</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
+
+    <style>
+        body { background-color: #f5f5f5; }
+
+        .header-bar {
+            background-color: #861F41;
+            color: white;
+            padding: 15px;
+            margin-bottom: 20px;
+        }
+
+        .card { border-radius: 10px; }
+
+        .heatmap-table {
+            border-collapse: separate;
+            border-spacing: 3px;
+            width: 100%;
+        }
+
+        .heatmap-table th {
+            font-size: 0.7rem;
+            text-align: center;
+            padding: 4px 2px;
+            color: #555;
+            font-weight: 600;
+        }
+
+        .heatmap-table td.heat-cell {
+            text-align: center;
+            font-size: 0.7rem;
+            font-weight: 600;
+            padding: 6px 2px;
+            border-radius: 4px;
+            color: white;
+            min-width: 28px;
+        }
+
+        .heatmap-table td.day-label {
+            font-size: 0.8rem;
+            font-weight: 600;
+            color: #333;
+            padding-right: 8px;
+            text-align: right;
+            white-space: nowrap;
+        }
+
+        .peak-badge {
+            display: inline-block;
+            background-color: #861F41;
+            color: white;
+            padding: 6px 14px;
+            border-radius: 20px;
+            font-size: 0.9rem;
+            font-weight: 600;
+        }
+
+        .color-key {
+            display: flex;
+            align-items: center;
+            gap: 6px;
+            font-size: 0.8rem;
+            color: #555;
+        }
+
+        .color-key .swatch {
+            width: 20px;
+            height: 14px;
+            border-radius: 3px;
+            display: inline-block;
+        }
+    </style>
+</head>
+
+<body>
+
+<div class="header-bar text-center">
+    <h2>Incident Heatmap</h2>
+    <small>When do campus incidents happen most?</small>
+</div>
+
+<div class="container">
+
+    <!-- NAV -->
+    <div class="d-flex justify-content-between align-items-center mb-3">
+        <a href="/" class="btn btn-dark">⬅ Back</a>
+        <a href="/analytics/heatmap" class="btn btn-outline-secondary btn-sm">Reset</a>
+    </div>
+
+    <!-- FILTERS -->
+    <form method="GET" action="/analytics/heatmap" class="mb-4">
+        <div class="d-flex gap-2 align-items-center flex-wrap">
+            <select name="year" class="form-select form-select-sm" style="width: auto;">
+                <option value="">All Years</option>
+                {% for y in available_years %}
+                    <option value="{{ y }}" {% if selected_year|string == y|string %}selected{% endif %}>{{ y }}</option>
+                {% endfor %}
+            </select>
+
+            <select name="month" class="form-select form-select-sm" style="width: auto;">
+                <option value="">All Months</option>
+                <option value="1" {% if selected_month == '1' %}selected{% endif %}>January</option>
+                <option value="2" {% if selected_month == '2' %}selected{% endif %}>February</option>
+                <option value="3" {% if selected_month == '3' %}selected{% endif %}>March</option>
+                <option value="4" {% if selected_month == '4' %}selected{% endif %}>April</option>
+                <option value="5" {% if selected_month == '5' %}selected{% endif %}>May</option>
+                <option value="6" {% if selected_month == '6' %}selected{% endif %}>June</option>
+                <option value="7" {% if selected_month == '7' %}selected{% endif %}>July</option>
+                <option value="8" {% if selected_month == '8' %}selected{% endif %}>August</option>
+                <option value="9" {% if selected_month == '9' %}selected{% endif %}>September</option>
+                <option value="10" {% if selected_month == '10' %}selected{% endif %}>October</option>
+                <option value="11" {% if selected_month == '11' %}selected{% endif %}>November</option>
+                <option value="12" {% if selected_month == '12' %}selected{% endif %}>December</option>
+            </select>
+
+            <button type="submit" class="btn btn-dark btn-sm">Apply</button>
+        </div>
+    </form>
+
+    <!-- PEAK SUMMARY -->
+    <div class="text-center mb-4">
+        {% if peak_val > 0 %}
+            <span class="peak-badge">
+                Peak: {{ peak_day }} at {{ peak_hour }} ({{ peak_val }} incidents)
+            </span>
+        {% else %}
+            <span class="peak-badge" style="background-color: #999;">
+                No incidents for selected filters
+            </span>
+        {% endif %}
+    </div>
+
+    <!-- HEATMAP -->
+    <div class="card shadow-sm mb-4">
+        <div class="card-body" style="overflow-x: auto;">
+            <table class="heatmap-table">
+                <thead>
+                    <tr>
+                        <th></th>
+                        {% for h in hour_labels %}
+                            <th>{{ h }}</th>
+                        {% endfor %}
+                    </tr>
+                </thead>
+                <tbody>
+                    {% for d in range(7) %}
+                    <tr>
+                        <td class="day-label">{{ day_names[d] }}</td>
+                        {% for h in range(24) %}
+                            {% set val = grid[d][h] %}
+                            {% if max_count > 0 %}
+                                {% set intensity = (val / max_count * 100)|int %}
+                            {% else %}
+                                {% set intensity = 0 %}
+                            {% endif %}
+
+                            {% if val == 0 %}
+                                <td class="heat-cell" style="background-color: #eee; color: #ccc;">0</td>
+                            {% elif intensity < 25 %}
+                                <td class="heat-cell" style="background-color: #f4c2b0;">{{ val }}</td>
+                            {% elif intensity < 50 %}
+                                <td class="heat-cell" style="background-color: #e8845a;">{{ val }}</td>
+                            {% elif intensity < 75 %}
+                                <td class="heat-cell" style="background-color: #c44e2b;">{{ val }}</td>
+                            {% else %}
+                                <td class="heat-cell" style="background-color: #861F41;">{{ val }}</td>
+                            {% endif %}
+                        {% endfor %}
+                    </tr>
+                    {% endfor %}
+                </tbody>
+            </table>
+
+            <!-- COLOR KEY -->
+            <div class="d-flex justify-content-center mt-3">
+                <div class="color-key">
+                    <span>Low</span>
+                    <span class="swatch" style="background-color: #eee;"></span>
+                    <span class="swatch" style="background-color: #f4c2b0;"></span>
+                    <span class="swatch" style="background-color: #e8845a;"></span>
+                    <span class="swatch" style="background-color: #c44e2b;"></span>
+                    <span class="swatch" style="background-color: #861F41;"></span>
+                    <span>High</span>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- SUMMARY CARDS -->
+    <div class="row mb-4">
+        <div class="col-md-6">
+            <div class="card shadow-sm">
+                <div class="card-body">
+                    <h6>Days with Most Incidents</h6>
+                    <ul class="list-group list-group-flush">
+                        {% for day, total in day_totals[:5] %}
+                        <li class="list-group-item d-flex justify-content-between">
+                            {{ day }}
+                            <span class="badge bg-dark">{{ total }}</span>
+                        </li>
+                        {% endfor %}
+                    </ul>
+                </div>
+            </div>
+        </div>
+        <div class="col-md-6">
+            <div class="card shadow-sm">
+                <div class="card-body">
+                    <h6>Times with Most Incidents</h6>
+                    <ul class="list-group list-group-flush">
+                        {% for hour, total in hour_totals %}
+                        <li class="list-group-item d-flex justify-content-between">
+                            {{ hour }}
+                            <span class="badge bg-dark">{{ total }}</span>
+                        </li>
+                        {% endfor %}
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+
+</div>
+
+</body>
+</html>

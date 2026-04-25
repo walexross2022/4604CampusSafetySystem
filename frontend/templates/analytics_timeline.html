@@ -1,0 +1,208 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Incident Timeline</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+
+    <style>
+        body { background-color: #f5f5f5; }
+
+        .header-bar {
+            background-color: #861F41;
+            color: white;
+            padding: 15px;
+            margin-bottom: 20px;
+        }
+
+        .card { border-radius: 10px; }
+
+        .dropdown-menu.offense-dropdown {
+            max-height: 300px;
+            overflow-y: auto;
+            padding: 10px 15px;
+            min-width: 280px;
+        }
+
+        .dropdown-menu.offense-dropdown .form-check {
+            padding-left: 1.8em;
+            margin-bottom: 2px;
+        }
+
+        .dropdown-menu.offense-dropdown .form-check-label {
+            font-size: 0.85rem;
+        }
+    </style>
+</head>
+
+<body>
+
+<div class="header-bar text-center">
+    <h2>Incident Timeline</h2>
+    <small>Monthly offense frequency over time</small>
+</div>
+
+<div class="container">
+
+    <!-- NAV -->
+    <div class="d-flex justify-content-between align-items-center mb-3">
+        <a href="/" class="btn btn-dark">⬅ Back</a>
+        <a href="/analytics/timeline" class="btn btn-outline-secondary btn-sm">Reset Filters</a>
+    </div>
+
+    <!-- TIMELINE CHART -->
+    <div class="card shadow-sm mb-4">
+        <div class="card-body">
+            <canvas id="timelineChart" height="100"></canvas>
+        </div>
+    </div>
+
+    <!-- FILTERS -->
+    <form method="GET" action="/analytics/timeline">
+        <div class="d-flex gap-2 align-items-center mb-4 flex-wrap">
+
+            <!-- YEAR -->
+            <select name="year" class="form-select form-select-sm" style="width: auto;">
+                <option value="">All Years</option>
+                {% for y in available_years %}
+                    <option value="{{ y }}" {% if selected_year|string == y|string %}selected{% endif %}>{{ y }}</option>
+                {% endfor %}
+            </select>
+
+            <!-- OFFENSE DROPDOWN -->
+            <div class="dropdown">
+                <div class="form-select form-select-sm" role="button" style="width: auto; cursor: pointer;"
+                     data-bs-toggle="dropdown" data-bs-auto-close="outside">
+                    Filter Offense Types
+                    {% if selected_offenses %}
+                        <span class="badge bg-secondary ms-1">{{ selected_offenses|length }}</span>
+                    {% endif %}
+                </div>
+                <div class="dropdown-menu offense-dropdown">
+                    {% for offense in all_offenses %}
+                    <div class="form-check">
+                        <input class="form-check-input" type="checkbox"
+                               name="offenses" value="{{ offense }}" id="off_{{ loop.index }}"
+                               {% if offense in selected_offenses %}checked{% endif %}>
+                        <label class="form-check-label" for="off_{{ loop.index }}">
+                            {{ offense }}
+                        </label>
+                    </div>
+                    {% endfor %}
+                </div>
+            </div>
+
+            <button type="submit" class="btn btn-dark btn-sm">Apply</button>
+
+        </div>
+    </form>
+
+    <!-- SUMMARY TABLE -->
+    <div class="card shadow-sm mb-4">
+        <div class="card-body">
+            <h6>Offense Totals</h6>
+            <table class="table table-sm table-striped mb-0">
+                <thead class="table-dark">
+                    <tr>
+                        <th>Offense</th>
+                        <th>Total Incidents</th>
+                        <th>Peak Month</th>
+                        <th>Peak Count</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    {% for d in datasets %}
+                    <tr>
+                        <td>{{ d.offense }}</td>
+                        <td>{{ d.aligned_counts|sum }}</td>
+                        <td>
+                            {% if d.aligned_counts %}
+                                {{ all_months[d.aligned_counts.index(d.aligned_counts|max)] }}
+                            {% else %}
+                                N/A
+                            {% endif %}
+                        </td>
+                        <td>{{ d.aligned_counts|max if d.aligned_counts else 0 }}</td>
+                    </tr>
+                    {% endfor %}
+                </tbody>
+            </table>
+        </div>
+    </div>
+
+</div>
+
+<!-- Bootstrap JS for dropdown -->
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
+
+<script>
+    const COLORS = [
+        '#861F41', '#E87722', '#2196F3', '#4CAF50',
+        '#9C27B0', '#FF5722', '#607D8B', '#795548',
+        '#00BCD4', '#CDDC39', '#E91E63', '#3F51B5'
+    ];
+
+    const allMonths = {{ all_months|tojson }};
+    const datasets = {{ datasets|tojson }};
+
+    const chartDatasets = datasets.map((d, i) => ({
+        label: d.offense,
+        data: d.aligned_counts,
+        borderColor: COLORS[i % COLORS.length],
+        backgroundColor: COLORS[i % COLORS.length] + '20',
+        tension: 0.3,
+        fill: false,
+        pointRadius: 4,
+        pointHoverRadius: 6,
+        borderWidth: 2
+    }));
+
+    new Chart(document.getElementById('timelineChart'), {
+        type: 'line',
+        data: {
+            labels: allMonths,
+            datasets: chartDatasets
+        },
+        options: {
+            responsive: true,
+            interaction: {
+                mode: 'index',
+                intersect: false
+            },
+            plugins: {
+                legend: {
+                    position: 'bottom',
+                    labels: { usePointStyle: true }
+                },
+                tooltip: {
+                    callbacks: {
+                        title: function(items) {
+                            return 'Month: ' + items[0].label;
+                        }
+                    }
+                }
+            },
+            scales: {
+                y: {
+                    beginAtZero: true,
+                    title: {
+                        display: true,
+                        text: 'Number of Incidents'
+                    },
+                    ticks: {
+                        stepSize: 1
+                    }
+                },
+                x: {
+                    title: {
+                        display: true,
+                        text: 'Month'
+                    }
+                }
+            }
+        }
+    });
+</script>
+
+</body>
+</html>

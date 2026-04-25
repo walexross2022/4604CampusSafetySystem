@@ -1012,6 +1012,191 @@ def delete_incident(incident_id):
 
 
 # -----------------------------
+# ANALYTICS TIMELINE
+# -----------------------------
+@app.route('/analytics/timeline')
+@login_required
+def analytics_timeline():
+    conn = get_db_connection()
+    cursor = conn.cursor(dictionary=True)
+
+    year = request.args.get('year', None)
+    selected_offenses = request.args.getlist('offenses')
+
+    # Get available years for the dropdown
+    cursor.execute("SELECT DISTINCT YEAR(date_reported) AS y FROM incident ORDER BY y")
+    available_years = [row['y'] for row in cursor.fetchall()]
+
+    # Get all offense types for the filter checklist
+    cursor.execute("SELECT DISTINCT offense_name FROM offense ORDER BY offense_name")
+    all_offenses = [row['offense_name'] for row in cursor.fetchall()]
+
+    # Build year filter
+    year_filter = ""
+    year_param = ()
+    if year:
+        year_filter = "WHERE YEAR(i.date_reported) = %s"
+        year_param = (int(year),)
+
+    # Determine which offenses to show
+    if selected_offenses:
+        offenses_to_show = selected_offenses
+    else:
+        # Default: top 8 by count
+        cursor.execute(f"""
+            SELECT o.offense_name, COUNT(*) as total
+            FROM incident i
+            JOIN incident_offense io ON i.incident_id = io.incident_id
+            JOIN offense o ON io.offense_id = o.offense_id
+            {year_filter}
+            GROUP BY o.offense_name
+            ORDER BY total DESC
+            LIMIT 8
+        """, year_param)
+        offenses_to_show = [row['offense_name'] for row in cursor.fetchall()]
+
+    # Get monthly counts for each selected offense
+    datasets = []
+    for offense in offenses_to_show:
+        params = (offense,) + year_param
+        cursor.execute(f"""
+            SELECT 
+                CONCAT(YEAR(i.date_reported), '-', LPAD(MONTH(i.date_reported), 2, '0')) AS month,
+                COUNT(*) AS count
+            FROM incident i
+            JOIN incident_offense io ON i.incident_id = io.incident_id
+            JOIN offense o ON io.offense_id = o.offense_id
+            WHERE o.offense_name = %s
+            {year_filter.replace('WHERE', 'AND') if year_filter else ''}
+            GROUP BY month
+            ORDER BY month
+        """, params)
+        rows = cursor.fetchall()
+        datasets.append({
+            'offense': offense,
+            'months': [row['month'] for row in rows],
+            'counts': [row['count'] for row in rows]
+        })
+
+    # Build unified month labels
+    all_months = sorted(set(m for d in datasets for m in d['months']))
+
+    # Align each dataset to the full month list
+    for d in datasets:
+        month_map = dict(zip(d['months'], d['counts']))
+        d['aligned_counts'] = [month_map.get(m, 0) for m in all_months]
+
+    cursor.close()
+    conn.close()
+
+    return render_template(
+        'analytics_timeline.html',
+        all_months=all_months,
+        datasets=datasets,
+        available_years=available_years,
+        selected_year=year,
+        all_offenses=all_offenses,
+        selected_offenses=selected_offenses
+    )
+
+
+# -----------------------------
+# ANALYTICS HEATMAP
+# -----------------------------
+@app.route('/analytics/heatmap')
+@login_required
+def analytics_heatmap():
+    conn = get_db_connection()
+    cursor = conn.cursor(dictionary=True)
+
+    year = request.args.get('year', None)
+    month = request.args.get('month', None)
+
+    # Get available years
+    cursor.execute("SELECT DISTINCT YEAR(date_reported) AS y FROM incident ORDER BY y")
+    available_years = [row['y'] for row in cursor.fetchall()]
+
+    # Build filters
+    filters = []
+    filter_params = ()
+    if year:
+        filters.append("YEAR(i.date_reported) = %s")
+        filter_params += (int(year),)
+    if month:
+        filters.append("MONTH(i.date_reported) = %s")
+        filter_params += (int(month),)
+
+    where_extra = ""
+    if filters:
+        where_extra = "AND " + " AND ".join(filters)
+
+    # Query: count incidents by day of week and hour
+    cursor.execute(f"""
+        SELECT 
+            DAYOFWEEK(i.occurrence_start_date) AS dow,
+            HOUR(i.occurrence_start_time) AS hr,
+            COUNT(*) AS count
+        FROM incident i
+        WHERE i.occurrence_start_date IS NOT NULL
+          AND i.occurrence_start_time IS NOT NULL
+          {where_extra}
+        GROUP BY dow, hr
+        ORDER BY dow, hr
+    """, filter_params)
+    rows = cursor.fetchall()
+
+    # Build 7x24 grid (days x hours), DAYOFWEEK: 1=Sunday, 2=Monday, ...
+    day_names = ['Sunday', 'Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday', 'Saturday']
+    hour_labels = [f"{h % 12 or 12}{'AM' if h < 12 else 'PM'}" for h in range(24)]
+
+    grid = [[0]*24 for _ in range(7)]
+    max_count = 0
+    for row in rows:
+        d = row['dow'] - 1  # convert 1-indexed to 0-indexed
+        h = row['hr']
+        grid[d][h] = row['count']
+        if row['count'] > max_count:
+            max_count = row['count']
+
+    # Find peak cell
+    peak_day = ''
+    peak_hour = ''
+    peak_val = 0
+    for d in range(7):
+        for h in range(24):
+            if grid[d][h] > peak_val:
+                peak_val = grid[d][h]
+                peak_day = day_names[d]
+                peak_hour = hour_labels[h]
+
+    # Day totals and hour totals for summary
+    day_totals = [(day_names[d], sum(grid[d])) for d in range(7)]
+    day_totals.sort(key=lambda x: x[1], reverse=True)
+
+    hour_totals = [(hour_labels[h], sum(grid[d][h] for d in range(7))) for h in range(24)]
+    hour_totals.sort(key=lambda x: x[1], reverse=True)
+
+    cursor.close()
+    conn.close()
+
+    return render_template(
+        'analytics_heatmap.html',
+        grid=grid,
+        day_names=day_names,
+        hour_labels=hour_labels,
+        max_count=max_count,
+        available_years=available_years,
+        selected_year=year,
+        selected_month=month,
+        peak_day=peak_day,
+        peak_hour=peak_hour,
+        peak_val=peak_val,
+        day_totals=day_totals,
+        hour_totals=hour_totals[:6]
+    )
+
+
+# -----------------------------
 # RUN
 # -----------------------------
 if __name__ == "__main__":

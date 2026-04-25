@@ -53,7 +53,7 @@
         {% endif %}
     </div>
 
-    {% if year == 2026 and session.get('role') == 'admin' and total_incidents < 50 %}
+    {% if year == 2026 and session.get('user_id') and total_incidents < 50 %}
     <div class="mb-3">
         <a href="{{ url_for('load_2026') }}"
         onclick="return confirm('Load 2026 incidents into the database?')"
@@ -63,7 +63,7 @@
     </div>
     {% endif %}
 
-    {% if year == 2025 and session.get('role') == 'admin' and total_incidents < 50 %}
+    {% if year == 2025 and session.get('user_id') and total_incidents < 50 %}
     <div class="mb-3">
         <a href="{{ url_for('load_2025') }}"
         onclick="return confirm('Load 2025 incidents into the database?')"

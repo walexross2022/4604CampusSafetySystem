@@ -691,12 +691,12 @@ def create_user():
 import subprocess
 from flask import redirect, url_for, flash, session
 
-@app.route('/load_2026')
-def load_2026():
-    if session.get('role') != 'admin':
-        flash("Unauthorized access.")
-        return redirect(url_for('home'))
+import subprocess
+from flask import redirect, url_for, flash
 
+@app.route('/load_2026')
+@login_required
+def load_2026():
     try:
         subprocess.run(['python', 'LCI2026pdfs.py'], check=True)
         flash("2026 incidents successfully loaded.")
@@ -705,16 +705,10 @@ def load_2026():
 
     return redirect(url_for('incidents', year=2026))
 
-#demo load button
-import subprocess
-from flask import redirect, url_for, flash, session
 
 @app.route('/load_2025')
+@login_required
 def load_2025():
-    if session.get('role') != 'admin':
-        flash("Unauthorized access.")
-        return redirect(url_for('home'))
-
     try:
         subprocess.run(['python', 'temp2025Loader.py'], check=True)
         flash("2025 incidents successfully loaded.")

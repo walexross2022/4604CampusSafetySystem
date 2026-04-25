@@ -97,9 +97,70 @@ Analytics View
 ---
 
 Setup Instructions
+---
+To run the Campus Safety & Incident Analytics System locally from scratch, the following tools and setup steps are required.
 
-1. Clone Repository
+Required Software
+Python 3.11 or 3.12
+MySQL Server (MySQL Workbench recommended)
+Visual Studio Code (recommended) or another Python-compatible IDE
+Installation Steps
 
-```bash
-git clone https://github.com/your-username/4604CampusSafetySystem.git
+1. Clone the Repository
+Clone the project repository and move into the project directory.
+
+git clone https://github.com/walexross2022/4604CampusSafetySystem.git
 cd 4604CampusSafetySystem
+
+2. Create and Activate a Virtual Environment
+Create a Python virtual environment to isolate project dependencies.
+
+python -m venv venv
+venv\Scripts\activate
+
+On macOS/Linux, use source venv/bin/activate instead.
+
+3. Install Required Dependencies
+Install all required Python packages for the backend application, database connection, authentication, and PDF parsing.
+
+pip install flask mysql-connector-python pdfplumber python-dotenv bcrypt
+
+4. Configure Environment Variables
+Create a .env file in the project root and add the following values:
+
+DB_HOST=localhost
+DB_USER=root
+DB_PASSWORD=yourpassword
+DB_NAME=incident_reporting
+DB_PORT=3306
+SECRET_KEY=your_secret_key
+
+This file stores database connection settings and the Flask secret key used by the application.
+Sensitive values should never be hardcoded in source files or committed to version control.
+
+5. Start MySQL
+Start the MySQL server and ensure it is running on port 3306.
+You can verify the server is active by opening MySQL Workbench or connecting through the command line.
+
+6. Initialize the Database
+
+Create the database schema using the SQL definitions stored in db/currentDB.txt.
+
+
+After initializing the schema, populate the database using the provided parser scripts in the project root. These scripts parse official campus crime log PDFs and insert cleaned records into the relational database.
+
+Example loader scripts include:
+load_pdf_testdata.py
+temp2025Loader.py
+LCI2026pdfs.py
+
+Or load data via the GUI
+
+7. Run the Flask Application
+Start the backend server from the project root.
+python backend/app.py
+8. Open the Application
+Once the Flask server is running, open a browser and navigate to:
+http://127.0.0.1:5000
+
+The application should now be running locally.

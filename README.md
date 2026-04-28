@@ -128,12 +128,13 @@ pip install flask mysql-connector-python pdfplumber python-dotenv bcrypt
 4. Configure Environment Variables
 Create a .env file in the project root and add the following values:
 
-DB_HOST=localhost
-DB_USER=root
+DB_HOST=localhost 
+DB_PORT=3306 
+DB_USER=root 
 DB_PASSWORD=yourpassword
+SECRET_KEY=yoursecretkey
+DB_PASSWORD=CampusSafety 
 DB_NAME=incident_reporting
-DB_PORT=3306
-SECRET_KEY=your_secret_key
 
 This file stores database connection settings and the Flask secret key used by the application.
 Sensitive values should never be hardcoded in source files or committed to version control.
